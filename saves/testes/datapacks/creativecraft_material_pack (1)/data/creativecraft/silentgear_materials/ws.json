@@ -1,0 +1,28 @@
+{
+  "availability": {
+    "tier": -1,
+    "visible": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:winsdom_sight_ingot"
+    }
+  },
+  "name": {
+    "text": "olhar de sabedoria"
+  },
+  "stats": {
+    "main": {
+      "durability": 100,
+      "melee_damage": -100
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      }
+    ]
+  }
+}

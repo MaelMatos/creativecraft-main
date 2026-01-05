@@ -1,0 +1,16 @@
+{
+	id: "bac2d921-2dae-45d1-9fc9-d890fcf25a99"
+	type: "player"
+	player_name: "Mael_Matos"
+	ranks: {
+		bac2d921-2dae-45d1-9fc9-d890fcf25a99: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mael_Matos"
+		"ftbteams:color": "#59FFB7"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

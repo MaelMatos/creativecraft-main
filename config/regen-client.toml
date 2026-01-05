@@ -1,0 +1,18 @@
+
+#Client
+[client]
+	#Disabling this will disable skin changing for you and you will retain your Mojang one
+	changeMySkin = true
+	#Toggle Regeneration visual Shaders on and off
+	shaders = true
+	#Changes the players perspective on regeneration
+	changePerspective = true
+	#Toggle whether Timelords second head layers render, as some look good without and some look good with, I just leave this decision up to you
+	timelordRenderSecondLayers = true
+	#Toggle whether re-skinned hearts render when you have Regenerations
+	heartIcons = true
+	#Toggle whether a bunch of trending skins are downloaded from NameMC
+	downloadTrendingSkins = true
+	#Toggle whether the mod downloads it's own pack of Doctor who Skins
+	downloadInternalSkins = true
+

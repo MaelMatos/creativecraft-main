@@ -1,0 +1,2104 @@
+{
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_chestplate": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alfheim_portal": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_infusion": {
+    "criteria": {
+      "has_gold": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/netherite_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/starfield": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluid_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slime_bottle": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/open_bucket": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "constructionwand:recipes/tools/iron_wand": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/monocle": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/track_mine": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_pickaxe": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/weapontable/crossbow_arrow_silver_bolt": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/controller_ingots_uranium": {
+    "criteria": {
+      "has_item2": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_shears": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_shovel": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/modules/module_core": {
+    "criteria": {
+      "has_ingot_draconium": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_repair_kit": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thunder_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/awakened_draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_hoe": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/harming_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/challengeticket": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/sextant": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_block": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_block": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/aura_ring_greater": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/salvager": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/terrasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "lightning": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_hoe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elven_spreader": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "cb_microblock:recipes/tools/iron_saw": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_silver_chest": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/security_camera": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/copper_to_silver_chest_upgrade": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/blood_altar": {
+    "criteria": {
+      "has_gold": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "trashcans:trash_can": {
+    "criteria": {
+      "has_liquid_trash_can": "2026-01-02 19:54:51 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_sword": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/silver_gold_chest": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_boots": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_leggings": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/forest_eye": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_infused_iron_ingot": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_pickaxe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/grave_cage": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/copper_iron_chest": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_tripwire": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/elementium_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_boots": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_helmet": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/text_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_tool_set": {
+    "criteria": {
+      "ingredien2": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/storage_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bauble_box": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_pants": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_goggles": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/item_med_chair": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_gold": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/manabuffer": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gaia_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/mana_collector": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_firework": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/material_grader": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_repair_kit": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredien3": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "trashcans:ultimate_trash_can": {
+    "criteria": {
+      "has_ultimate_trash_can": "2026-01-02 19:51:04 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/ironwood_armor_set": {
+    "criteria": {
+      "ingredien2": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_infused_enhanced_iron_ingot": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_pedestal": {
+    "criteria": {
+      "has_gold": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": false
+  },
+  "werewolves:recipes/werewolves/silver_sword": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thorn_chakram": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terraform_rod": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/silver_axe": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/button_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_mirror": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/alchemical_cauldron": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conjuration_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_shovel": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/natura_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/iron_rod": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_axe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "creative": "2026-01-02 13:01:32 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/rechiseled/chisel": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_normal": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_pick": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "has_the_recipe": "2026-01-02 13:15:59 -0200",
+      "recipe_condition": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_chestplate": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_ingot": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/basic/fuelrod_ingots_uranium": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/candelabra": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/plate_leggings": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_boots": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/crafter2": {
+    "criteria": {
+      "crafter1": "2026-01-02 20:28:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mining_ring": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredien3": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:mythicbotany/root": {
+    "criteria": {
+      "inventory_changed": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_tool_set": {
+    "criteria": {
+      "ingredien3": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/natureorb": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pump": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark_changer": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_flare": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_redirect": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-12-20 04:25:26 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_tip": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_normal": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/blood_container": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_axe": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/rune_holder": {
+    "criteria": {
+      "has_item0": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "4": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.reactor/reactor/reinforced/controller_ingots_uranium": {
+    "criteria": {
+      "has_item2": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-12-20 04:24:24 -0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "bigreactors:recipes/bigreactors.general/reprocessor/casing": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/swap_ring": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "armor": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card_def": {
+    "criteria": {
+      "iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "ingredien3": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tools/modifiers/silky_cloth": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/blaze_gold_dust": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energy_module": {
+    "criteria": {
+      "ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_silver_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_iron_chest_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/vampirism/alchemy_table/silver_oil_2": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/hellforged_block": {
+    "criteria": {
+      "has_hellforged": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "werewolves:recipes/vampirism/alchemy_table/silver_oil_1": {
+    "criteria": {
+      "has_silver_ingot": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_sword": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/iron_silver_chest": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.blocks/compress/awakened_draconium_block": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:blaze_gold": {
+    "criteria": {
+      "get_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/smartwrench": {
+    "criteria": {
+      "iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/drum_gathering": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/components/draconium_core": {
+    "criteria": {
+      "has_draconium": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/reach_ring": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2026-01-02 20:36:48 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_ring_greater": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/armor/building/travelers_boots": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/star_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/azure_electrum_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/tyrian_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/weapon_table": {
+    "criteria": {
+      "has_iron_ingot": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.blocks/compress/draconium_block": {
+    "criteria": {
+      "has_ingot_draconium": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
+    "criteria": {
+      "iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_helmet": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/sturdy_repair_kit": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/travel_belt": {
+    "criteria": {
+      "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2026-01-02 13:15:59 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2026-01-02 20:33:53 -0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2026-01-02 13:15:58 -0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

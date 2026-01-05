@@ -1,0 +1,885 @@
+{
+  "botania:recipes/botania/alfheim_portal": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_boots": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thorn_chakram": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-10-09 17:45:39 -0300"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_pick_smithing": {
+    "criteria": {
+      "alfsteel_pick_criteria": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/starfield": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2025-10-09 17:39:27 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terraform_rod": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/magnet_ring": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_shovel": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slime_bottle": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_axe_smithing": {
+    "criteria": {
+      "alfsteel_axe_criteria": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/open_bucket": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_fluxfield": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_mirror": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_pick": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-10-09 17:56:49 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/monocle": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_aura_ring_smithing": {
+    "criteria": {
+      "alfsteel_aura_ring_criteria": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_shears": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conjuration_catalyst": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/cobalt_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-10-09 17:47:05 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_shovel": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_distributor": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/natura_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_shears": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/modules/module_core": {
+    "criteria": {
+      "has_ingot_draconium": "2025-10-27 17:23:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_axe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_axe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/awakened_draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2025-10-27 17:24:04 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/thunder_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/challengeticket": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:52 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_pick": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/sextant": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_block": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_block": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2025-10-10 06:40:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lava_pendant": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_chestplate": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_boots": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/aura_ring_greater": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/terrasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "fire": "2025-10-27 17:25:02 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mining_ring": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_hoe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elven_spreader": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_tool_set": {
+    "criteria": {
+      "ingredien3": "2025-10-27 17:26:56 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2025-10-09 17:40:52 -0300"
+    },
+    "done": true
+  },
+  "mythicbotany:mythicbotany/root": {
+    "criteria": {
+      "inventory_changed": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:main/runic_altar_pickup": {
+    "criteria": {
+      "lexicon": "2025-10-09 17:46:17 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_sword": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/natureorb": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/pump": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/spark_changer": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone": {
+    "criteria": {
+      "has_broken_bone": "2025-10-10 06:40:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_flare": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_redirect": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-10-09 17:40:25 -0300"
+    },
+    "done": true
+  },
+  "botania:main/terrasteel_pickup": {
+    "criteria": {
+      "terrasteel": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_normal": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2025-10-09 17:48:11 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_axe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_sword": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/obedience_stick": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_boots": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_leggings": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/forest_eye": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "4": "2025-10-27 17:26:56 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-10-09 17:39:27 -0300"
+    },
+    "done": false
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/swap_ring": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_tripwire": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/elementium_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/ice_pendant": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_sword_smithing": {
+    "criteria": {
+      "alfsteel_sword_criteria": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bauble_box": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/hellforged_block": {
+    "criteria": {
+      "has_hellforged": "2025-10-27 17:23:40 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terrasteel_leggings": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_sword": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.blocks/compress/awakened_draconium_block": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2025-10-27 17:24:04 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/mana_collector": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:52 -0200"
+    },
+    "done": true
+  },
+  "extrabotany:recipes/extrabotany/manabuffer": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:52 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/conversions/manasteel_block_deconstruct": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/gaia_pylon": {
+    "criteria": {
+      "has_alt_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_block": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/drum_gathering": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/lens_firework": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/components/draconium_core": {
+    "criteria": {
+      "has_draconium": "2025-10-27 17:23:58 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2025-10-09 17:39:26 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/reach_ring": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/knightmetal_armor_set": {
+    "criteria": {
+      "ingredien3": "2025-10-27 17:26:56 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_ring_greater": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2025-10-10 06:40:52 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "4": "2025-10-27 17:26:56 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/star_sword": {
+    "criteria": {
+      "has_terrasteel": "2025-10-27 17:23:45 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dodge_ring": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/knockback_belt": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.blocks/compress/draconium_block": {
+    "criteria": {
+      "has_ingot_draconium": "2025-10-27 17:23:59 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_hoe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium": "2025-10-27 17:23:58 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/manasteel_helmet": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:44 -0200"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/powerful_earth_shard_from_earth_shards": {
+    "criteria": {
+      "has_earth_shard": "2025-10-10 06:40:52 -0300"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/elementium_helmet": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/travel_belt": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/glass_pickaxe": {
+    "criteria": {
+      "has_item": "2025-10-27 17:23:43 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/alfsteel_mana_ring_smithing": {
+    "criteria": {
+      "alfsteel_mana_ring_criteria": "2025-10-27 17:23:46 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2025-10-09 17:43:08 -0300"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

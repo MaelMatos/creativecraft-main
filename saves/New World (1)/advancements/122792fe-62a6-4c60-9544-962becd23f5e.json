@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "allthemodium:uaalloy_ingot": {
+    "criteria": {
+      "requirement": "2026-01-08 14:41:30 -0200"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/iron_wand": {
     "criteria": {
       "has_item": "2026-01-02 13:15:59 -0200"
@@ -281,9 +287,21 @@
     },
     "done": true
   },
+  "bloodmagic:recipes/bloodmagictab/smelting/ingot_hellforged": {
+    "criteria": {
+      "has_hellforged_dust": "2026-01-07 15:04:26 -0200"
+    },
+    "done": true
+  },
   "draconicevolution:recipes/draconicevolution.items/modules/module_core": {
     "criteria": {
       "has_ingot_draconium": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-01-07 15:07:43 -0200"
     },
     "done": true
   },
@@ -458,6 +476,12 @@
   "botania:recipes/botania/aura_ring_greater": {
     "criteria": {
       "has_item": "2025-12-20 04:24:23 -0200"
+    },
+    "done": true
+  },
+  "bloodmagic:recipes/bloodmagictab/blood_rune_speed": {
+    "criteria": {
+      "has_blank_rune": "2026-01-07 15:06:37 -0200"
     },
     "done": true
   },
@@ -773,6 +797,12 @@
     },
     "done": true
   },
+  "allthemodium:uvalloy_ingot": {
+    "criteria": {
+      "requirement": "2026-01-08 14:41:45 -0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2025-12-20 04:24:23 -0200"
@@ -814,6 +844,12 @@
       "has_item": "2025-12-20 04:24:23 -0200"
     },
     "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_chest": "2026-01-07 15:07:43 -0200"
+    },
+    "done": false
   },
   "farmersdelight:main/root": {
     "criteria": {

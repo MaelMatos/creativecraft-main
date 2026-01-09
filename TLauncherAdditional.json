@@ -16880,6 +16880,278 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 229049,
+          "name": "Project Red - Exploration",
+          "author": "Mr_TJP",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/project-red-exploration",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 25,
+              "name": "redstone",
+              "shortName": "redstone",
+              "nesting": 0
+            },
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            }
+          ],
+          "picture": 1011975,
+          "pictures": [],
+          "lanName": "project-red-world",
+          "version": {
+            "id": 4607541,
+            "name": "ProjectRed-1.16.5-4.15.0-exploration",
+            "updateDate": 1687623420000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "255372f90d640ecd4edcec01da505687c91c3d84",
+              "size": 395852,
+              "path": "mods/ProjectRed-1.16.5-4.15.0-exploration.jar",
+              "url": "/mods/229049/4607541/ProjectRed-1.16.5-4.15.0-exploration.jar"
+            },
+            "installed": 909,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 103,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 256,
+              "name": "Project Red - Core",
+              "gameEntityId": 228702,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 136,
+              "name": "CodeChicken Lib 1.8.+",
+              "gameEntityId": 242818,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 248,
+              "name": "CB Multipart",
+              "gameEntityId": 258426,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1755118800000,
+          "update": 1755118800000,
+          "downloadALL": 64661,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 415034,
+          "name": "Dragon Gear",
+          "author": "partonetrain",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dragon-gear",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 13,
+              "name": "world_mobs",
+              "shortName": "mobs",
+              "nesting": 0
+            }
+          ],
+          "picture": 197956,
+          "pictures": [],
+          "lanName": "dragon-gear",
+          "version": {
+            "id": 3393068,
+            "name": "iafgear-1.16.5-1.0.4",
+            "updateDate": 1626590518000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "59d1a152542cf2824b32bf5b6c8f6d4401c5370a",
+              "size": 120827,
+              "path": "mods/iafgear-1.16.5-1.0.4.jar",
+              "url": "/mods/415034/3393068/iafgear-1.16.5-1.0.4.jar"
+            },
+            "installed": 29916,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 25,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 103,
+              "name": "Silent Gear",
+              "gameEntityId": 297039,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 764,
+              "name": "Ice and Fire Dragons",
+              "gameEntityId": 264231,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1626590460000,
+          "update": 1626590460000,
+          "downloadALL": 34906,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 374087,
+          "name": "Mana Gear",
+          "author": "partonetrain",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/mana-gear",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            },
+            {
+              "id": 26,
+              "name": "mc_addons",
+              "shortName": "addons",
+              "nesting": 0
+            }
+          ],
+          "picture": 845240,
+          "pictures": [
+            152467
+          ],
+          "lanName": "mana-gear",
+          "version": {
+            "id": 3143731,
+            "name": "managear-1.16.3-2.2.3",
+            "updateDate": 1608432409000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              }
+            ],
+            "metadata": {
+              "sha1": "485f05a0aaf0601bec9f619d2dcf12d9f96cb1b9",
+              "size": 18497,
+              "path": "mods/managear-1.16.3-2.2.3.jar",
+              "url": "/mods/374087/3143731/managear-1.16.3-2.2.3.jar"
+            },
+            "installed": 2512,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 8,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 35,
+            "name": "1.18.2"
+          },
+          "updated": 1658869200000,
+          "update": 1658869200000,
+          "downloadALL": 4880,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],

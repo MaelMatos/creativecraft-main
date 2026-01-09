@@ -123,68 +123,6 @@ onEvent('recipes', event => {
     T: 'elementalcraft:tank' // <-- Supondo que o item do meio seja um tanque comum, ajuste se for outro
   })
 
-  // Receita do Creative Mana Jar
-  event.shaped('ars_nouveau:creative_mana_jar', [
-    'SMN',
-    'WCN',
-    '   '
-  ], {
-    S: 'ars_nouveau:mana_jar',
-    M: 'mekanism:pellet_antimatter',
-    N: 'minecraft:nether_star',
-    W: 'ars_nouveau:wilden_tribute',
-    C: 'mysticalagradditions:creative_essence'
-  })
-
-  // Receita do Creative Spell Book
-  event.shaped('ars_nouveau:creative_spell_book', [
-    'CAS',
-    'W  ',
-    '   '
-  ], {
-    C: 'mysticalagradditions:creative_essence',
-    A: 'ars_nouveau:archmage_spell_book',
-    S: 'ars_nouveau:creative_mana_jar',
-    W: 'ars_nouveau:wilden_tribute'
-  })
-
-  event.shaped('botania:creative_pool', [
-    'FJF',
-    ' C ',
-    '   '
-  ], {
-    F: 'botania:fabulous_pool',
-    J: 'ars_nouveau:creative_mana_jar',
-    C: 'mysticalagradditions:creative_essence'
-  })
-
-  // Tanque de fluido criativo
-  event.shaped('mekanism:creative_fluid_tank', [
-    'ACA',
-    'JLM',
-    'ACA'
-  ], {
-    A: 'mekanism:pellet_antimatter',
-    C: 'mysticalagradditions:creative_essence',
-    J: 'ars_nouveau:creative_mana_jar',
-    L: 'mekanism:ultimate_fluid_tank',
-    M: 'botania:creative_pool'
-  })
-
-  // Tanque de gás criativo
-  event.shaped('mekanism:creative_chemical_tank', [
-    'ACA',
-    'JGM',
-    'ACA'
-  ], {
-    A: 'mekanism:pellet_antimatter',
-    C: 'mysticalagradditions:creative_essence',
-    J: 'ars_nouveau:creative_mana_jar',
-    G: 'mekanism:ultimate_chemical_tank',
-    M: 'botania:creative_pool'
-  })
-
-
   // Remove a receita original
   event.remove({ output: 'bessererteleporter:teleporter' })
 
@@ -242,18 +180,6 @@ onEvent('recipes', event => {
   //todo Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')Item.of('tconstruct:creative_slot', '{slot:"souls"}')
   //todo Item.of('mekanism:creative_fluid_tank', '{mekData:{FluidTanks:[{Tank:0b,stored:{FluidName:"allthemodium:molten_bluelava",Amount:2147483647}}]}}')
   //todo 
-  // Cubo de energia criativo (cheio)
-  event.shaped(Item.of('mekanism:creative_energy_cube', '{mekData:{EnergyContainers:[{Container:0b,stored:"18446744073709551615.9999"}]}}'), [
-    'ACA',
-    'JEM',
-    'ACA'
-  ], {
-    A: 'mekanism:pellet_antimatter',
-    C: 'mysticalagradditions:creative_essence',
-    J: 'ars_nouveau:creative_mana_jar',
-    E: 'mekanism:ultimate_energy_cube',
-    M: 'botania:creative_pool'
-  })
 
   // Mana Tablet criativa (cheia)
   event.shaped(Item.of('botania:mana_tablet', '{mana:500000,creative:1b}'), [

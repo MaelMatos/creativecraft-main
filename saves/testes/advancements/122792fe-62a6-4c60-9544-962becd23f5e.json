@@ -17,21 +17,21 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+  "botania:recipes/botania/shimmerrock": {
     "criteria": {
-      "has_smelting_upgrade": "2026-01-04 15:11:54 -0200"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/root": {
-    "criteria": {
-      "tick": "2026-01-04 15:11:54 -0200"
+      "has_alt_item": "2026-01-08 23:56:48 -0200"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2026-01-04 15:11:53 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/awakened_draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2026-01-08 23:56:48 -0200"
     },
     "done": true
   },
@@ -47,9 +47,9 @@
     },
     "done": true
   },
-  "apotheosis:give_book": {
+  "draconicevolution:recipes/draconicevolution.blocks/compress/awakened_draconium_block": {
     "criteria": {
-      "tick": "2026-01-04 15:11:54 -0200"
+      "has_ingot_draconium_awakened": "2026-01-08 23:56:48 -0200"
     },
     "done": true
   },
@@ -59,15 +59,15 @@
     },
     "done": true
   },
-  "astralsorcery:root": {
+  "botania:recipes/botania/fabulous_pool_upgrade": {
     "criteria": {
-      "astralsorcery_present": "2026-01-04 15:11:54 -0200"
+      "has_alt_item": "2026-01-08 23:56:48 -0200"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+  "astralsorcery:root": {
     "criteria": {
-      "has_upgrade_base": "2026-01-04 15:11:53 -0200"
+      "astralsorcery_present": "2026-01-04 15:11:54 -0200"
     },
     "done": true
   },
@@ -83,6 +83,54 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-01-04 15:11:54 -0200"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-01-04 15:11:54 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-01-04 15:11:54 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-08 23:56:48 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/shimmerwood_planks": {
+    "criteria": {
+      "has_alt_item": "2026-01-08 23:56:48 -0200"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-01-04 15:11:54 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bifrost_perm": {
+    "criteria": {
+      "has_item": "2026-01-08 23:56:48 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-04 15:11:53 -0200"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
     "criteria": {
       "has_auto_smelting_upgrade": "2026-01-04 15:11:53 -0200"
@@ -95,11 +143,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "botania:recipes/botania/fabulous_pool": {
     "criteria": {
-      "minecraft:plains": "2026-01-04 15:11:54 -0200"
+      "has_alt_item": "2026-01-08 23:56:48 -0200"
     },
-    "done": false
+    "done": true
   },
   "DataVersion": 2586
 }

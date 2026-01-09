@@ -43,7 +43,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -130,10 +130,10 @@ key_key.silentgear.displayConstruction:key.keyboard.left.alt
 key_key.silentgear.openItem:key.keyboard.x
 key_key.control:key.keyboard.left.control
 key_key.curios.open.desc:key.keyboard.unknown
-key_key.botania_corporea_request:key.keyboard.unknown
 key_key.invtweaks_sort_player.desc:key.keyboard.unknown
 key_key.invtweaks_sort_inventory.desc:key.keyboard.unknown
 key_key.invtweaks_sort_either.desc:key.keyboard.unknown
+key_key.botania_corporea_request:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_focus_search:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_open_rename:key.keyboard.unknown
 key_Force Regeneration:key.keyboard.y
@@ -161,11 +161,6 @@ key_keys.vampirism.action2:key.keyboard.2:ALT
 key_keys.vampirism.action3:key.keyboard.3:ALT
 key_keys.vampirism.minion_task:key.keyboard.unknown
 key_key.astralsorcery.disable_perk_abilities:key.keyboard.unknown
-key_key.securitycraft.cameraZoomIn:key.keyboard.unknown
-key_key.securitycraft.cameraZoomOut:key.keyboard.unknown
-key_key.securitycraft.cameraEmitRedstone:key.keyboard.unknown
-key_key.securitycraft.cameraActivateNightVision:key.keyboard.unknown
-key_key.securitycraft.setDefaultViewingDirection:key.keyboard.unknown
 key_key.relics.hud_up:key.keyboard.unknown
 key_key.relics.hud_down:key.keyboard.unknown
 key_key.relics.hud_first:key.keyboard.unknown
@@ -173,6 +168,11 @@ key_key.relics.hud_second:key.keyboard.unknown
 key_key.relics.hud_third:key.keyboard.unknown
 key_key.relics.hud_fourth:key.keyboard.unknown
 key_key.relics.hud_fifth:key.keyboard.unknown
+key_key.securitycraft.cameraZoomIn:key.keyboard.unknown
+key_key.securitycraft.cameraZoomOut:key.keyboard.unknown
+key_key.securitycraft.cameraEmitRedstone:key.keyboard.unknown
+key_key.securitycraft.cameraActivateNightVision:key.keyboard.unknown
+key_key.securitycraft.setDefaultViewingDirection:key.keyboard.unknown
 key_oreexcavation.key.excavate:key.keyboard.left.shift
 key_oreexcavation.key.shape_toggle:key.keyboard.unknown
 key_oreexcavation.key.shape_edit:key.keyboard.unknown
@@ -197,16 +197,16 @@ key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
+key_keys.werewolves.leap:key.keyboard.space:CONTROL
+key_keys.werewolves.bite:key.keyboard.v
 key_key.ars_nouveau.open_book:key.keyboard.unknown
 key_key.ars_nouveau.selection_hud:key.keyboard.unknown
 key_key.ars_nouveau.previous_slot:key.keyboard.unknown
 key_key.ars_nouveau.next_slot:key.keyboard.unknown
 key_key.toggle_focus.desc:key.keyboard.tab
-key_keys.werewolves.leap:key.keyboard.space:CONTROL
-key_keys.werewolves.bite:key.keyboard.v
+key_key.openManual:key.keyboard.unknown
 key_key.nextDestination:key.keyboard.unknown
 key_key.prevDestination:key.keyboard.unknown
-key_key.openManual:key.keyboard.unknown
 key_key.cofh.mode_change_increment:key.keyboard.unknown
 key_key.cofh.mode_change_decrement:key.keyboard.unknown
 key_bloodmagic.keybind.open_holding:key.keyboard.unknown

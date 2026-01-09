@@ -1,6 +1,6 @@
 # Traits
 
-Generated in-game by `sgear_traits dump_md` command on 2026/01/08 13:57:16
+Generated in-game by `sgear_traits dump_md` command on 2026/01/09 21:29:00
 
 This data may or may not be accurate depending on the mod pack you are playing and the mods or data packs installed.
 
@@ -10,6 +10,8 @@ The following mods and data packs have added traits to the output. Running the d
 
 - Silent Gear (silentgear) 2.6.36
 - Silent's Gems 3 (silentgems) 3.7.16
+- DragonGear (iafgear) 1.16.5-1.0.4
+- Mana Gear (managear) 1.16.3-2.2.3
 
 ## Trait Types
 
@@ -19,24 +21,31 @@ Code for traits and their serializers can be found in `net.silentchaos512.gear.g
 Note that "simple" traits are often used where custom code is required.
 They are not especially useful when just defined by a data pack.
 
-- `silentgear:bonus_drops` _(net.silentchaos512.gear.gear.trait.BonusDropsTrait)_
-- `silentgear:stat_modifier_trait` _(net.silentchaos512.gear.gear.trait.StatModifierTrait)_
-- `silentgems:runic` _(net.silentchaos512.gems.trait.RunicTrait)_
 - `silentgear:nbt_trait` _(net.silentchaos512.gear.gear.trait.NBTTrait)_
-- `silentgear:target_effect` _(net.silentchaos512.gear.gear.trait.TargetEffectTrait)_
-- `silentgear:self_repair` _(net.silentchaos512.gear.gear.trait.SelfRepairTrait)_
-- `silentgear:attribute_trait` _(net.silentchaos512.gear.gear.trait.AttributeTrait)_
+- `managear:mana` _(info.partonetrain.managear.trait.ManaTrait)_
+- `iafgear:myrmex_damage_trait` _(info.partonetrain.iafgear.trait.MyrmexDamageTrait)_
 - `silentgear:cancel_effects` _(net.silentchaos512.gear.gear.trait.CancelEffectsTrait)_
 - `silentgear:damage_type_trait` _(net.silentchaos512.gear.gear.trait.DamageTypeTrait)_
-- `silentgear:potion_effect_trait` _(net.silentchaos512.gear.gear.trait.PotionEffectTrait)_
 - `silentgear:block_filler` _(net.silentchaos512.gear.gear.trait.BlockFillerTrait)_
-- `silentgear:synergy` _(net.silentchaos512.gear.gear.trait.SynergyTrait)_
+- `iafgear:phantasmal_trait` _(info.partonetrain.iafgear.trait.PhantasmalTrait)_
 - `silentgems:persistence` _(net.silentchaos512.gems.trait.PersistenceTrait)_
 - `silentgear:durability_trait` _(net.silentchaos512.gear.gear.trait.DurabilityTrait)_
+- `iafgear:tide_guardian_trait` _(info.partonetrain.iafgear.trait.TideGuardianTrait)_
+- `silentgear:stellar` _(net.silentchaos512.gear.gear.trait.StellarTrait)_
+- `silentgear:bonus_drops` _(net.silentchaos512.gear.gear.trait.BonusDropsTrait)_
+- `silentgear:stat_modifier_trait` _(net.silentchaos512.gear.gear.trait.StatModifierTrait)_
+- `iafgear:defense_trait` _(info.partonetrain.iafgear.trait.DefenseTrait)_
+- `silentgems:runic` _(net.silentchaos512.gems.trait.RunicTrait)_
+- `silentgear:target_effect` _(net.silentchaos512.gear.gear.trait.TargetEffectTrait)_
+- `silentgear:self_repair` _(net.silentchaos512.gear.gear.trait.SelfRepairTrait)_
+- `iafgear:dragon_damage_trait` _(info.partonetrain.iafgear.trait.DragonDamageTrait)_
+- `silentgear:attribute_trait` _(net.silentchaos512.gear.gear.trait.AttributeTrait)_
+- `managear:manaburst` _(info.partonetrain.managear.trait.ManaBurstTrait)_
+- `silentgear:potion_effect_trait` _(net.silentchaos512.gear.gear.trait.PotionEffectTrait)_
+- `silentgear:synergy` _(net.silentchaos512.gear.gear.trait.SynergyTrait)_
 - `silentgear:enchantment_trait` _(net.silentchaos512.gear.gear.trait.EnchantmentTrait)_
 - `silentgear:simple_trait` _(net.silentchaos512.gear.gear.trait.SimpleTrait)_
 - `silentgear:block_placer` _(net.silentchaos512.gear.gear.trait.BlockPlacerTrait)_
-- `silentgear:stellar` _(net.silentchaos512.gear.gear.trait.StellarTrait)_
 
 ## List of Traits
 ### [Accelerate](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/accelerate.json)
@@ -48,8 +57,8 @@ They are not especially useful when just defined by a data pack.
 - Type: `silentgear:stat_modifier_trait`
 - Max Level: 5
 - Extra Info:
-  - Harvest Speed: 2.0 * level * damage
   - Attack Speed: 0.01 * level * damage
+  - Harvest Speed: 2.0 * level * damage
   - Ranged Speed: 0.01 * level * damage
 
 ### [Adamant](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/adamant.json)
@@ -145,7 +154,7 @@ They are not especially useful when just defined by a data pack.
 ### [Brilliant](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/brilliant.json)
 - Shiny! Piglin like.
 - Found On:
-  - Materials: **Allthemodium** _(Main)_, **Blaze Gold** _(Coating, Main)_, **Chaos Gold** _(Main)_, **Gold** _(Coating, Main)_, **Swift Alloy** _(Main)_, **Unobtainium** _(Main)_, **Unobtainium - Allthemodium Alloy** _(Main)_, **Unobtainium - Vibranium Alloy** _(Main)_, **Vibranium** _(Main)_, **Vibranium - Allthemodium Alloy** _(Main)_
+  - Materials: **Allthemodium** _(Main)_, **Blaze Gold** _(Coating, Main)_, **Chaos Gold** _(Main)_, **Gold** _(Coating, Main)_, **Swift Alloy** _(Main)_, **Terrasteel** _(Main)_, **Unobtainium** _(Main)_, **Unobtainium - Allthemodium Alloy** _(Main)_, **Unobtainium - Vibranium Alloy** _(Main)_, **Vibranium** _(Main)_, **Vibranium - Allthemodium Alloy** _(Main)_
 - ID: `silentgear:brilliant`
 - Type: `silentgear:simple_trait`
 - Max Level: 1
@@ -200,7 +209,7 @@ They are not especially useful when just defined by a data pack.
 ### [Chipping](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/chipping.json)
 - Reduces armor or increases harvest speed as gear is damaged
 - Found On:
-  - Materials: **Basalt** _(Main, Tool Rod)_, **Benitoite** _(Main)_, **Bone** _(Main)_, **Hardened End Stone** _(Main)_, **Hardened Netherrack** _(Main)_, **Hardened Stone** _(Main)_, **Heliodor** _(Main)_, **Morganite** _(Main)_, **Obsidian** _(Tool Rod)_, **Quartz** _(Tip Upgrade)_, **Rose Quartz** _(Main)_, **Terracotta** _(Main)_
+  - Materials: **Basalt** _(Main, Tool Rod)_, **Benitoite** _(Main)_, **Bone** _(Main)_, **Dragon Bone** _(Main)_, **Hardened End Stone** _(Main)_, **Hardened Netherrack** _(Main)_, **Hardened Stone** _(Main)_, **Heliodor** _(Main)_, **Morganite** _(Main)_, **Obsidian** _(Tool Rod)_, **Quartz** _(Tip Upgrade)_, **Rose Quartz** _(Main)_, **Terracotta** _(Main)_
 - ID: `silentgear:chipping`
 - Type: `silentgear:stat_modifier_trait`
 - Max Level: 5
@@ -313,6 +322,60 @@ They are not especially useful when just defined by a data pack.
   - all
     - minecraft:generic.luck: ADDITION [-0.5, -1.0, -1.5, -2.0, -3.0, -4.0, -5.0]
 
+### Diver
+- Grants Water Breathing
+- Found On:
+  - Materials: **Serpent Scales** _(Main)_
+- ID: `iafgear:diver`
+- Type: `silentgear:potion_effect_trait`
+- Max Level: 1
+- Extra Info:
+  - armor
+    - Water Breathing: [1] (by trait level)
+
+### Dragon Defense
+- Increased protection from dragon breath attacks
+- Found On:
+  - Materials: **Dragon Scales** _(Main)_
+- ID: `iafgear:dragon_defense`
+- Type: `iafgear:defense_trait`
+- Max Level: 1
+- Extra Info:
+Prevents % amount of damage for the given damage type. Head: 10%, Chest: 30%, Legs: 20%, Feet: 10%
+
+### Dragonfire
+- Deals more damage to Ice Dragons
+- Found On:
+  - Materials: **Fire Blood** _(Coating)_
+- ID: `iafgear:dragondamage_fire`
+- Type: `iafgear:dragon_damage_trait`
+- Max Level: 1
+- Cancels With: `iafgear:dragondamage_ice`, `iafgear:dragondamage_lightning`
+- Extra Info:
+Sets fire to target for 15 seconds and deals 13.5 damage to Ice Dragons
+
+### Dragonfreeze
+- Deals more damage to Fire Dragons
+- Found On:
+  - Materials: **Ice Blood** _(Coating)_
+- ID: `iafgear:dragondamage_ice`
+- Type: `iafgear:dragon_damage_trait`
+- Max Level: 1
+- Cancels With: `iafgear:dragondamage_lightning`, `iafgear:dragondamage_fire`
+- Extra Info:
+Freezes target for 300 seconds and deals 13.5 damage to Fire Dragons
+
+### Dragonlightning
+- Deals more damage to both Ice Dragons and Fire Dragons
+- Found On:
+  - Materials: **Lightning Blood** _(Coating)_
+- ID: `iafgear:dragondamage_lightning`
+- Type: `iafgear:dragon_damage_trait`
+- Max Level: 1
+- Cancels With: `iafgear:dragondamage_ice`, `iafgear:dragondamage_fire`
+- Extra Info:
+Strikes target with lightning and deals 9.5 damage to Fire or Ice Dragons
+
 ### Entropy
 - Increases block breaking speed based on chaos levels
 - Found On:
@@ -393,7 +456,7 @@ They are not especially useful when just defined by a data pack.
 ### [Flexible](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/flexible.json)
 - Gear occasionally takes less damage (cancels with Brittle)
 - Found On:
-  - Materials: **Air Silk** _(Binding, Bowstring)_, **Azure Electrum** _(Tool Rod)_, **Azure Silver** _(Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Blaze Rod** _(Tool Rod)_, **Bone** _(Tool Rod)_, **End Rod** _(Tool Rod)_, **Fine Silk** _(Bowstring)_, **Fine Silk Cloth** _(Lining)_, **Flax** _(Binding)_, **Fluffy String** _(Binding)_, **Gilded String** _(Binding, Bowstring)_, **Leather** _(Grip, Lining)_, **Netherrack** _(Main, Tool Rod)_, **Netherwood** _(Main, Tool Rod)_, **Signalum** _(Main, Tool Rod)_, **Sinew** _(Binding, Bowstring)_, **String** _(Binding)_, **Titanium** _(Tool Rod)_, **Wooden** _(Main, Tool Rod)_, **Wool** _(Grip, Lining)_
+  - Materials: **Air Silk** _(Binding, Bowstring)_, **Azure Electrum** _(Tool Rod)_, **Azure Silver** _(Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Blaze Rod** _(Tool Rod)_, **Bone** _(Tool Rod)_, **Deathworm Chitin** _(Main)_, **End Rod** _(Tool Rod)_, **Fine Silk** _(Bowstring)_, **Fine Silk Cloth** _(Lining)_, **Flax** _(Binding)_, **Fluffy String** _(Binding)_, **Gilded String** _(Binding, Bowstring)_, **Leather** _(Grip, Lining)_, **Netherrack** _(Main, Tool Rod)_, **Netherwood** _(Main, Tool Rod)_, **Signalum** _(Main, Tool Rod)_, **Sinew** _(Binding, Bowstring)_, **String** _(Binding)_, **Titanium** _(Tool Rod)_, **Witherbone** _(Tool Rod)_, **Wooden** _(Main, Tool Rod)_, **Wool** _(Grip, Lining)_
 - ID: `silentgear:flexible`
 - Type: `silentgear:durability_trait`
 - Max Level: 5
@@ -580,8 +643,8 @@ Something may happen if you mine certain blocks with this
 - Max Level: 5
 - Cancels With: `silentgear:eroded`
 - Extra Info:
-  - Attack Damage: 0.1667 * level * damage * value
   - Ranged Damage: -0.1667 * level * damage * value
+  - Attack Damage: 0.1667 * level * damage * value
 
 ### [Kitty Vision](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/kitty_vision.json)
 - Gives night vision on helmets and curios
@@ -692,13 +755,34 @@ Higher levels increase range
 ### [Malleable](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/malleable.json)
 - Gear sometimes takes less damage (cancels with Brittle)
 - Found On:
-  - Materials: **Allthemodium** _(Main, Tip Upgrade)_, **Aluminum** _(Main, Tool Rod)_, **Aluminum Steel** _(Main, Tool Rod)_, **Azure Electrum** _(Main, Tip Upgrade)_, **Azure Silver** _(Main, Tip Upgrade)_, **Bismuth** _(Main, Tool Rod)_, **Bismuth Brass** _(Main, Tool Rod)_, **Bismuth Steel** _(Main, Tool Rod)_, **Blaze Gold** _(Main)_, **Brass** _(Main, Tool Rod)_, **Bronze** _(Main, Tool Rod)_, **Chaos Gold** _(Main)_, **Chaos Iron** _(Main)_, **Chaos Silver** _(Main)_, **Compressed Iron** _(Main, Tool Rod)_, **Crimson Iron** _(Main, Tool Rod)_, **Crimson Steel** _(Main, Tool Rod)_, **Drenched Iron** _(Main, Tip Upgrade)_, **Electrum** _(Main)_, **Enderium** _(Main, Tool Rod)_, **Fireite** _(Tip Upgrade)_, **Gold** _(Main, Tool Rod, Tip Upgrade)_, **High-Carbon Steel (Test)** _(Main)_, **Invar** _(Main, Tool Rod)_, **Iron** _(Main, Tip Upgrade)_, **Lead** _(Main)_, **Lumium** _(Main, Tool Rod)_, **Nickel** _(Main, Tool Rod)_, **Osmium** _(Main, Tool Rod)_, **Platinum** _(Main, Tool Rod)_, **Redstone Alloy** _(Main, Tool Rod)_, **material.silentgear.refined_glowstone** _(Main, Tool Rod)_, **Refined Iron** _(Main, Tool Rod)_, **Refined Obsidian** _(Main, Tool Rod)_, **Silver** _(Main, Tool Rod)_, **Steel** _(Main, Tool Rod)_, **Swift Alloy** _(Main, Tool Rod)_, **Tin** _(Main, Tool Rod)_, **Titanium** _(Main)_, **Unobtainium** _(Main, Tip Upgrade)_, **Unobtainium - Allthemodium Alloy** _(Main, Tip Upgrade)_, **Unobtainium - Vibranium Alloy** _(Main, Tip Upgrade)_, **Uranium** _(Main, Tool Rod)_, **Vibranium** _(Main, Tip Upgrade)_, **Vibranium - Allthemodium Alloy** _(Main, Tip Upgrade)_, **Zinc** _(Main, Tool Rod)_
+  - Materials: **Allthemodium** _(Main, Tip Upgrade)_, **Aluminum** _(Main, Tool Rod)_, **Aluminum Steel** _(Main, Tool Rod)_, **Azure Electrum** _(Main, Tip Upgrade)_, **Azure Silver** _(Main, Tip Upgrade)_, **Bismuth** _(Main, Tool Rod)_, **Bismuth Brass** _(Main, Tool Rod)_, **Bismuth Steel** _(Main, Tool Rod)_, **Blaze Gold** _(Main)_, **Brass** _(Main, Tool Rod)_, **Bronze** _(Main, Tool Rod)_, **Chaos Gold** _(Main)_, **Chaos Iron** _(Main)_, **Chaos Silver** _(Main)_, **Compressed Iron** _(Main, Tool Rod)_, **Crimson Iron** _(Main, Tool Rod)_, **Crimson Steel** _(Main, Tool Rod)_, **Drenched Iron** _(Main, Tip Upgrade)_, **Electrum** _(Main)_, **Elementium** _(Main)_, **Enderium** _(Main, Tool Rod)_, **Fireite** _(Tip Upgrade)_, **Gold** _(Main, Tool Rod, Tip Upgrade)_, **High-Carbon Steel (Test)** _(Main)_, **Invar** _(Main, Tool Rod)_, **Iron** _(Main, Tip Upgrade)_, **Lead** _(Main)_, **Lumium** _(Main, Tool Rod)_, **Manasteel** _(Main)_, **Nickel** _(Main, Tool Rod)_, **Osmium** _(Main, Tool Rod)_, **Platinum** _(Main, Tool Rod)_, **Redstone Alloy** _(Main, Tool Rod)_, **material.silentgear.refined_glowstone** _(Main, Tool Rod)_, **Refined Iron** _(Main, Tool Rod)_, **Refined Obsidian** _(Main, Tool Rod)_, **Silver** _(Main, Tool Rod)_, **Steel** _(Main, Tool Rod)_, **Swift Alloy** _(Main, Tool Rod)_, **Terrasteel** _(Main)_, **Tin** _(Main, Tool Rod)_, **Titanium** _(Main)_, **Unobtainium** _(Main, Tip Upgrade)_, **Unobtainium - Allthemodium Alloy** _(Main, Tip Upgrade)_, **Unobtainium - Vibranium Alloy** _(Main, Tip Upgrade)_, **Uranium** _(Main, Tool Rod)_, **Vibranium** _(Main, Tip Upgrade)_, **Vibranium - Allthemodium Alloy** _(Main, Tip Upgrade)_, **Zinc** _(Main, Tool Rod)_
 - ID: `silentgear:malleable`
 - Type: `silentgear:durability_trait`
 - Max Level: 5
 - Cancels With: `silentgear:brittle`
 - Extra Info:
   - -1.0 damage with a 10% chance per level
+
+### Mana
+- Repairs gear with mana (higher levels use more mana)
+- Found On:
+  - Materials: **Elementium** _(Main)_, **Manasteel** _(Main, Tip Upgrade)_, **Terrasteel** _(Main)_
+- ID: `managear:mana`
+- Type: `managear:mana`
+- Max Level: 2
+- Extra Info:
+Mana I uses 60 mana per repair.
+Mana II uses 100 mana per repair.
+
+### Mana Burst
+- Fires Mana Bursts on swing
+- Found On:
+  - Materials: **Terrasteel** _(Main, Tip Upgrade)_
+- ID: `managear:manaburst`
+- Type: `managear:manaburst`
+- Max Level: 1
+- Extra Info:
+The Mana Burst is identical to that of a default, unenchanted Terra Blade. Uses 100 mana per burst.
 
 ### [Mighty](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/mighty.json)
 - Gives strength and/or haste on tools based on trait level
@@ -738,6 +822,14 @@ Higher levels increase range
   - This trait has never been coded ~~and has almost achieved meme status~~
   - Intended effect: mine multiple blocks like vein miner
 
+### Myrmexian
+- +4 damage against non-arthropods and deathworms
+- Found On:
+  - Materials: **Myrmex Chitin** _(Main)_
+- ID: `iafgear:myrmex_damage`
+- Type: `iafgear:myrmex_damage_trait`
+- Max Level: 1
+
 ### [Organic](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/organic.json)
 - Gains enchantability, but loses magic damage as the item is damaged
 - Found On:
@@ -747,8 +839,8 @@ Higher levels increase range
 - Max Level: 5
 - Cancels With: `silentgear:eroded`
 - Extra Info:
-  - Enchantability: 0.1 * level * damage * value
   - Magic Damage: -0.15 * level * damage * value
+  - Enchantability: 0.1 * level * damage * value
 
 ### Persistence
 - The item will slowly repair itself
@@ -757,6 +849,47 @@ Higher levels increase range
 - ID: `silentgems:soul/persistence`
 - Type: `silentgems:persistence`
 - Max Level: 5
+
+### Phantasmal
+- Fires a spinning sword that travels through blocks
+- Found On:
+  - Materials: **Phantasmal Ingot** _(Coating)_
+- ID: `iafgear:phantasmal`
+- Type: `iafgear:phantasmal_trait`
+- Max Level: 1
+- Extra Info:
+The projectile is identical to that of a default, unenchanted Phantasmal Sword.
+
+### Pixilate
+- Pixies may spawn when you are damaged
+- Found On:
+  - Materials: **Elementium** _(Main, Tip Upgrade)_
+- ID: `managear:pixie`
+- Type: `silentgear:attribute_trait`
+- Max Level: 1
+- Extra Info:
+  - armor/head
+    - botania:pixie_spawn_chance: ADDITION [0.11]
+  - armor/feet
+    - botania:pixie_spawn_chance: ADDITION [0.09]
+  - tool/offhand
+    - botania:pixie_spawn_chance: ADDITION [0.025]
+  - armor/legs
+    - botania:pixie_spawn_chance: ADDITION [0.15]
+  - tool/mainhand
+    - botania:pixie_spawn_chance: ADDITION [0.05]
+  - armor/chest
+    - botania:pixie_spawn_chance: ADDITION [0.17]
+
+### Projectile Defense
+- Increased protection from projectiles
+- Found On:
+  - Materials: **Troll Leather** _(Main)_
+- ID: `iafgear:projectile_defense`
+- Type: `iafgear:defense_trait`
+- Max Level: 1
+- Extra Info:
+Prevents % amount of damage for the given damage type. Head: 10%, Chest: 30%, Legs: 20%, Feet: 10%
 
 ### [Racker](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/racker.json)
 - Places netherrack at the cost of durability
@@ -972,6 +1105,18 @@ Higher levels increase range
     - Speed: [0, 1, 2, 3] (by armor piece count)
     - Jump Boost: [1, 2, 3, 4] (by armor piece count)
 
+### Stinger
+- Poisons the target for 10 seconds on hit
+- Found On:
+  - Materials: **Myrmex Stinger** _(Tip Upgrade)_
+- ID: `iafgear:stinger`
+- Type: `silentgear:target_effect`
+- Max Level: 1
+- Extra Info:
+  - tool
+    - Level 1:
+      - effect.minecraft.poison x 2, Duration: 200
+
 ### [Sturdy](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/sturdy.json)
 - Gear frequently takes less damage
 - Found On:
@@ -997,7 +1142,7 @@ Higher levels increase range
 ### [Synergistic](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/synergistic.json)
 - Gear gets a synergy bonus (if base value is more than 100%)
 - Found On:
-  - Materials: **Air Silk** _(Bowstring)_, **Aluminum** _(Main, Tool Rod)_, **Aluminum Steel** _(Main, Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Emerald** _(Main, Tool Rod, Tip Upgrade)_, **Hardened End Stone** _(Main)_, **Hardened Netherrack** _(Main)_, **Hardened Stone** _(Main)_, **Phosphophyllite** _(Main)_
+  - Materials: **Air Silk** _(Bowstring)_, **Aluminum** _(Main, Tool Rod)_, **Aluminum Steel** _(Main, Tool Rod)_, **Blaze Gold** _(Tool Rod)_, **Emerald** _(Main, Tool Rod, Tip Upgrade)_, **Hardened End Stone** _(Main)_, **Hardened Netherrack** _(Main)_, **Hardened Stone** _(Main)_, **Phosphophyllite** _(Main)_, **Terrasteel** _(Main)_
 - ID: `silentgear:synergistic`
 - Type: `silentgear:synergy`
 - Max Level: 5
@@ -1017,6 +1162,16 @@ Higher levels increase range
 - Extra Info:
   - Places: minecraft:stone
   - Durability Cost: 3
+
+### Tide Guardian
+- Grants Strength when wet
+- Found On:
+  - Materials: **Serpent Scales** _(Main)_
+- ID: `iafgear:tide_guardian`
+- Type: `iafgear:tide_guardian_trait`
+- Max Level: 1
+- Extra Info:
+When wet, gives 1 level of Strength for every gear with this trait equipped.
 
 ### [Turtle](https://github.com/SilentChaos512/Silent-Gear/tree/1.16.x/src/generated/resources/data/silentgear/silentgear_traits/turtle.json)
 - Hold your breath for longer

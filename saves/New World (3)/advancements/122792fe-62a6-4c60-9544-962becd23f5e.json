@@ -1,0 +1,405 @@
+{
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/temperance_stone": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:30 -0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/cobble_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:26 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-01-09 21:12:50 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/bellows": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:32 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-01-09 21:12:50 -0200"
+    },
+    "done": false
+  },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/fire_ring": {
+    "criteria": {
+      "has_item": "2026-01-09 21:16:24 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slingshot": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:32 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-09 21:15:37 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "botania:main/rune_pickup": {
+    "criteria": {
+      "rune": "2026-01-09 21:16:18 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_string_container": {
+    "criteria": {
+      "has_base_block": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:02 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-01-09 21:13:06 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/ice_ring": {
+    "criteria": {
+      "has_item": "2026-01-09 21:16:23 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/tornado_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:32 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.items/decompress/awakened_draconium_nugget": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2026-01-09 21:28:50 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/dirt_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:30 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/aura_ring": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:02 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "draconicevolution:recipes/draconicevolution.blocks/compress/awakened_draconium_block": {
+    "criteria": {
+      "has_ingot_draconium_awakened": "2026-01-09 21:28:50 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/exchange_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:16:49 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:mythicbotany/all_runes": {
+    "criteria": {
+      "inventory_changed13": "2026-01-09 21:17:09 -0200",
+      "inventory_changed12": "2026-01-09 21:17:15 -0200",
+      "inventory_changed11": "2026-01-09 21:16:49 -0200",
+      "inventory_changed10": "2026-01-09 21:16:41 -0200",
+      "inventory_changed17": "2026-01-09 21:16:34 -0200",
+      "inventory_changed16": "2026-01-09 21:16:47 -0200",
+      "inventory_changed15": "2026-01-09 21:17:06 -0200",
+      "inventory_changed14": "2026-01-09 21:17:28 -0200",
+      "inventory_changed19": "2026-01-09 21:16:31 -0200",
+      "inventory_changed": "2026-01-09 21:17:32 -0200",
+      "inventory_changed18": "2026-01-09 21:16:32 -0200",
+      "inventory_changed7": "2026-01-09 21:16:53 -0200",
+      "inventory_changed24": "2026-01-09 21:16:20 -0200",
+      "inventory_changed8": "2026-01-09 21:17:00 -0200",
+      "inventory_changed23": "2026-01-09 21:16:23 -0200",
+      "inventory_changed5": "2026-01-09 21:17:26 -0200",
+      "inventory_changed22": "2026-01-09 21:16:24 -0200",
+      "inventory_changed6": "2026-01-09 21:16:55 -0200",
+      "inventory_changed21": "2026-01-09 21:16:26 -0200",
+      "inventory_changed3": "2026-01-09 21:17:30 -0200",
+      "inventory_changed4": "2026-01-09 21:16:44 -0200",
+      "inventory_changed2": "2026-01-09 21:17:08 -0200",
+      "inventory_changed25": "2026-01-09 21:16:18 -0200",
+      "inventory_changed9": "2026-01-09 21:17:02 -0200",
+      "inventory_changed20": "2026-01-09 21:16:29 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/water_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:28 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2026-01-09 21:13:22 -0200"
+    },
+    "done": true
+  },
+  "mythicbotany:recipes/mythicbotany/mana_infuser": {
+    "criteria": {
+      "has_item": "2026-01-09 21:16:34 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-09 21:12:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/terra_plate": {
+    "criteria": {
+      "has_item": "2026-01-09 21:16:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/fire_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:26 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "trashcans:recipes/decorations/item_trash_can": {
+    "criteria": {
+      "recipe_condition": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/smelt_rod": {
+    "criteria": {
+      "has_item": "2026-01-09 21:17:26 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2026-01-09 21:14:49 -0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

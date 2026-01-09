@@ -1,1 +1,38 @@
-{"type": "draconicevolution:fusion_crafting","result": {"item": "draconicevolution:creative_capacitor"},"catalyst": {"item": "mekanism:creative_energy_cube"},"total_energy":0,"tier": "CHAOTIC","ingredients": [{"item": "draconicevolution:awakened_draconium_ingot"},{"item": "draconicevolution:chaotic_core"},{"item": "draconicevolution:awakened_draconium_ingot"},{"item": "draconicevolution:chaotic_energy_core"},{"item": "draconicevolution:awakened_draconium_ingot"},{"item": "draconicevolution:chaotic_energy_core"},{"item": "draconicevolution:awakened_draconium_ingot"},{"item": "draconicevolution:chaotic_energy_core"}]}
+{
+    "type": "draconicevolution:fusion_crafting",
+    "result": {
+        "item": "draconicevolution:creative_capacitor"
+    },
+    "catalyst": {
+        "item": "mekanism:creative_energy_cube",
+        "nbt": "{mekData:{EnergyContainers:[{Container:0b,stored:\"18446744073709551615.9999\"}]}}"
+    },
+    "total_energy": 0,
+    "tier": "CHAOTIC",
+    "ingredients": [
+        {
+            "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        {
+            "item": "draconicevolution:chaotic_core"
+        },
+        {
+            "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        {
+            "item": "draconicevolution:chaotic_energy_core"
+        },
+        {
+            "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        {
+            "item": "draconicevolution:chaotic_energy_core"
+        },
+        {
+            "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        {
+            "item": "draconicevolution:chaotic_energy_core"
+        }
+    ]
+}

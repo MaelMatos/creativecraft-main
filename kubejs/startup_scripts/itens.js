@@ -84,17 +84,21 @@ onEvent('block.registry', event => {
         const displayName = oreName + ' Ore';
         const tagName = oreName.toLowerCase().replace(/\s+/g, '_');
 
-        event.create(oreId)
+        const builder = event.create(oreId)
             .displayName(displayName)
             .material('stone')
             .hardness(hardness)
             .resistance(resistance)
             .tag('minecraft:mineable/' + harvestTool)
-            .harvestLevel(harvestLevel)
             .requiresTool(true)
             .tag(`forge:ores/${tagName}`)
             .tag('forge:ores')
             .texture(`kubejs:block/${oreId}`);
+
+        if (harvestLevel === 1) builder.tag('minecraft:needs_stone_tool');
+        else if (harvestLevel === 2) builder.tag('minecraft:needs_iron_tool');
+        else if (harvestLevel === 3) builder.tag('minecraft:needs_diamond_tool');
+        else if (harvestLevel >= 4) builder.tag('minecraft:needs_netherite_tool');
     }
 
     // Create ores ONLY for the oreMaterials list

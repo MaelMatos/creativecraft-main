@@ -1,25 +1,45 @@
-// kubejs/startup_scripts/items.js
-
 /**
  * Configuration for all custom materials.
  * Key: Material Name (Display Name)
  * Value: Object containing properties (heavily optional, defaults provided in createOre)
- *   - hardness: Block hardness (float)
+ * 
+ *   - hardness: Block hardness (float) - How long it takes to mine
+ *       Examples:
+ *       - 3.0: Diamond Ore
+ *       - 50.0: Obsidian, Netherite Block
+ *       - -1.0: Bedrock (Indestructible)
+ * 
  *   - resistance: Explosion resistance (float)
- *   - harvestLevel: Mining level required (0=wood, 1=stone, 2=iron, 3=diamond, 4=netherite)
+ *       Examples:
+ *       - 3.0: Diamond Ore
+ *       - 1200.0: Obsidian, Netherite Block
+ *       - 3600000.0: Bedrock
+ * 
+ *   - harvestLevel: Mining level required
+ *       - 0: Wood
+ *       - 1: Stone
+ *       - 2: Iron
+ *       - 3: Diamond
+ *       - 4: Netherite
  */
-const globalMaterials = {
-    'Winsdom Sight': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
-    'Hex Tech Steel': { hardness: 5.0, resistance: 6.0, harvestLevel: 4 },
+
+// Materials that generate both Ingots and Ores
+const oreMaterials = {
+    //'Winsdom Sight': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
     'Uru': { hardness: 50.0, resistance: 2000.0, harvestLevel: 5 }, // Very strong
     'Adamantium': { hardness: 45.0, resistance: 1500.0, harvestLevel: 5 },
-    'Athum': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
-    'MHFD': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
-    'MSSD': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
     'Katchim Katchim': { hardness: 10.0, resistance: 10.0, harvestLevel: 4 },
     'Kairoseki': { hardness: 6.0, resistance: 6.0, harvestLevel: 4 },
-    'Wapol Metal': { hardness: 5.5, resistance: 6.0, harvestLevel: 3 }
 };
+
+// Materials that ONLY generate Ingots (no ores)
+const ingotOnlyMaterials = [
+    'MSSD',
+    'MHFD',
+    'Hex Tech Steel',
+    'Athum',
+    'Wapol Metal'
+];
 
 onEvent('item.registry', event => {
     // Function to create ingots automatically
@@ -39,12 +59,15 @@ onEvent('item.registry', event => {
         .displayName('Deidic Essence Extractor')
         .texture('kubejs:item/deidic_essence_extractor');
 
-    // Create all ingots using the names from the global configuration
-    Object.keys(globalMaterials).forEach(ingotName => {
+    // Create ingots for Ore Materials
+    Object.keys(oreMaterials).forEach(ingotName => {
         createIngot(ingotName);
     });
 
-    // Examples...
+    // Create ingots for Ingot-Only Materials
+    ingotOnlyMaterials.forEach(ingotName => {
+        createIngot(ingotName);
+    });
 });
 
 onEvent('block.registry', event => {
@@ -66,7 +89,7 @@ onEvent('block.registry', event => {
             .material('stone')
             .hardness(hardness)
             .resistance(resistance)
-            .harvestTool(harvestTool)
+            .tag('minecraft:mineable/' + harvestTool)
             .harvestLevel(harvestLevel)
             .requiresTool(true)
             .tag(`forge:ores/${tagName}`)
@@ -74,9 +97,9 @@ onEvent('block.registry', event => {
             .texture(`kubejs:block/${oreId}`);
     }
 
-    // Create all ores using the full configuration
-    Object.keys(globalMaterials).forEach(function (oreName) {
-        var config = globalMaterials[oreName];
+    // Create ores ONLY for the oreMaterials list
+    Object.keys(oreMaterials).forEach(function (oreName) {
+        var config = oreMaterials[oreName];
         createOre(oreName, config);
     });
 });

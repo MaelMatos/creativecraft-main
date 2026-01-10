@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "ice": "2026-01-10 14:22:28 -0200"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2026-01-09 22:05:14 -0200"

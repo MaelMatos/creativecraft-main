@@ -1,5 +1,5 @@
-[21:32:56] [INFO ] Loaded script startup_scripts:itens.js in 0.395 s
-[21:32:56] [INFO ] Hello, World! (You will only see this line once in console, during startup)
-[21:32:56] [INFO ] Loaded script startup_scripts:script.js in 0.002 s
-[21:32:56] [INFO ] Loaded 2/2 KubeJS startup scripts in 1.219 s
-[21:32:57] [ERR  ] Error occurred while handling event 'block.registry': Can't find method dev.latvian.kubejs.block.BlockBuilder.harvestTool(string). (startup_scripts:itens.js#74)
+[22:38:10] [INFO ] Loaded script startup_scripts:itens.js in 0.226 s
+[22:38:10] [INFO ] Hello, World! (You will only see this line once in console, during startup)
+[22:38:10] [INFO ] Loaded script startup_scripts:script.js in 0.002 s
+[22:38:10] [INFO ] Loaded 2/2 KubeJS startup scripts in 0.916 s
+[22:38:10] [ERR  ] Error occurred while handling event 'block.registry': Can't find method dev.latvian.kubejs.block.BlockBuilder.harvestTool(string). (startup_scripts:itens.js#74)

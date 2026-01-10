@@ -1,0 +1,243 @@
+{
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/white_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/green_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_smoking_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_ring": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_wall": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_bricks": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/blue_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/black_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_detector": {
+    "criteria": {
+      "has_alt_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "silentgems:all_gems_dark": {
+    "criteria": {
+      "moonstone": "2026-01-09 21:51:18 -0200"
+    },
+    "done": false
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade": {
+    "criteria": {
+      "has_blasting_upgrade": "2026-01-09 21:39:18 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-01-09 21:39:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/yellow_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "silentgems:gem": {
+    "criteria": {
+      "get_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/diluted_pool": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/red_pavement": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_mirror": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2026-01-09 21:39:19 -0200"
+    },
+    "done": false
+  },
+  "botania:recipes/botania/livingrock_slab": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_smelting_upgrade": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/slab_recombine/livingrock": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2026-01-09 21:40:05 -0200"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2026-01-09 21:39:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_void": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/livingrock_stairs": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/auto_blasting_upgrade_from_auto_smelting_upgrade": {
+    "criteria": {
+      "has_auto_smelting_upgrade": "2026-01-09 21:39:19 -0200"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/mana_pool": {
+    "criteria": {
+      "has_item": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-01-09 21:39:35 -0200"
+    },
+    "done": true
+  },
+  "botania:main/mana_pool_pickup": {
+    "criteria": {
+      "creative": "2026-01-09 21:51:18 -0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

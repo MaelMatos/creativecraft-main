@@ -181,18 +181,29 @@ onEvent('recipes', event => {
   //todo Item.of('mekanism:creative_fluid_tank', '{mekData:{FluidTanks:[{Tank:0b,stored:{FluidName:"allthemodium:molten_bluelava",Amount:2147483647}}]}}')
   //todo 
 
-  // Mana Tablet criativa (cheia)
-  event.shaped(Item.of('botania:mana_tablet', '{mana:500000,creative:1b}'), [
-    'ACA',
-    'JTM',
-    'ACA'
+  event.shaped('ars_nouveau:creative_mana_jar', [
+    'SMN',
+    'WCN',
+    '   '
   ], {
-    A: 'mekanism:pellet_antimatter',
-    C: 'mysticalagradditions:creative_essence',
-    J: 'ars_nouveau:creative_mana_jar',
-    T: 'botania:mana_tablet',
-    M: 'botania:creative_pool'
+    S: 'ars_nouveau:mana_jar',
+    M: 'mekanism:pellet_antimatter',
+    N: 'minecraft:nether_star',
+    W: 'ars_nouveau:wilden_tribute',
+    C: 'mysticalagradditions:creative_essence'
   })
+  event.shaped('ars_nouveau:creative_spell_book', [
+    'CAS',
+    'W  ',
+    '   '
+  ], {
+    S: 'ars_nouveau:creative_mana_jar',
+    C: 'mysticalagradditions:creative_essence',
+    A: 'ars_nouveau:archmage_spell_book',
+    W: 'ars_nouveau:wilden_tribute'
+
+  })
+
 
   // Unobtainium + Vibranium
 
@@ -462,7 +473,7 @@ onEvent('recipes', event => {
     M: 'mekanism:pellet_antimatter',
     V: 'allthemodium:vibranium_allthemodium_alloy_ingot'
   })
-  event.recipes.bloodmagic.alchemytable('kubejs:mssd_ingot', ['kubejs:athum_ingot', 'iceandfire:dragonsteel_ice_ingot', 'iceandfire:dragonsteel_fire_ingot', 'iceandfire:dragonsteel_lightning_ingot', 'botania:gaia_ingot', 'mythicbotany:alfsteel_ingot', 'astralsorcery:starmetal_ingot', 'kubejs:hex_tech_steel_ingot'], 10000000, 72000, 5)
+  event.recipes.bloodmagic.alchemytable('kubejs:mssd_ingot', ['kubejs:athum_ingot', 'iceandfire:dragonsteel_ice_ingot', 'iceandfire:dragonsteel_fire_ingot', 'iceandfire:dragonsteel_lightning_ingot', 'extrabotany:orichalcos', 'mythicbotany:alfsteel_ingot', 'astralsorcery:starmetal_ingot', 'kubejs:hex_tech_steel_ingot'], 10000000, 72000, 5)
   /*   bloodmagic
     event.recipes.bloodmagic.alchemytable(output, input[]).syphon(int).ticks(int).upgradeLevel(int)
     event.recipes.bloodmagic.altar(output, input).upgradeLevel(int).altarSyphon(int).consumptionRate(int).drainRate(int)

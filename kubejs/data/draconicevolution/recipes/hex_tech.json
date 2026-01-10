@@ -1,1 +1,109 @@
-{"type": "draconicevolution:fusion_crafting","result": {"item": "kubejs:hex_tech_steel_ingot"},"catalyst": {"item": "astralsorcery:starmetal_ingot"},"total_energy":1000000000,"tier": "CHAOTIC","ingredients": [{"item": "botania:rune_air"},{"item": "botania:rune_winter"},{"item": "botania:rune_fire"},{"item": "botania:rune_autumn"},{"item": "botania:rune_water"},{"item": "botania:rune_spring"},{"item": "botania:rune_earth"},{"item": "botania:rune_summer"},{"item": "botania:rune_pride"},{"item": "botania:rune_greed"},{"item": "botania:rune_envy"},{"item": "botania:rune_gluttony"},{"item": "botania:rune_wrath"},{"item": "botania:rune_lust"},{"item": "botania:rune_sloth"},{"item": "extrabotany:sinrune"},{"item": "mythicbotany:helheim_rune"},{"item": "mythicbotany:joetunheim_rune"},{"item": "mythicbotany:nidavellir_rune"},{"item": "mythicbotany:midgard_rune"},{"item": "mythicbotany:niflheim_rune"},{"item": "mythicbotany:alfheim_rune"},{"item": "mythicbotany:muspelheim_rune"},{"item": "mythicbotany:vanaheim_rune"},{"item": "draconicevolution:awakened_draconium_ingot"},{"item": "bloodmagic:reagentwater"},{"item": "botania:rune_mana"},{"item": "bloodmagic:reagentlava"},{"item": "mythicbotany:asgard_rune"},{"item": "bloodmagic:reagentvoid"},{"item": "bloodmagic:reagentfastminer"},{"item": "bloodmagic:reagentteleposition"}]}
+{
+    "type": "draconicevolution:fusion_crafting",
+    "result": {
+        "item": "kubejs:hex_tech_steel_ingot"
+    },
+    "catalyst": {
+        "item": "astralsorcery:starmetal_ingot"
+    },
+    "total_energy": 1000000000,
+    "tier": "DRACONIC",
+    "ingredients": [
+        {
+            "item": "botania:rune_air"
+        },
+        {
+            "item": "botania:rune_winter"
+        },
+        {
+            "item": "botania:rune_fire"
+        },
+        {
+            "item": "botania:rune_autumn"
+        },
+        {
+            "item": "botania:rune_water"
+        },
+        {
+            "item": "botania:rune_spring"
+        },
+        {
+            "item": "botania:rune_earth"
+        },
+        {
+            "item": "botania:rune_summer"
+        },
+        {
+            "item": "botania:rune_pride"
+        },
+        {
+            "item": "botania:rune_greed"
+        },
+        {
+            "item": "botania:rune_envy"
+        },
+        {
+            "item": "botania:rune_gluttony"
+        },
+        {
+            "item": "botania:rune_wrath"
+        },
+        {
+            "item": "botania:rune_lust"
+        },
+        {
+            "item": "botania:rune_sloth"
+        },
+        {
+            "item": "extrabotany:sinrune"
+        },
+        {
+            "item": "mythicbotany:helheim_rune"
+        },
+        {
+            "item": "mythicbotany:joetunheim_rune"
+        },
+        {
+            "item": "mythicbotany:nidavellir_rune"
+        },
+        {
+            "item": "mythicbotany:midgard_rune"
+        },
+        {
+            "item": "mythicbotany:niflheim_rune"
+        },
+        {
+            "item": "mythicbotany:alfheim_rune"
+        },
+        {
+            "item": "mythicbotany:muspelheim_rune"
+        },
+        {
+            "item": "mythicbotany:vanaheim_rune"
+        },
+        {
+            "item": "draconicevolution:awakened_draconium_ingot"
+        },
+        {
+            "item": "bloodmagic:reagentwater"
+        },
+        {
+            "item": "botania:rune_mana"
+        },
+        {
+            "item": "bloodmagic:reagentlava"
+        },
+        {
+            "item": "mythicbotany:asgard_rune"
+        },
+        {
+            "item": "bloodmagic:reagentvoid"
+        },
+        {
+            "item": "bloodmagic:reagentfastminer"
+        },
+        {
+            "item": "bloodmagic:reagentteleposition"
+        }
+    ]
+}

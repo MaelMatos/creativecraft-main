@@ -16977,7 +16977,7 @@
           "adult": false
         },
         {
-          "stateGameElement": "active",
+          "stateGameElement": "no_active",
           "id": 415034,
           "name": "Dragon Gear",
           "author": "partonetrain",

@@ -26,10 +26,10 @@
 // Materials that generate both Ingots and Ores
 const oreMaterials = {
     //'Winsdom Sight': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
-    'Uru': { hardness: 50.0, resistance: 2000.0, harvestLevel: 5 }, // Very strong
-    'Adamantium': { hardness: 45.0, resistance: 1500.0, harvestLevel: 5 },
-    'Katchim Katchim': { hardness: 10.0, resistance: 10.0, harvestLevel: 4 },
-    'Kairoseki': { hardness: 6.0, resistance: 6.0, harvestLevel: 4 },
+    'Uru': { hardness: 50.0, resistance: 2000.0, harvestLevel: 7 }, // Very strong
+    'Adamantium': { hardness: 45.0, resistance: 1500.0, harvestLevel: 6 },
+    'Katchim Katchim': { hardness: 10.0, resistance: 10.0, harvestLevel: 5 },
+    'Kairoseki': { hardness: 6.0, resistance: 6.0, harvestLevel: 2 },
 };
 
 // Materials that ONLY generate Ingots (no ores)
@@ -89,16 +89,19 @@ onEvent('block.registry', event => {
             .material('stone')
             .hardness(hardness)
             .resistance(resistance)
-            .tag('minecraft:mineable/' + harvestTool)
+            .harvestTool(harvestTool, harvestLevel) // Explicitly set tool and level
             .requiresTool(true)
             .tag(`forge:ores/${tagName}`)
             .tag('forge:ores')
-            .texture(`kubejs:block/${oreId}`);
+            .textureAll(`kubejs:block/${oreId}`);
 
         if (harvestLevel === 1) builder.tag('minecraft:needs_stone_tool');
         else if (harvestLevel === 2) builder.tag('minecraft:needs_iron_tool');
         else if (harvestLevel === 3) builder.tag('minecraft:needs_diamond_tool');
-        else if (harvestLevel >= 4) builder.tag('minecraft:needs_netherite_tool');
+        else if (harvestLevel === 4) builder.tag('minecraft:needs_netherite_tool');
+        else if (harvestLevel === 5) builder.tag('forge:needs_allthemodium_tool');
+        else if (harvestLevel === 6) builder.tag('forge:needs_vibranium_tool');
+        else if (harvestLevel >= 7) builder.tag('forge:needs_unobtainium_tool');
     }
 
     // Create ores ONLY for the oreMaterials list

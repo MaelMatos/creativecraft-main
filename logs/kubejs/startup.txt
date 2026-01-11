@@ -1,6 +1,2 @@
-[14:57:05] [INFO ] Loaded script startup_scripts:itens.js in 0.324 s
-[14:57:05] [INFO ] Loaded 1/1 KubeJS startup scripts in 1.1 s
-[14:57:06] [WARN ] Using 'texture(tex)' in block builders is deprecated! Please use 'textureAll(tex)' instead!
-[14:57:06] [WARN ] Using 'texture(tex)' in block builders is deprecated! Please use 'textureAll(tex)' instead!
-[14:57:06] [WARN ] Using 'texture(tex)' in block builders is deprecated! Please use 'textureAll(tex)' instead!
-[14:57:06] [WARN ] Using 'texture(tex)' in block builders is deprecated! Please use 'textureAll(tex)' instead!
+[02:12:40] [INFO ] Loaded script startup_scripts:itens.js in 0.272 s
+[02:12:40] [INFO ] Loaded 1/1 KubeJS startup scripts in 0.845 s

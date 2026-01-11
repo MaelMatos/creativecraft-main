@@ -1,196 +1,196 @@
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:recipes.js in 0.005 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_blastfurnace.js in 0.0 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_brewing.js in 0.002 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_campfire.js in 0.0 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_furnace.js in 0.0 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_smoker.js in 0.0 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_stonecutter.js in 0.001 s
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:rgui_table.js in 0.001 s
-[02:21:15] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
-[02:21:15] [INFO ] SourceFile:40: Loaded script server_scripts:script.js in 0.001 s
-[02:21:15] [INFO ] SourceFile:40: Loaded 9/9 KubeJS server scripts in 0.016 s
-[02:21:15] [INFO ] Scripts loaded
-[02:21:15] [INFO ] Scanning recipes...
-[02:21:17] [INFO ] [blocks] Found 1271 tags, added 12 objects, removed 0 objects
-[02:21:17] [INFO ] [blocks] Found 1271 tags, added 12 objects, removed 0 objects
-[02:21:17] [INFO ] [items] Found 2466 tags, added 9 objects, removed 0 objects
-[02:21:17] [INFO ] [items] Found 2466 tags, added 9 objects, removed 0 objects
-[02:21:17] [INFO ] [fluids] Found 235 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [fluids] Found 235 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [slurries] Found 24 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [slurries] Found 24 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[02:21:17] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
-[02:21:17] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[02:21:17] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[02:21:17] [WARN ] Failed to parse recipe 'botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
-[02:21:17] [WARN ] Failed to parse recipe botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
-[02:21:17] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:venomous_slapper_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:lionfish'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:venomous_slapper_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:lionfish'
-[02:21:17] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:booflo_blade_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:booflo_hide'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:booflo_blade_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:booflo_hide'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:chocolate_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:bar_of_chocolate'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:chocolate_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:bar_of_chocolate'
-[02:21:17] [WARN ] Failed to parse recipe 'bloodmagic:meteor/create[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
-[02:21:17] [WARN ] Failed to parse recipe bloodmagic:meteor/create[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
-[02:21:17] [WARN ] Failed to parse recipe 'bloodmagic:meteor/thermal[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
-[02:21:17] [WARN ] Failed to parse recipe bloodmagic:meteor/thermal[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:griefer_striker_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:blast_proof_plating'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:griefer_striker_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:blast_proof_plating'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:brass_head_turner_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:brass_head_turner_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:bolloom_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bolloom_balloon'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:bolloom_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bolloom_balloon'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:dragonbreathdiamondswordcraft2[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:dragonbreathdiamondswordcraft2[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:neptunium_grab_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:neptunium_grab_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
-[02:21:17] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:17] [WARN ] Failed to parse recipe 'bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
-[02:21:17] [WARN ] Failed to parse recipe bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:copper_jigsaw_slicer_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:copper_jigsaw_slicer_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
-[02:21:17] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
-[02:21:17] [WARN ] Failed to parse recipe mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
-[02:21:17] [WARN ] Failed to parse recipe 'tac:light_armor_plate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
-[02:21:17] [WARN ] Failed to parse recipe tac:light_armor_plate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:end_pyro_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:eumus'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:end_pyro_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:eumus'
-[02:21:17] [WARN ] Failed to parse recipe 'tac:medium_steel_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
-[02:21:17] [WARN ] Failed to parse recipe tac:medium_steel_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:fiery_fossilizer_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:amber'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:fiery_fossilizer_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:amber'
-[02:21:17] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[02:21:17] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[02:21:17] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[02:21:17] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[02:21:17] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
-[02:21:17] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:gloomy_shredder_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:gloomy_tiles'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:gloomy_shredder_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:gloomy_tiles'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:refined_radiance_glaive_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:refined_radiance'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:refined_radiance_glaive_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:refined_radiance'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:weed_foil_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:oak_small_beam'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:weed_foil_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:oak_small_beam'
-[02:21:17] [WARN ] Failed to parse recipe 'useless_sword:rotten_fish_rapier_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
-[02:21:17] [WARN ] Failed to parse recipe useless_sword:rotten_fish_rapier_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
-[02:21:18] [WARN ] Failed to parse recipe 'useless_sword:ravager_sword_craft_2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
-[02:21:18] [WARN ] Failed to parse recipe useless_sword:ravager_sword_craft_2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
-[02:21:18] [WARN ] Failed to parse recipe 'tac:module_item[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
-[02:21:18] [WARN ] Failed to parse recipe tac:module_item[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
-[02:21:18] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:18] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:18] [WARN ] Failed to parse recipe 'useless_sword:chitin_stinger_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:chitin'
-[02:21:18] [WARN ] Failed to parse recipe useless_sword:chitin_stinger_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:chitin'
-[02:21:18] [WARN ] Failed to parse recipe 'farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
-[02:21:18] [WARN ] Failed to parse recipe farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
-[02:21:18] [WARN ] Failed to parse recipe 'useless_sword:claymore_of_the_sea_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:thrasher_tooth'
-[02:21:18] [WARN ] Failed to parse recipe useless_sword:claymore_of_the_sea_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:thrasher_tooth'
-[02:21:18] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[02:21:18] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[02:21:18] [WARN ] Failed to parse recipe 'useless_sword:message_in_a_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bottle'
-[02:21:18] [WARN ] Failed to parse recipe useless_sword:message_in_a_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bottle'
-[02:21:18] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
-[02:21:18] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
-[02:21:18] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
-[02:21:18] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
-[02:21:18] [WARN ] Failed to parse recipe 'useless_sword:pike_slapper_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:pike'
-[02:21:18] [WARN ] Failed to parse recipe useless_sword:pike_slapper_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:pike'
-[02:21:18] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:18] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
-[02:21:18] [WARN ] Failed to parse recipe 'tac:light_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
-[02:21:18] [WARN ] Failed to parse recipe tac:light_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
-[02:21:18] [INFO ] Found 19337 recipes and 0 failed recipes in 865.7 ms
-[02:21:18] [INFO ] server_scripts:recipes.js:103: + kubejs:shaped: [Item.of('vampiresneedumbrellas:purple_diamond_umbrella', '{Damage:0}'), 'mysticalagradditions:creative_essence', 'minecraft:nether_star'] -> ['vampiresneedumbrellas:creative_umbrella']
-[02:21:18] [INFO ] server_scripts:recipes.js:114: - minecraft:tank_creative_emptying[minecraft:crafting_shapeless]: ['elementalcraft:tank_creative'] -> ['elementalcraft:tank_creative']
-[02:21:18] [INFO ] server_scripts:recipes.js:115: + kubejs:shaped: ['ars_nouveau:creative_mana_jar', 'elementalcraft:purecrystal', 'mysticalagradditions:creative_essence', 'elementalcraft:tank'] -> ['elementalcraft:tank_creative']
-[02:21:18] [INFO ] server_scripts:recipes.js:127: - bessererteleporter:teleporter_recipe[minecraft:crafting_shaped]: ['minecraft:ender_pearl', 'minecraft:ender_pearl', 'minecraft:ender_pearl', 'minecraft:glass_pane', 'minecraft:gold_block', 'minecraft:glass_pane', '#minecraft:coals', '#minecraft:coals', '#minecraft:coals'] -> ['bessererteleporter:teleporter']
-[02:21:18] [INFO ] server_scripts:recipes.js:130: + kubejs:shaped: ['allthemodium:vibranium_block', '#forge:glass_panes', '#forge:ender_pearls', '#forge:storage_blocks/coal'] -> ['bessererteleporter:teleporter']
-[02:21:18] [INFO ] server_scripts:recipes.js:142: - allthemodium:main/vibranium_allthemodium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:vibranium_allthemodium_alloy_block'] -> ['9x allthemodium:vibranium_allthemodium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:144: + kubejs:shaped: ['allthemodium:allthemodium_ingot', 'allthemodium:vibranium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:vibranium_allthemodium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:159: - allthemodium:main/unobtainium_allthemodium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:unobtainium_allthemodium_alloy_block'] -> ['9x allthemodium:unobtainium_allthemodium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:161: + kubejs:shaped: ['allthemodium:allthemodium_ingot', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:unobtainium_allthemodium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:184: + kubejs:shaped: ['ars_nouveau:mana_jar', 'mekanism:pellet_antimatter', 'minecraft:nether_star', 'ars_nouveau:wilden_tribute', 'mysticalagradditions:creative_essence'] -> ['ars_nouveau:creative_mana_jar']
-[02:21:18] [INFO ] server_scripts:recipes.js:195: + kubejs:shaped: ['ars_nouveau:creative_mana_jar', 'mysticalagradditions:creative_essence', 'ars_nouveau:archmage_spell_book', 'ars_nouveau:wilden_tribute'] -> ['ars_nouveau:creative_spell_book']
-[02:21:18] [INFO ] server_scripts:recipes.js:210: - allthemodium:main/unobtainium_vibranium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:unobtainium_vibranium_alloy_block'] -> ['9x allthemodium:unobtainium_vibranium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:212: + kubejs:shaped: ['allthemodium:vibranium_ingot', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:unobtainium_vibranium_alloy_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:228: - tardis:alembic[minecraft:crafting_shaped]: ['minecraft:stick', 'minecraft:glass_bottle'] -> ['tardis:alembic']
-[02:21:18] [INFO ] server_scripts:recipes.js:229: + kubejs:shaped: ['ironfurnaces:copper_furnace', '#forge:ingots/brass', '#forge:glass_bottles', '#minecraft:logs', '#forge:buckets'] -> ['tardis:alembic']
-[02:21:18] [INFO ] server_scripts:recipes.js:242: - tardis:key_gallifreyan[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:ender_pearl', 'minecraft:iron_ingot'] -> ['tardis:key_gallifreyan']
-[02:21:18] [INFO ] server_scripts:recipes.js:245: + kubejs:shaped: ['#forge:ingots/iron', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:key_gallifreyan']
-[02:21:18] [INFO ] server_scripts:recipes.js:258: - tardis:tardis_key[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:ender_pearl', 'minecraft:gold_ingot', 'minecraft:iron_ingot'] -> ['tardis:tardis_key']
-[02:21:18] [INFO ] server_scripts:recipes.js:261: + kubejs:shaped: ['#forge:ingots/gold', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:tardis_key']
-[02:21:18] [INFO ] server_scripts:recipes.js:275: - tardis:key_pirate[minecraft:crafting_shaped]: ['minecraft:coal_block', 'tardis:circuits', 'minecraft:ender_pearl', 'minecraft:iron_ingot'] -> ['tardis:key_pirate']
-[02:21:18] [INFO ] server_scripts:recipes.js:278: + kubejs:shaped: ['#forge:storage_blocks/coal', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:key_pirate']
-[02:21:18] [INFO ] server_scripts:recipes.js:292: - tardis:blank_upgrade[minecraft:crafting_shaped]: ['minecraft:dried_kelp', 'minecraft:gold_nugget'] -> [Item.of('tardis:blank_upgrade', '{Damage:0}')]
-[02:21:18] [INFO ] server_scripts:recipes.js:295: + kubejs:shaped: ['allthemodium:allthemodium_nugget', '#forge:dried_kelp'] -> [Item.of('tardis:blank_upgrade', '{Damage:0}')]
-[02:21:18] [INFO ] server_scripts:recipes.js:309: + kubejs:shaped: ['tardis:artron_battery_high', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'tardis:xion_crystal'] -> ['tardis:artron_battery_creative']
-[02:21:18] [INFO ] server_scripts:recipes.js:323: - tardis:exotronic_circuit[minecraft:crafting_shaped]: ['tardis:circuit_paste', 'minecraft:gold_nugget', 'tardis:xion_crystal'] -> ['tardis:circuits']
-[02:21:18] [INFO ] server_scripts:recipes.js:323: - tardis:quantiscope/circuits[tardis:quantiscope]: ['tardis:circuit_paste', 'minecraft:gold_nugget', 'minecraft:gold_nugget', 'tardis:xion_crystal'] -> ['tardis:circuits']
-[02:21:18] [INFO ] server_scripts:recipes.js:326: + kubejs:shaped: ['tardis:circuit_paste', 'tardis:xion_crystal', '#forge:ingots/gold'] -> ['tardis:circuits']
-[02:21:18] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass[minecraft:crafting_shaped]: ['minecraft:iron_bars', 'minecraft:gold_ingot', 'tardis:xion_crystal', 'minecraft:glass', 'tardis:circuits'] -> ['tardis:quantiscope_brass']
-[02:21:18] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass_alt1[minecraft:crafting_shaped]: ['tardis:quantiscope_iron', 'minecraft:yellow_dye'] -> ['tardis:quantiscope_brass']
-[02:21:18] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass_alt2[minecraft:crafting_shaped]: ['tardis:quantiscope_iron', 'minecraft:orange_dye'] -> ['tardis:quantiscope_brass']
-[02:21:18] [INFO ] server_scripts:recipes.js:341: + kubejs:shaped: ['#forge:storage_blocks/brass', 'tardis:xion_crystal', 'tardis:circuits', '#forge:gems/diamond'] -> ['tardis:quantiscope_brass']
-[02:21:18] [INFO ] server_scripts:recipes.js:354: - tardis:quantiscope_iron_alt[minecraft:crafting_shaped]: ['tardis:quantiscope_brass', 'minecraft:quartz'] -> ['tardis:quantiscope_iron']
-[02:21:18] [INFO ] server_scripts:recipes.js:354: - tardis:quantiscope_iron[minecraft:crafting_shaped]: ['minecraft:iron_bars', 'minecraft:iron_ingot', 'tardis:xion_crystal', 'minecraft:glass', 'tardis:circuits'] -> ['tardis:quantiscope_iron']
-[02:21:18] [INFO ] server_scripts:recipes.js:357: + kubejs:shaped: ['#forge:storage_blocks/iron', 'tardis:xion_crystal', 'tardis:circuits', '#forge:gems/emerald'] -> ['tardis:quantiscope_iron']
-[02:21:18] [INFO ] server_scripts:recipes.js:370: - tardis:vm_strap[minecraft:crafting_shaped]: ['minecraft:leather', 'minecraft:string', '#minecraft:wool'] -> ['tardis:vm_strap']
-[02:21:18] [INFO ] server_scripts:recipes.js:373: + kubejs:shaped: ['#forge:ingots/iron', '#forge:string', 'allthemodium:allthemodium_ingot', '#forge:leather'] -> ['tardis:vm_strap']
-[02:21:18] [INFO ] server_scripts:recipes.js:386: - tardis:vm_module[minecraft:crafting_shaped]: ['minecraft:blaze_rod', 'tardis:circuits', 'tardis:subsystem/dematerialisation_circuit', 'minecraft:iron_ingot', 'minecraft:redstone'] -> ['tardis:vm_module']
-[02:21:18] [INFO ] server_scripts:recipes.js:389: + kubejs:shaped: ['#forge:ingots/iron', Item.of('tardis:subsystem/dematerialisation_circuit', '{Damage:0}'), 'allthemodium:vibranium_dust', 'tardis:circuits'] -> ['tardis:vm_module']
-[02:21:18] [INFO ] server_scripts:recipes.js:402: - tardis:vm[minecraft:crafting_shapeless]: ['tardis:vm_module', 'tardis:vm_strap'] -> ['tardis:vm']
-[02:21:18] [INFO ] server_scripts:recipes.js:405: + kubejs:shaped: ['tardis:vm_strap', 'tardis:vm_module', 'naturescompass:naturescompass', 'explorerscompass:explorerscompass', 'appliedenergistics2:sky_compass'] -> ['tardis:vm']
-[02:21:18] [INFO ] server_scripts:recipes.js:419: - tardis:neutronic_spectrometer[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:glass', 'minecraft:iron_ingot', '#forge:concrete', 'tardis:xion_crystal'] -> ['tardis:neutronic_spectrometer']
-[02:21:18] [INFO ] server_scripts:recipes.js:422: + kubejs:shaped: ['#forge:ingots/iron', 'tardis:xion_crystal', 'tardis:circuits', 'allthemodium:vibranium_ingot', '#forge:glass'] -> ['tardis:neutronic_spectrometer']
-[02:21:18] [INFO ] server_scripts:recipes.js:436: - tardis:air_lock[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:black_concrete'] -> ['tardis:air_lock']
-[02:21:18] [INFO ] server_scripts:recipes.js:439: + kubejs:shaped: ['tardis:circuits', '#forge:obsidian'] -> ['tardis:air_lock']
-[02:21:18] [INFO ] server_scripts:recipes.js:448: + kubejs:shaped: ['kubejs:adamantium_ingot', 'allthemodium:allthemodium_ingot', 'allthemodium:vibranium_ingot', 'allthemodium:unobtainium_ingot', 'appliedenergistics2:singularity', 'draconicevolution:awakened_draconium_ingot'] -> ['kubejs:athum_ingot']
-[02:21:18] [INFO ] server_scripts:recipes.js:463: - playertrackingcompass:tracking_compass[minecraft:crafting_shaped]: ['minecraft:iron_nugget', 'minecraft:redstone'] -> ['playertrackingcompass:tracking_compass']
-[02:21:18] [INFO ] server_scripts:recipes.js:466: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'elementalcraft:fireite_ingot', 'mekanism:pellet_antimatter', 'allthemodium:vibranium_allthemodium_alloy_ingot'] -> ['playertrackingcompass:tracking_compass']
-[02:21:18] [INFO ] server_scripts:recipes.js:476: + bloodmagic:alchemytable: ['kubejs:athum_ingot', 'iceandfire:dragonsteel_ice_ingot', 'iceandfire:dragonsteel_fire_ingot', 'iceandfire:dragonsteel_lightning_ingot', 'extrabotany:orichalcos', 'mythicbotany:alfsteel_ingot', 'astralsorcery:starmetal_ingot', 'kubejs:hex_tech_steel_ingot'] -> ['kubejs:mssd_ingot']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:11: + kubejs:shaped: ['mysticalagradditions:insanium_block', 'mysticalagradditions:insanium_block', 'mekanism:pellet_antimatter', 'mysticalagradditions:insanium_block', 'mysticalagriculture:master_infusion_crystal'] -> ['3x mysticalagradditions:creative_essence']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:12: + kubejs:shaped: ['kubejs:athum_ingot', 'kubejs:athum_ingot', 'mekanism:ultimate_energy_cube', 'kubejs:athum_ingot', 'kubejs:athum_ingot'] -> ['mekanism:creative_energy_cube']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:13: + kubejs:shaped: ['kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'mekanism:creative_energy_cube', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot'] -> [Item.of('mekanism:creative_energy_cube', '{mekData:{EnergyContainers:[{Container:0b,stored:"18446744073709551615.9999"}]}}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:14: + kubejs:shaped: ['kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'botania:fabulous_pool', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot'] -> ['botania:creative_pool']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:15: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', 'pipez:ultimate_upgrade', 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> ['pipez:infinity_upgrade']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:16: + kubejs:shaped: ['botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:creative_pool', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock'] -> [Item.of('botania:mana_tablet', '{mana:500000,creative:1b}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:17: + kubejs:shaped: ['silentgems:moonstone', 'silentgems:moonstone', 'silentgems:moonstone', 'silentgems:moonstone', 'minecraft:dragon_egg', 'silentgems:moonstone', 'silentgems:moonstone', 'minecraft:beacon', 'silentgems:moonstone'] -> ['vampirism:sunscreen_beacon']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:18: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', 'iceandfire:dragon_meal', 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> ['iceandfire:creative_dragon_meal']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:19: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', Item.of('minecraft:iron_sword', '{Damage:0}'), 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:20: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"defense"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:21: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"abilities"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"defense"}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:22: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"abilities"}')]
-[02:21:18] [INFO ] server_scripts:rgui_table.js:23: + kubejs:shaped: ['extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'mekanism:ultimate_fluid_tank', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos'] -> ['mekanism:creative_fluid_tank']
-[02:21:18] [INFO ] server_scripts:rgui_table.js:24: + kubejs:shaped: ['extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'mekanism:ultimate_chemical_tank', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos'] -> ['mekanism:creative_chemical_tank']
-[02:21:18] [INFO ] Posted recipe events in 210.6 ms
-[02:21:19] [WARN ] Error parsing recipe silentgear:alloy_smelting/blaze_gold[silents_mechanisms:alloy_smelting]: {"conditions":[{"type":"forge:mod_loaded","modid":"silents_mechanisms"}],"type":"silents_mechanisms:alloy_smelting","process_time":400,"ingredients":[{"value":[{"tag":"forge:dusts/gold"},{"tag":"silents_mechanisms:chunks/gold"},{"tag":"forge:ingots/gold"}],"count":1},{"value":[{"ingredient":{"item":"minecraft:blaze_powder"},"count":3}],"count":3}],"result":{"item":"silentgear:blaze_gold_ingot","count":1}}: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
-[02:21:19] [INFO ] Modified & removed recipes in 756.6 ms
-[02:21:19] [WARN ] Error creating recipe kubejs:kjs_40d2gjkbut2k6ufnadz33zq1h[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"tardis:alembic","count":1},"pattern":["BBB","GFG","SKS"],"key":{"F":{"item":"ironfurnaces:copper_furnace"},"B":{"tag":"forge:ingots/brass"},"G":{"tag":"forge:glass_bottles"},"S":{"tag":"minecraft:logs"},"K":{"tag":"forge:buckets"}}}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:glass_bottles'
-[02:21:19] [WARN ] Error creating recipe kubejs:kjs_ao5zsaq40l1arqlpmlmsfb0mb[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"tardis:blank_upgrade","count":1,"nbt":"{Damage:0}"},"pattern":["KKA","KKA","KKA"],"key":{"A":{"item":"allthemodium:allthemodium_nugget"},"K":{"tag":"forge:dried_kelp"}}}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:dried_kelp'
-[02:21:19] [WARN ] Error creating recipe kubejs:kjs_406ewof44j48r9ncuu5ox12su[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"kubejs:athum_ingot","count":1},"pattern":[" S ","DBM","AVU"],"key":{"A":{"item":"kubejs:adamantium_ingot"},"M":{"item":"allthemodium:allthemodium_ingot"},"V":{"item":"allthemodium:vibranium_ingot"},"U":{"item":"allthemodium:unobtainium_ingot"},"S":{"item":"appliedenergistics2:singularity"},"D":{"item":"draconicevolution:awakened_draconium_ingot"}}}: com.google.gson.JsonSyntaxException: Pattern references symbol 'B' but it's not defined in the key
-[02:21:19] [INFO ] Added recipes in 6.882 ms
-[02:21:19] [INFO ] Added 36 recipes, removed 23 recipes, modified 0 recipes, with 4 failed recipes and 0 fall-backed recipes
-[02:21:19] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:19] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
-[02:21:20] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
-[02:21:20] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:recipes.js in 0.006 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_blastfurnace.js in 0.001 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_brewing.js in 0.0 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_campfire.js in 0.0 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_furnace.js in 0.001 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_smoker.js in 0.0 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_stonecutter.js in 0.0 s
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:rgui_table.js in 0.001 s
+[04:17:03] [INFO ] server_scripts:script.js:8: Hello, World! (You will see this line every time server resources reload)
+[04:17:03] [INFO ] SourceFile:41: Loaded script server_scripts:script.js in 0.001 s
+[04:17:03] [INFO ] SourceFile:41: Loaded 9/9 KubeJS server scripts in 0.014 s
+[04:17:03] [INFO ] Scripts loaded
+[04:17:03] [INFO ] Scanning recipes...
+[04:17:05] [INFO ] [blocks] Found 1268 tags, added 12 objects, removed 0 objects
+[04:17:05] [INFO ] [blocks] Found 1268 tags, added 12 objects, removed 0 objects
+[04:17:05] [INFO ] [items] Found 2466 tags, added 9 objects, removed 0 objects
+[04:17:05] [INFO ] [items] Found 2466 tags, added 9 objects, removed 0 objects
+[04:17:05] [INFO ] [fluids] Found 235 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [fluids] Found 235 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [entity_types] Found 65 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [enchantments] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [tile_entity_types] Found 4 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [slurries] Found 24 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [slurries] Found 24 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[04:17:05] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_pattern[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[04:17:05] [WARN ] Failed to parse recipe 'botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
+[04:17:05] [WARN ] Failed to parse recipe botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
+[04:17:05] [WARN ] Failed to parse recipe 'tac:ultimate_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe tac:ultimate_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:venomous_slapper_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:lionfish'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:venomous_slapper_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:lionfish'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:uncommon_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe tac:uncommon_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:booflo_blade_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:booflo_hide'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:booflo_blade_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:booflo_hide'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:chocolate_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:bar_of_chocolate'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:chocolate_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:bar_of_chocolate'
+[04:17:05] [WARN ] Failed to parse recipe 'bloodmagic:meteor/create[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
+[04:17:05] [WARN ] Failed to parse recipe bloodmagic:meteor/create[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'create:andesite_alloy'
+[04:17:05] [WARN ] Failed to parse recipe 'bloodmagic:meteor/thermal[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
+[04:17:05] [WARN ] Failed to parse recipe bloodmagic:meteor/thermal[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'thermal:rf_coil'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:griefer_striker_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:blast_proof_plating'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:griefer_striker_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:blast_proof_plating'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:brass_head_turner_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:brass_head_turner_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:turntable'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:bolloom_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bolloom_balloon'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:bolloom_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:bolloom_balloon'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:dragonbreathdiamondswordcraft2[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:dragonbreathdiamondswordcraft2[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'useless_sword:dragonbreathdiamondsword'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:neptunium_grab_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:neptunium_grab_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:iron_hook'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:legendary_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe tac:legendary_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe 'bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
+[04:17:05] [WARN ] Failed to parse recipe bloodmagic:meteor/immersive_engineering[bloodmagic:meteor]: com.google.gson.JsonSyntaxException: Unknown item 'immersiveengineering:wirecoil_copper'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:copper_jigsaw_slicer_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:copper_jigsaw_slicer_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:mechanical_saw'
+[04:17:05] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
+[04:17:05] [WARN ] Failed to parse recipe mysticalagriculture:essence/quark/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'quark:marble'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:light_armor_plate[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
+[04:17:05] [WARN ] Failed to parse recipe tac:light_armor_plate[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor_plate'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:end_pyro_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:eumus'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:end_pyro_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'endergetic:eumus'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:medium_steel_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
+[04:17:05] [WARN ] Failed to parse recipe tac:medium_steel_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:medium_steel_armor'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:fiery_fossilizer_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:amber'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:fiery_fossilizer_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:amber'
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ip[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/ci[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:combine
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/cp[ae2wtlib:combine]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:combine'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:gloomy_shredder_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:gloomy_tiles'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:gloomy_shredder_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'savageandravage:gloomy_tiles'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:refined_radiance_glaive_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'create:refined_radiance'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:refined_radiance_glaive_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'create:refined_radiance'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:weed_foil_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:oak_small_beam'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:weed_foil_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:oak_small_beam'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:rotten_fish_rapier_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:rotten_fish_rapier_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:fish_bones'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:ravager_sword_craft_2[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:ravager_sword_craft_2[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'quark:ravager_hide'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:module_item[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
+[04:17:05] [WARN ] Failed to parse recipe tac:module_item[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:module_item'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:epic_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe tac:epic_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:chitin_stinger_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:chitin'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:chitin_stinger_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'druidcraft:chitin'
+[04:17:05] [WARN ] Failed to parse recipe 'farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[04:17:05] [WARN ] Failed to parse recipe farmersdelight:integration/silentgear/cutting/netherwood[farmersdelight:cutting]: com.google.gson.JsonSyntaxException: Unknown ingredient type: axe
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:claymore_of_the_sea_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:thrasher_tooth'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:claymore_of_the_sea_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:thrasher_tooth'
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_interface[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:message_in_a_sword_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bottle'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:message_in_a_sword_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'aquaculture:message_in_a_bottle'
+[04:17:05] [WARN ] Failed to parse recipe 'mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[04:17:05] [WARN ] Failed to parse recipe mysticalagriculture:essence/chisel/marble[cucumber:shaped_no_mirror]: com.google.gson.JsonSyntaxException: Unknown item 'chisel:marble/raw'
+[04:17:05] [WARN ] Failed to parse recipe 'ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]'! Falling back to vanilla: java.lang.NullPointerException: Unknown recipe type: ae2wtlib:upgrade
+[04:17:05] [WARN ] Failed to parse recipe ae2wtlib:wireless_universal_terminal/upgrade_crafting[ae2wtlib:upgrade]: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'ae2wtlib:upgrade'
+[04:17:05] [WARN ] Failed to parse recipe 'useless_sword:pike_slapper_recipe[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:pike'
+[04:17:05] [WARN ] Failed to parse recipe useless_sword:pike_slapper_recipe[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'upgrade_aquatic:pike'
+[04:17:05] [WARN ] Failed to parse recipe 'tac:rare_material[unknown:type]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe tac:rare_material[unknown:type]: com.google.gson.JsonSyntaxException: Missing type, expected to find a string
+[04:17:05] [WARN ] Failed to parse recipe 'tac:light_armor[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
+[04:17:05] [WARN ] Failed to parse recipe tac:light_armor[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'tac:light_armor'
+[04:17:05] [INFO ] Found 19337 recipes and 0 failed recipes in 478.9 ms
+[04:17:05] [INFO ] server_scripts:recipes.js:103: + kubejs:shaped: [Item.of('vampiresneedumbrellas:purple_diamond_umbrella', '{Damage:0}'), 'mysticalagradditions:creative_essence', 'minecraft:nether_star'] -> ['vampiresneedumbrellas:creative_umbrella']
+[04:17:05] [INFO ] server_scripts:recipes.js:114: - minecraft:tank_creative_emptying[minecraft:crafting_shapeless]: ['elementalcraft:tank_creative'] -> ['elementalcraft:tank_creative']
+[04:17:05] [INFO ] server_scripts:recipes.js:115: + kubejs:shaped: ['ars_nouveau:creative_mana_jar', 'elementalcraft:purecrystal', 'mysticalagradditions:creative_essence', 'elementalcraft:tank'] -> ['elementalcraft:tank_creative']
+[04:17:05] [INFO ] server_scripts:recipes.js:127: - bessererteleporter:teleporter_recipe[minecraft:crafting_shaped]: ['minecraft:ender_pearl', 'minecraft:ender_pearl', 'minecraft:ender_pearl', 'minecraft:glass_pane', 'minecraft:gold_block', 'minecraft:glass_pane', '#minecraft:coals', '#minecraft:coals', '#minecraft:coals'] -> ['bessererteleporter:teleporter']
+[04:17:05] [INFO ] server_scripts:recipes.js:130: + kubejs:shaped: ['allthemodium:vibranium_block', '#forge:glass_panes', '#forge:ender_pearls', '#forge:storage_blocks/coal'] -> ['bessererteleporter:teleporter']
+[04:17:05] [INFO ] server_scripts:recipes.js:142: - allthemodium:main/vibranium_allthemodium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:vibranium_allthemodium_alloy_block'] -> ['9x allthemodium:vibranium_allthemodium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:144: + kubejs:shaped: ['allthemodium:allthemodium_ingot', 'allthemodium:vibranium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:vibranium_allthemodium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:159: - allthemodium:main/unobtainium_allthemodium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:unobtainium_allthemodium_alloy_block'] -> ['9x allthemodium:unobtainium_allthemodium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:161: + kubejs:shaped: ['allthemodium:allthemodium_ingot', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:unobtainium_allthemodium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:184: + kubejs:shaped: ['ars_nouveau:mana_jar', 'mekanism:pellet_antimatter', 'minecraft:nether_star', 'ars_nouveau:wilden_tribute', 'mysticalagradditions:creative_essence'] -> ['ars_nouveau:creative_mana_jar']
+[04:17:05] [INFO ] server_scripts:recipes.js:195: + kubejs:shaped: ['ars_nouveau:creative_mana_jar', 'mysticalagradditions:creative_essence', 'ars_nouveau:archmage_spell_book', 'ars_nouveau:wilden_tribute'] -> ['ars_nouveau:creative_spell_book']
+[04:17:05] [INFO ] server_scripts:recipes.js:210: - allthemodium:main/unobtainium_vibranium_alloy_ingot_from_block[minecraft:crafting_shapeless]: ['allthemodium:unobtainium_vibranium_alloy_block'] -> ['9x allthemodium:unobtainium_vibranium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:212: + kubejs:shaped: ['allthemodium:vibranium_ingot', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'elementalcraft:fireite_ingot'] -> ['allthemodium:unobtainium_vibranium_alloy_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:228: - tardis:alembic[minecraft:crafting_shaped]: ['minecraft:stick', 'minecraft:glass_bottle'] -> ['tardis:alembic']
+[04:17:05] [INFO ] server_scripts:recipes.js:229: + kubejs:shaped: ['ironfurnaces:copper_furnace', '#forge:ingots/brass', '#forge:glass_bottles', '#minecraft:logs', '#forge:buckets'] -> ['tardis:alembic']
+[04:17:05] [INFO ] server_scripts:recipes.js:242: - tardis:key_gallifreyan[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:ender_pearl', 'minecraft:iron_ingot'] -> ['tardis:key_gallifreyan']
+[04:17:05] [INFO ] server_scripts:recipes.js:245: + kubejs:shaped: ['#forge:ingots/iron', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:key_gallifreyan']
+[04:17:05] [INFO ] server_scripts:recipes.js:258: - tardis:tardis_key[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:ender_pearl', 'minecraft:gold_ingot', 'minecraft:iron_ingot'] -> ['tardis:tardis_key']
+[04:17:05] [INFO ] server_scripts:recipes.js:261: + kubejs:shaped: ['#forge:ingots/gold', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:tardis_key']
+[04:17:05] [INFO ] server_scripts:recipes.js:275: - tardis:key_pirate[minecraft:crafting_shaped]: ['minecraft:coal_block', 'tardis:circuits', 'minecraft:ender_pearl', 'minecraft:iron_ingot'] -> ['tardis:key_pirate']
+[04:17:05] [INFO ] server_scripts:recipes.js:278: + kubejs:shaped: ['#forge:storage_blocks/coal', 'allthemodium:unobtainium_ingot', 'tardis:circuits', '#forge:ender_pearls', 'tardis:xion_crystal'] -> ['tardis:key_pirate']
+[04:17:05] [INFO ] server_scripts:recipes.js:292: - tardis:blank_upgrade[minecraft:crafting_shaped]: ['minecraft:dried_kelp', 'minecraft:gold_nugget'] -> [Item.of('tardis:blank_upgrade', '{Damage:0}')]
+[04:17:05] [INFO ] server_scripts:recipes.js:295: + kubejs:shaped: ['allthemodium:allthemodium_nugget', '#forge:dried_kelp'] -> [Item.of('tardis:blank_upgrade', '{Damage:0}')]
+[04:17:05] [INFO ] server_scripts:recipes.js:309: + kubejs:shaped: ['tardis:artron_battery_high', 'allthemodium:unobtainium_ingot', 'mysticalagradditions:creative_essence', 'mekanism:pellet_antimatter', 'tardis:xion_crystal'] -> ['tardis:artron_battery_creative']
+[04:17:05] [INFO ] server_scripts:recipes.js:323: - tardis:exotronic_circuit[minecraft:crafting_shaped]: ['tardis:circuit_paste', 'minecraft:gold_nugget', 'tardis:xion_crystal'] -> ['tardis:circuits']
+[04:17:05] [INFO ] server_scripts:recipes.js:323: - tardis:quantiscope/circuits[tardis:quantiscope]: ['tardis:circuit_paste', 'minecraft:gold_nugget', 'minecraft:gold_nugget', 'tardis:xion_crystal'] -> ['tardis:circuits']
+[04:17:05] [INFO ] server_scripts:recipes.js:326: + kubejs:shaped: ['tardis:circuit_paste', 'tardis:xion_crystal', '#forge:ingots/gold'] -> ['tardis:circuits']
+[04:17:05] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass[minecraft:crafting_shaped]: ['minecraft:iron_bars', 'minecraft:gold_ingot', 'tardis:xion_crystal', 'minecraft:glass', 'tardis:circuits'] -> ['tardis:quantiscope_brass']
+[04:17:05] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass_alt1[minecraft:crafting_shaped]: ['tardis:quantiscope_iron', 'minecraft:yellow_dye'] -> ['tardis:quantiscope_brass']
+[04:17:05] [INFO ] server_scripts:recipes.js:338: - tardis:quantiscope_brass_alt2[minecraft:crafting_shaped]: ['tardis:quantiscope_iron', 'minecraft:orange_dye'] -> ['tardis:quantiscope_brass']
+[04:17:05] [INFO ] server_scripts:recipes.js:341: + kubejs:shaped: ['#forge:storage_blocks/brass', 'tardis:xion_crystal', 'tardis:circuits', '#forge:gems/diamond'] -> ['tardis:quantiscope_brass']
+[04:17:05] [INFO ] server_scripts:recipes.js:354: - tardis:quantiscope_iron_alt[minecraft:crafting_shaped]: ['tardis:quantiscope_brass', 'minecraft:quartz'] -> ['tardis:quantiscope_iron']
+[04:17:05] [INFO ] server_scripts:recipes.js:354: - tardis:quantiscope_iron[minecraft:crafting_shaped]: ['minecraft:iron_bars', 'minecraft:iron_ingot', 'tardis:xion_crystal', 'minecraft:glass', 'tardis:circuits'] -> ['tardis:quantiscope_iron']
+[04:17:05] [INFO ] server_scripts:recipes.js:357: + kubejs:shaped: ['#forge:storage_blocks/iron', 'tardis:xion_crystal', 'tardis:circuits', '#forge:gems/emerald'] -> ['tardis:quantiscope_iron']
+[04:17:05] [INFO ] server_scripts:recipes.js:370: - tardis:vm_strap[minecraft:crafting_shaped]: ['minecraft:leather', 'minecraft:string', '#minecraft:wool'] -> ['tardis:vm_strap']
+[04:17:05] [INFO ] server_scripts:recipes.js:373: + kubejs:shaped: ['#forge:ingots/iron', '#forge:string', 'allthemodium:allthemodium_ingot', '#forge:leather'] -> ['tardis:vm_strap']
+[04:17:05] [INFO ] server_scripts:recipes.js:386: - tardis:vm_module[minecraft:crafting_shaped]: ['minecraft:blaze_rod', 'tardis:circuits', 'tardis:subsystem/dematerialisation_circuit', 'minecraft:iron_ingot', 'minecraft:redstone'] -> ['tardis:vm_module']
+[04:17:05] [INFO ] server_scripts:recipes.js:389: + kubejs:shaped: ['#forge:ingots/iron', Item.of('tardis:subsystem/dematerialisation_circuit', '{Damage:0}'), 'allthemodium:vibranium_dust', 'tardis:circuits'] -> ['tardis:vm_module']
+[04:17:05] [INFO ] server_scripts:recipes.js:402: - tardis:vm[minecraft:crafting_shapeless]: ['tardis:vm_module', 'tardis:vm_strap'] -> ['tardis:vm']
+[04:17:05] [INFO ] server_scripts:recipes.js:405: + kubejs:shaped: ['tardis:vm_strap', 'tardis:vm_module', 'naturescompass:naturescompass', 'explorerscompass:explorerscompass', 'appliedenergistics2:sky_compass'] -> ['tardis:vm']
+[04:17:05] [INFO ] server_scripts:recipes.js:419: - tardis:neutronic_spectrometer[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:glass', 'minecraft:iron_ingot', '#forge:concrete', 'tardis:xion_crystal'] -> ['tardis:neutronic_spectrometer']
+[04:17:05] [INFO ] server_scripts:recipes.js:422: + kubejs:shaped: ['#forge:ingots/iron', 'tardis:xion_crystal', 'tardis:circuits', 'allthemodium:vibranium_ingot', '#forge:glass'] -> ['tardis:neutronic_spectrometer']
+[04:17:05] [INFO ] server_scripts:recipes.js:436: - tardis:air_lock[minecraft:crafting_shaped]: ['tardis:circuits', 'minecraft:black_concrete'] -> ['tardis:air_lock']
+[04:17:05] [INFO ] server_scripts:recipes.js:439: + kubejs:shaped: ['tardis:circuits', '#forge:obsidian'] -> ['tardis:air_lock']
+[04:17:05] [INFO ] server_scripts:recipes.js:448: + kubejs:shaped: ['kubejs:adamantium_ingot', 'allthemodium:allthemodium_ingot', 'allthemodium:vibranium_ingot', 'allthemodium:unobtainium_ingot', 'appliedenergistics2:singularity', 'draconicevolution:awakened_draconium_ingot'] -> ['kubejs:athum_ingot']
+[04:17:05] [INFO ] server_scripts:recipes.js:463: - playertrackingcompass:tracking_compass[minecraft:crafting_shaped]: ['minecraft:iron_nugget', 'minecraft:redstone'] -> ['playertrackingcompass:tracking_compass']
+[04:17:05] [INFO ] server_scripts:recipes.js:466: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'elementalcraft:fireite_ingot', 'mekanism:pellet_antimatter', 'allthemodium:vibranium_allthemodium_alloy_ingot'] -> ['playertrackingcompass:tracking_compass']
+[04:17:05] [INFO ] server_scripts:recipes.js:476: + bloodmagic:alchemytable: ['kubejs:athum_ingot', 'iceandfire:dragonsteel_ice_ingot', 'iceandfire:dragonsteel_fire_ingot', 'iceandfire:dragonsteel_lightning_ingot', 'extrabotany:orichalcos', 'mythicbotany:alfsteel_ingot', 'astralsorcery:starmetal_ingot', 'kubejs:hex_tech_steel_ingot'] -> ['kubejs:mssd_ingot']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:11: + kubejs:shaped: ['mysticalagradditions:insanium_block', 'mysticalagradditions:insanium_block', 'mekanism:pellet_antimatter', 'mysticalagradditions:insanium_block', 'mysticalagriculture:master_infusion_crystal'] -> ['3x mysticalagradditions:creative_essence']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:12: + kubejs:shaped: ['kubejs:athum_ingot', 'kubejs:athum_ingot', 'mekanism:ultimate_energy_cube', 'kubejs:athum_ingot', 'kubejs:athum_ingot'] -> ['mekanism:creative_energy_cube']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:13: + kubejs:shaped: ['kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'mekanism:creative_energy_cube', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot'] -> [Item.of('mekanism:creative_energy_cube', '{mekData:{EnergyContainers:[{Container:0b,stored:"18446744073709551615.9999"}]}}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:14: + kubejs:shaped: ['kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'botania:fabulous_pool', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot', 'kubejs:hex_tech_steel_ingot'] -> ['botania:creative_pool']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:15: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', 'pipez:ultimate_upgrade', 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> ['pipez:infinity_upgrade']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:16: + kubejs:shaped: ['botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:creative_pool', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock', 'botania:livingrock'] -> [Item.of('botania:mana_tablet', '{mana:500000,creative:1b}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:17: + kubejs:shaped: ['silentgems:moonstone', 'silentgems:moonstone', 'silentgems:moonstone', 'silentgems:moonstone', 'minecraft:dragon_egg', 'silentgems:moonstone', 'silentgems:moonstone', 'minecraft:beacon', 'silentgems:moonstone'] -> ['vampirism:sunscreen_beacon']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:18: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', 'iceandfire:dragon_meal', 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> ['iceandfire:creative_dragon_meal']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:19: + kubejs:shaped: ['mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence', Item.of('minecraft:iron_sword', '{Damage:0}'), 'mysticalagradditions:creative_essence', 'mysticalagradditions:creative_essence'] -> [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:20: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"defense"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:21: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"abilities"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"defense"}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:22: + kubejs:shapeless: [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')] -> [Item.of('tconstruct:creative_slot', '{slot:"abilities"}')]
+[04:17:05] [INFO ] server_scripts:rgui_table.js:23: + kubejs:shaped: ['extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'mekanism:ultimate_fluid_tank', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos'] -> ['mekanism:creative_fluid_tank']
+[04:17:05] [INFO ] server_scripts:rgui_table.js:24: + kubejs:shaped: ['extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'mekanism:ultimate_chemical_tank', 'botania:rainbow_rod', 'kubejs:deidic_essence_extractor', 'extrabotany:orichalcos', 'extrabotany:orichalcos', 'extrabotany:orichalcos'] -> ['mekanism:creative_chemical_tank']
+[04:17:05] [INFO ] Posted recipe events in 126.1 ms
+[04:17:06] [WARN ] Error parsing recipe silentgear:alloy_smelting/blaze_gold[silents_mechanisms:alloy_smelting]: {"conditions":[{"type":"forge:mod_loaded","modid":"silents_mechanisms"}],"type":"silents_mechanisms:alloy_smelting","process_time":400,"ingredients":[{"value":[{"tag":"forge:dusts/gold"},{"tag":"silents_mechanisms:chunks/gold"},{"tag":"forge:ingots/gold"}],"count":1},{"value":[{"ingredient":{"item":"minecraft:blaze_powder"},"count":3}],"count":3}],"result":{"item":"silentgear:blaze_gold_ingot","count":1}}: com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
+[04:17:06] [INFO ] Modified & removed recipes in 408.8 ms
+[04:17:06] [WARN ] Error creating recipe kubejs:kjs_40d2gjkbut2k6ufnadz33zq1h[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"tardis:alembic","count":1},"pattern":["BBB","GFG","SKS"],"key":{"F":{"item":"ironfurnaces:copper_furnace"},"B":{"tag":"forge:ingots/brass"},"G":{"tag":"forge:glass_bottles"},"S":{"tag":"minecraft:logs"},"K":{"tag":"forge:buckets"}}}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:glass_bottles'
+[04:17:06] [WARN ] Error creating recipe kubejs:kjs_ao5zsaq40l1arqlpmlmsfb0mb[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"tardis:blank_upgrade","count":1,"nbt":"{Damage:0}"},"pattern":["KKA","KKA","KKA"],"key":{"A":{"item":"allthemodium:allthemodium_nugget"},"K":{"tag":"forge:dried_kelp"}}}: com.google.gson.JsonSyntaxException: Unknown item tag 'forge:dried_kelp'
+[04:17:06] [WARN ] Error creating recipe kubejs:kjs_406ewof44j48r9ncuu5ox12su[kubejs:shaped]: {"type":"kubejs:shaped","result":{"item":"kubejs:athum_ingot","count":1},"pattern":[" S ","DBM","AVU"],"key":{"A":{"item":"kubejs:adamantium_ingot"},"M":{"item":"allthemodium:allthemodium_ingot"},"V":{"item":"allthemodium:vibranium_ingot"},"U":{"item":"allthemodium:unobtainium_ingot"},"S":{"item":"appliedenergistics2:singularity"},"D":{"item":"draconicevolution:awakened_draconium_ingot"}}}: com.google.gson.JsonSyntaxException: Pattern references symbol 'B' but it's not defined in the key
+[04:17:06] [INFO ] Added recipes in 4.304 ms
+[04:17:06] [INFO ] Added 36 recipes, removed 23 recipes, modified 0 recipes, with 4 failed recipes and 0 fall-backed recipes
+[04:17:06] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:06] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[04:17:07] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[04:17:07] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects

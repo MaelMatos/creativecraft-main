@@ -15,6 +15,38 @@
         "bloodmagic:dungeons/simple_key"
       ],
       "completedManualQuests": []
+    },
+    "botania:lexicon": {
+      "viewedEntries": [
+        "extrabotany:extrabotany/header",
+        "mythicbotany:mythic_botany/functional",
+        "mythicbotany:mythic_botany/rune_rituals",
+        "mythicbotany:mythic_botany/mimir",
+        "mythicbotany:mythic_botany/pylon",
+        "botania:misc/preventing_decay",
+        "botania:misc/starfield",
+        "mythicbotany:alfheim/alfheim_biomes",
+        "mythicbotany:alfheim/kvasir",
+        "mythicbotany:alfheim/andwari",
+        "mythicbotany:alfheim/alfheim_resources",
+        "botania:alfhomancy/gaia_ritual"
+      ],
+      "bookmarks": [],
+      "history": [
+        "botania:alfhomancy/gaia_ritual",
+        "mythicbotany:alfheim/alfheim_resources",
+        "mythicbotany:alfheim/andwari",
+        "mythicbotany:alfheim/kvasir",
+        "mythicbotany:alfheim/alfheim_biomes",
+        "botania:misc/starfield",
+        "botania:misc/preventing_decay",
+        "mythicbotany:mythic_botany/rune_rituals",
+        "mythicbotany:mythic_botany/mimir",
+        "mythicbotany:mythic_botany/pylon",
+        "mythicbotany:mythic_botany/functional",
+        "extrabotany:extrabotany/header"
+      ],
+      "completedManualQuests": []
     }
   }
 }

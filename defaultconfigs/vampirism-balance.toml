@@ -124,7 +124,7 @@
 		ignoreSundamageDuration = 5
 		#In seconds
 		#Range: > 1
-		invisibilityDuration = 4
+		invisibilityDuration = 90
 		#In seconds
 		#Range: > 1
 		speedCooldown = 6

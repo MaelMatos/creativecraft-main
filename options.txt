@@ -88,9 +88,9 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.fullscreen:key.keyboard.f11
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
-key_key.saveToolbarActivator:key.keyboard.c
-key_key.loadToolbarActivator:key.keyboard.x
-key_key.advancements:key.keyboard.l
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.advancements:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -103,31 +103,37 @@ key_key.hotbar.9:key.keyboard.9
 key_key.extrabotany_mount_summon:key.keyboard.unknown
 key_key.extrabotany_ufo_catch:key.keyboard.unknown
 key_key.extrabotany_buddhist_shift:key.keyboard.unknown
-key_key.recipe_gui.reset:key.keyboard.escape
+key_key.recipe_gui.reset:key.keyboard.unknown
 key_key.dragon_fireAttack:key.keyboard.r
 key_key.dragon_strike:key.keyboard.g
 key_key.dragon_down:key.keyboard.x
 key_key.dragon_change_view:key.keyboard.f7
-key_key.tac.reload:key.keyboard.r
-key_key.tac.unload:key.keyboard.r:ALT
-key_key.tac.attachments:key.keyboard.z
-key_key.tac.fireSelect:key.keyboard.g
-key_key.tac.inspect:key.keyboard.h
-key_key.tac.sight_switch:key.keyboard.v
-key_key.tac.activeSideRail:key.keyboard.b
+key_key.tac.reload:key.keyboard.unknown
+key_key.tac.unload:key.keyboard.unknown
+key_key.tac.attachments:key.keyboard.unknown
+key_key.tac.fireSelect:key.keyboard.unknown
+key_key.tac.inspect:key.keyboard.unknown
+key_key.tac.sight_switch:key.keyboard.unknown
+key_key.tac.activeSideRail:key.keyboard.unknown
 key_key.tac.more_info_hold:key.keyboard.left.shift
 key_key.enchdesc.show:key.keyboard.left.shift
 key_key.entityculling.toggle:key.keyboard.unknown
+key_Strip World:key.keyboard.delete
+key_Dress World:key.keyboard.insert
+key_Open Config:key.keyboard.home
+key_Add Block:key.keyboard.page.up
+key_Remove Block:key.keyboard.page.down
+key_Cycle Profile:key.keyboard.end
 key_key.modernfix.config:key.keyboard.unknown
 key_key.shetiphiancore.tool.next:key.keyboard.unknown
 key_key.shetiphiancore.tool.previous:key.keyboard.unknown
-key_key.corpse.death_history:key.keyboard.u
+key_key.corpse.death_history:key.keyboard.unknown
 key_key.silentgear.cycle.back:key.keyboard.z
 key_key.silentgear.cycle.next:key.keyboard.c
 key_key.silentgear.displayStats:key.keyboard.left.control
 key_key.silentgear.displayTraits:key.keyboard.left.shift
 key_key.silentgear.displayConstruction:key.keyboard.left.alt
-key_key.silentgear.openItem:key.keyboard.x
+key_key.silentgear.openItem:key.keyboard.unknown
 key_key.control:key.keyboard.left.control
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.invtweaks_sort_player.desc:key.keyboard.unknown
@@ -136,20 +142,20 @@ key_key.invtweaks_sort_either.desc:key.keyboard.unknown
 key_key.botania_corporea_request:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_focus_search:key.keyboard.unknown
 key_key.integrateddynamics.logic_programmer_open_rename:key.keyboard.unknown
-key_Force Regeneration:key.keyboard.y
-key_Open Preferences:key.keyboard.f10
+key_Force Regeneration:key.keyboard.unknown
+key_Open Preferences:key.keyboard.unknown
 key_Toggle Trait:key.keyboard.right.alt
-key_key.mekanism.mode:key.keyboard.n
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
+key_key.mekanism.mode:key.keyboard.v:SHIFT
 key_key.mekanism.head_mode:key.keyboard.unknown
-key_key.mekanism.chest_mode:key.keyboard.g
+key_key.mekanism.chest_mode:key.keyboard.unknown
 key_key.mekanism.legs_mode:key.keyboard.unknown
-key_key.mekanism.feet_mode:key.keyboard.b
+key_key.mekanism.feet_mode:key.keyboard.unknown
 key_key.mekanism.details:key.keyboard.left.shift
 key_key.mekanism.description:key.keyboard.n:SHIFT
 key_key.mekanism.module_tweaker:key.keyboard.backslash
-key_key.mekanism.key_boost:key.keyboard.left.control
+key_key.mekanism.key_boost:key.keyboard.unknown
 key_key.mekanism.key_hud:key.keyboard.h
-key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_placebo.toggleWings:key.keyboard.unknown
 key_placebo.toggleTrails:key.keyboard.unknown
 key_keys.vampirism.action:key.keyboard.r
@@ -161,11 +167,6 @@ key_keys.vampirism.action2:key.keyboard.2:ALT
 key_keys.vampirism.action3:key.keyboard.3:ALT
 key_keys.vampirism.minion_task:key.keyboard.unknown
 key_key.astralsorcery.disable_perk_abilities:key.keyboard.unknown
-key_key.securitycraft.cameraZoomIn:key.keyboard.unknown
-key_key.securitycraft.cameraZoomOut:key.keyboard.unknown
-key_key.securitycraft.cameraEmitRedstone:key.keyboard.unknown
-key_key.securitycraft.cameraActivateNightVision:key.keyboard.unknown
-key_key.securitycraft.setDefaultViewingDirection:key.keyboard.unknown
 key_key.relics.hud_up:key.keyboard.unknown
 key_key.relics.hud_down:key.keyboard.unknown
 key_key.relics.hud_first:key.keyboard.unknown
@@ -173,12 +174,15 @@ key_key.relics.hud_second:key.keyboard.unknown
 key_key.relics.hud_third:key.keyboard.unknown
 key_key.relics.hud_fourth:key.keyboard.unknown
 key_key.relics.hud_fifth:key.keyboard.unknown
+key_key.securitycraft.cameraZoomIn:key.keyboard.unknown
+key_key.securitycraft.cameraZoomOut:key.keyboard.unknown
+key_key.securitycraft.cameraEmitRedstone:key.keyboard.unknown
+key_key.securitycraft.cameraActivateNightVision:key.keyboard.unknown
+key_key.securitycraft.setDefaultViewingDirection:key.keyboard.unknown
 key_oreexcavation.key.excavate:key.keyboard.left.shift
 key_oreexcavation.key.shape_toggle:key.keyboard.unknown
 key_oreexcavation.key.shape_edit:key.keyboard.unknown
 key_gui.xaero_minimap_settings:key.keyboard.y
-key_keys.werewolves.leap:key.keyboard.space:CONTROL
-key_keys.werewolves.bite:key.keyboard.v
 key_gui.xaero_zoom_in:key.keyboard.unknown
 key_gui.xaero_zoom_out:key.keyboard.unknown
 key_gui.xaero_new_waypoint:key.keyboard.b
@@ -199,14 +203,16 @@ key_gui.xaero_toggle_manual_cave_mode:key.keyboard.unknown
 key_gui.xaero_alternative_list_players:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_on_map:key.keyboard.unknown
 key_gui.xaero_toggle_tracked_players_in_world:key.keyboard.unknown
-key_key.toggle_focus.desc:key.keyboard.tab
 key_key.ars_nouveau.open_book:key.keyboard.unknown
 key_key.ars_nouveau.selection_hud:key.keyboard.unknown
 key_key.ars_nouveau.previous_slot:key.keyboard.unknown
 key_key.ars_nouveau.next_slot:key.keyboard.unknown
-key_key.openManual:key.keyboard.unknown
+key_key.toggle_focus.desc:key.keyboard.unknown
 key_key.nextDestination:key.keyboard.unknown
+key_key.openManual:key.keyboard.unknown
 key_key.prevDestination:key.keyboard.unknown
+key_keys.werewolves.leap:key.keyboard.space:CONTROL
+key_keys.werewolves.bite:key.keyboard.v
 key_key.cofh.mode_change_increment:key.keyboard.unknown
 key_key.cofh.mode_change_decrement:key.keyboard.unknown
 key_bloodmagic.keybind.open_holding:key.keyboard.unknown
@@ -215,17 +221,17 @@ key_bloodmagic.keybind.cycle_holding_neg:key.keyboard.unknown
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-key_key.easy_villagers.pick_up:key.keyboard.unknown
-key_key.easy_villagers.cycle_trades:key.keyboard.unknown
+key_key.tconstruct.helmet_interact:key.keyboard.unknown
+key_key.tconstruct.leggings_interact:key.keyboard.unknown
 key_key.cyclic.cake:key.keyboard.unknown
-key_key.tconstruct.helmet_interact:key.keyboard.z
-key_key.tconstruct.leggings_interact:key.keyboard.i
 key_key.drawMahoujin:key.keyboard.unknown
 key_key.changeMysticCode:key.keyboard.unknown
 key_key.settingsGUI:key.keyboard.unknown
 key_key.selectiveDisplacement:key.keyboard.unknown
-key_key.tardis.snap:key.keyboard.h
-key_key.tardis.reload_laser_gun:key.keyboard.left.alt
+key_key.easy_villagers.pick_up:key.keyboard.unknown
+key_key.easy_villagers.cycle_trades:key.keyboard.unknown
+key_key.tardis.snap:key.keyboard.unknown
+key_key.tardis.reload_laser_gun:key.keyboard.unknown
 key_key.draconicevolution.place_item:key.keyboard.unknown
 key_key.draconicevolution.tool_config:key.keyboard.unknown
 key_key.draconicevolution.tool_modules:key.keyboard.c:SHIFT
@@ -243,8 +249,8 @@ key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
-key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.r
+key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.mouse.middle
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT

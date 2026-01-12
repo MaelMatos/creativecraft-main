@@ -1,0 +1,48 @@
+{
+    "oreConfig": [
+        {
+            "ore": "kubejs:uru_ore",
+            "filler": "minecraft:stone",
+            "minY": 0,
+            "maxY": 64,
+            "maxVeinSize": 1,
+            "spawnRate": 0.3,
+            "biomeBlacklist": [],
+            "biomeWhitelist": [
+                "ars_nouveau:archwood_forest"
+            ]
+        },
+        {
+            "ore": "kubejs:adamantium_ore",
+            "filler": "minecraft:stone",
+            "minY": 0,
+            "maxY": 64,
+            "maxVeinSize": 2,
+            "spawnRate": 0.2,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        },
+        {
+            "ore": "kubejs:kairoseki_ore",
+            "filler": "minecraft:stone",
+            "minY": 0,
+            "maxY": 64,
+            "maxVeinSize": 5,
+            "spawnRate": 0.2,
+            "biomeBlacklist": [],
+            "biomeWhitelist": [
+                "WATER"
+            ]
+        },
+        {
+            "ore": "kubejs:katchim_katchim_ore",
+            "filler": "minecraft:stone",
+            "minY": 0,
+            "maxY": 128,
+            "maxVeinSize": 2,
+            "spawnRate": 0.2,
+            "biomeBlacklist": [],
+            "biomeWhitelist": []
+        }
+    ]
+}

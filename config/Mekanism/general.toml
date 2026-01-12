@@ -15,7 +15,7 @@
 	transmitterAlloyUpgrade = true
 	#Base factor for working out machine performance with upgrades - UpgradeModifier * (UpgradesInstalled/UpgradesPossible).
 	#Range: > 1
-	maxUpgradeMultiplier = 10
+	maxUpgradeMultiplier = 2
 	#How much Boiler heat is immediately usable to convert water to steam.
 	boilerWaterConductivity = 0.7
 	#Amount of heat produced per fuel tick of a fuel's burn time in the Fuelwood Heater.

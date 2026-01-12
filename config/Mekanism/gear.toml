@@ -17,7 +17,7 @@
 		#Enable the 'Vein Mining' mode for the Atomic Disassembler.
 		veinMining = false
 		#The amount of damage the Atomic Disassembler does when it is out of power. (Value is in number of half hearts)
-		minDamage = 4
+		minDamage = 6
 		#The amount of damage the Atomic Disassembler does when it has at least energyUsageWeapon power stored. (Value is in number of half hearts)
 		maxDamage = 20
 		#Maximum amount (joules) of energy the Atomic Disassembler can contain.

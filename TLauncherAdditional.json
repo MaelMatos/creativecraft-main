@@ -17152,6 +17152,180 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 242436,
+          "name": "Ore Tweaker",
+          "author": "EwyBoy",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ore-tweaker",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 29,
+              "name": "world_gen",
+              "shortName": "world",
+              "nesting": 0
+            }
+          ],
+          "picture": 800543,
+          "pictures": [],
+          "lanName": "ore-tweaker",
+          "version": {
+            "id": 3758390,
+            "name": "1.16.5-2.7.1",
+            "updateDate": 1650253380000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              }
+            ],
+            "metadata": {
+              "sha1": "f75221f6f7e17267e94205256c0141ac8ac1b2cb",
+              "size": 80794,
+              "path": "mods/OreTweaker-1.16.5-2.7.1.jar",
+              "url": "/mods/242436/3758390/OreTweaker-1.16.5-2.7.1.jar"
+            },
+            "installed": 1356,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 7,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 35,
+            "name": "1.18.2"
+          },
+          "updated": 1704315600000,
+          "update": 1704315600000,
+          "downloadALL": 17559,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 250603,
+          "name": "World Stripper",
+          "author": "EwyBoy",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/world-stripper",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 23,
+              "name": "world_ores_resources",
+              "shortName": "ores",
+              "nesting": 0
+            },
+            {
+              "id": 27,
+              "name": "world_structures",
+              "shortName": "structures",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 801589,
+          "pictures": [],
+          "lanName": "world-stripper",
+          "version": {
+            "id": 3415529,
+            "name": "1.16.5-2.1.0",
+            "updateDate": 1628230633000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              },
+              {
+                "id": 29,
+                "name": "1.16.3"
+              },
+              {
+                "id": 28,
+                "name": "1.16.2"
+              },
+              {
+                "id": 27,
+                "name": "1.16.1"
+              },
+              {
+                "id": 40,
+                "name": "1.16"
+              }
+            ],
+            "metadata": {
+              "sha1": "47b4288688d2afe46ac211b64c8adf6d9c0f3961",
+              "size": 139989,
+              "path": "mods/World+Stripper-1.16.5-2.1.0.jar",
+              "url": "/mods/250603/3415529/World+Stripper-1.16.5-2.1.0.jar"
+            },
+            "installed": 4148,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 20,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 52,
+            "name": "1.21"
+          },
+          "updated": 1722632400000,
+          "update": 1722632400000,
+          "downloadALL": 28964,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],

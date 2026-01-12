@@ -352,6 +352,8 @@ onEvent('recipes', event => {
 
   // Remove a receita original
   event.remove({ output: 'tardis:quantiscope_iron' })
+  event.remove({ output: 'industrialforegoing:infinity_trident' })
+  event.remove({ output: 'industrialforegoing:infinity_nuke' })
 
   // Adiciona nova receita
   event.shaped('tardis:quantiscope_iron', [

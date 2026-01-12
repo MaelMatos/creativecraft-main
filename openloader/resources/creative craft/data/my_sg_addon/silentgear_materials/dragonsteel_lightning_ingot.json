@@ -1,0 +1,46 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:dragonsteel_lightning_ingot"
+    }
+  },
+  "name": {
+    "text": "dragonsteel lightning ingot "
+  },
+  "stats": {
+    "main": {
+      "durability": 4500,
+      "armor": 70,
+      "armor_durability": {
+        "mul2": 69
+      },
+      "armor_toughness": 35,
+      "enchantability": 90,
+      "magic_armor": 60,
+      "melee_damage": 70
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:fiery",
+        "level": 5
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 4
+      },
+      {
+        "name": "silentgear:brilliant",
+        "level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "availability": {
+    "tier": 8,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:hex_tech_steel_ingot"
+    }
+  },
+  "name": {
+    "text": "hex tech steel ingot"
+  },
+  "stats": {
+    "main": {
+      "armor": 7000,
+      "armor_durability": 15000,
+      "armor_toughness": 6000,
+      "chargeability": 1000,
+      "durability": 19000,
+      "harvest_level": 7,
+      "harvest_speed": 80,
+      "knockback_resistance": 20,
+      "magic_armor": 9000,
+      "melee_damage": 9000,
+      "projectile_accuracy": {
+        "mul1": 2
+      },
+      "projectile_speed": {
+        "mul2": 3
+      },
+      "ranged_damage": {
+        "mul2": 699
+      },
+      "rarity": 200,
+      "enchantability": 5000
+    },
+    "coating": {
+      "enchantability": 5000,
+      "durability": {
+        "mul2": 9999
+      },
+      "projectile_speed": {
+        "mul2": 3
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:malleable",
+        "level": 5
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 5
+      },
+      {
+        "name": "silentgear:moonwalker",
+        "level": 5
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 5
+      },
+      {
+        "name": "silentgear:accelerate",
+        "level": 5
+      },
+      {
+        "name": "silentgear:holy",
+        "level": 5
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 5
+      }
+    ],
+    "coating": [
+      {
+        "name": "silentgear:renew",
+        "level": 5
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 5
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 5
+      }
+    ]
+  }
+}

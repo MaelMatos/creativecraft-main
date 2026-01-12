@@ -1,0 +1,95 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "botania:gaia_ingot"
+    }
+  },
+  "name": {
+    "text": "gaia ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 4760,
+      "armor_durability": 64,
+      "enchantability": 50,
+      "chargeability": {
+        "mul2": 1.8
+      },
+      "rarity": 80,
+      "harvest_speed": 11,
+      "melee_damage": 45,
+      "ranged_damage": {
+        "mul2": 1.8
+      },
+      "ranged_speed": {
+        "mul2": -1.3
+      },
+      "projectile_speed": {
+        "mul2": 1.3
+      },
+      "projectile_accuracy": {
+        "mul1": 1.5
+      },
+      "armor": 60,
+      "armor_toughness": 37,
+      "knockback_resistance": {
+        "add": 5
+      },
+      "magic_armor": 67
+    },
+    "tip": {
+      "durability": {
+        "add": 670
+      },
+      "armor_durability": {
+        "add": 20
+      },
+      "rarity": {
+        "add": 40
+      },
+      "harvest_speed": {
+        "add": 13
+      },
+      "melee_damage": {
+        "add": 20
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 5
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 2
+      },
+      {
+        "name": "silentgear:sharp",
+        "level": 3
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:fiery",
+        "level": 3
+      },
+      {
+        "name": "silentgear:void_ward",
+        "level": 2
+      }
+    ]
+  }
+}

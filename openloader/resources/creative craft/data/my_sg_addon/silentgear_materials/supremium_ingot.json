@@ -1,0 +1,123 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mysticalagriculture:supremium_ingot"
+    }
+  },
+  "name": {
+    "text": "Supremium Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 18000,
+      "armor_durability": {
+        "mul2": 99
+      },
+      "armor_toughness": 40,
+      "attack_speed": {
+        "max": 1.5
+      },
+      "chargeability": 2.5,
+      "enchantability": 80,
+      "harvest_level": 6,
+      "harvest_speed": 22,
+      "knockback_resistance": 3,
+      "magic_armor": 48,
+      "melee_damage": 24,
+      "projectile_accuracy": {
+        "mul1": 1
+      },
+      "projectile_speed": {
+        "mul2": 0.5
+      },
+      "ranged_damage": {
+        "mul2": 1
+      },
+      "ranged_speed": {
+        "mul2": 0.5
+      },
+      "rarity": 250,
+      "reach_distance": 1.5,
+      "repair_efficiency": {
+        "mul1": 15
+      },
+      "repair_value": 5000,
+      "armor": 48
+    },
+    "rod": {
+      "enchantability": 80,
+      "durability": {
+        "mul2": 2
+      },
+      "melee_damage": {
+        "mul2": 2
+      },
+      "ranged_damage": {
+        "mul2": 2
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 4
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 4
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 4
+      },
+      {
+        "name": "silentgear:bastion",
+        "level": 4
+      },
+      {
+        "name": "silentgear:advanced_aquatic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:kitty_vision",
+        "level": 1
+      },
+      {
+        "name": "silentgear:bounce",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 4
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 4
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 4
+      }
+    ]
+  }
+}

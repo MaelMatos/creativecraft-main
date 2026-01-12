@@ -1,0 +1,96 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "name": {
+    "text": "Wapo Metal"
+  },
+  "stats": {
+    "main": {
+      "durability": 200,
+      "armor": {
+        "mul2": 15
+      },
+      "armor_durability": {
+        "mul2": 9
+      },
+      "armor_toughness": 6,
+      "attack_speed": 3,
+      "chargeability": 0.8,
+      "enchantability": 12,
+      "harvest_level": 3,
+      "harvest_speed": 25,
+      "knockback_resistance": -0.1,
+      "magic_armor": 8,
+      "melee_damage": 7,
+      "projectile_accuracy": 12,
+      "projectile_speed": 2,
+      "ranged_damage": 1.2,
+      "ranged_speed": 2,
+      "rarity": 50,
+      "repair_efficiency": {
+        "mul1": 11
+      },
+      "repair_value": 60
+    },
+    "rod": {
+      "durability": {
+        "mul2": 1.2
+      },
+      "melee_damage": {
+        "mul2": 1.2
+      },
+      "ranged_speed": {
+        "mul2": 0.5
+      },
+      "projectile_speed": {
+        "mul2": 0.5
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 1
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 1
+      },
+      {
+        "name": "silentgear:light",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:ancient",
+        "level": 1
+      },
+      {
+        "name": "silentgear:mighty",
+        "level": 1
+      },
+      {
+        "name": "silentgear:accelerate",
+        "level": 2
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "draconicevolution:awakened_draconium_ingot"
+    }
+  },
+  "name": {
+    "text": "awakened_draconium ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 6000,
+      "armor_durability": {
+        "mul2": 69
+      },
+      "enchantability": 80,
+      "chargeability": 50,
+      "rarity": 70,
+      "harvest_speed": 30,
+      "harvest_level": 5,
+      "melee_damage": 65,
+      "attack_speed": 2.5,
+      "armor": 60,
+      "armor_toughness": 38,
+      "knockback_resistance": 7,
+      "magic_armor": 50
+    },
+    "rod": {
+      "melee_damage": {
+        "mul2": 1.5
+      },
+      "durability": {
+        "mul2": 1
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 4
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 4
+      },
+      {
+        "name": "silentgear:heavy",
+        "level": 3
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:jagged",
+        "level": 5
+      }
+    ]
+  }
+}

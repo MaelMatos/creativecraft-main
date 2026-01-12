@@ -1,0 +1,39 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:fire_dragon_blood"
+    }
+  },
+  "name": {
+    "text": "fire dragon blood"
+  },
+  "stats": {
+    "main": {
+      "durability": 100
+    },
+    "tip": {
+      "melee_damage": {
+        "add": 20
+      }
+    }
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:fiery",
+        "level": 3
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      }
+    ]
+  }
+}

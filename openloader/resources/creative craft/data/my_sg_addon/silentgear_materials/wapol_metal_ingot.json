@@ -1,0 +1,46 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:wapol_metal_ingot"
+    }
+  },
+  "name": {
+    "text": "wapol metal ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 2600,
+      "armor": 40,
+      "armor_durability": {
+        "mul2": 31
+      },
+      "armor_toughness": 15,
+      "knockback_resistance": 2,
+      "melee_damage": 10,
+      "magic_armor": 20
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:hard",
+        "level": 4
+      },
+      {
+        "name": "silentgear:flexible",
+        "level": 3
+      },
+      {
+        "name": "silentgear:jagged",
+        "level": 2
+      }
+    ]
+  }
+}

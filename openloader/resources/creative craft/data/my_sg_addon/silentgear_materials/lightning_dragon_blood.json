@@ -1,0 +1,35 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  },
+  "name": {
+    "text": "lightning dragon blood"
+  },
+  "stats": {
+    "main": {
+      "durability": 100
+    },
+    "tip": {
+      "melee_damage": {
+        "add": 20
+      }
+    }
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:fiery",
+        "level": 5
+      }
+    ]
+  }
+}

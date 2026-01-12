@@ -3104,78 +3104,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 522129,
-          "name": "Ore Clumps",
-          "author": "cjminecraft01",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/oreclumps",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            }
-          ],
-          "picture": 848524,
-          "pictures": [],
-          "lanName": "oreclumps",
-          "version": {
-            "id": 3447915,
-            "name": "1.16-0.3.0",
-            "updateDate": 1630662078000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              },
-              {
-                "id": 29,
-                "name": "1.16.3"
-              },
-              {
-                "id": 28,
-                "name": "1.16.2"
-              }
-            ],
-            "metadata": {
-              "sha1": "17269bc69b9cfcc33d3d04a4547216ce7ff75177",
-              "size": 159634,
-              "path": "mods/OreClumps-1.16-0.3.0.jar",
-              "url": "/mods/522129/3447915/OreClumps-1.16-0.3.0.jar"
-            },
-            "installed": 626,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 0,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 38,
-            "name": "1.19.2"
-          },
-          "updated": 1663016400000,
-          "update": 1663016400000,
-          "downloadALL": 9966,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 69162,
           "name": "CoFH Core",
           "author": "TeamCoFH KingLemming Zeldo skyboy026 covers1624",
@@ -16408,71 +16336,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 315862,
-          "name": "Chance Globe",
-          "author": "bl4ckscor3",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/chance-globe",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 5,
-              "name": "technology",
-              "shortName": "technology",
-              "nesting": 0
-            }
-          ],
-          "picture": 847211,
-          "pictures": [],
-          "lanName": "chance-globe",
-          "version": {
-            "id": 3283319,
-            "name": "chanceglobe-1.16.5-v1.3.5",
-            "updateDate": 1618901737000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              }
-            ],
-            "metadata": {
-              "sha1": "69b839ff4e2d897571f823749110dfc4766420a6",
-              "size": 25572,
-              "path": "mods/chanceglobe-1.16.5-v1.3.5.jar",
-              "url": "/mods/315862/3283319/chanceglobe-1.16.5-v1.3.5.jar"
-            },
-            "installed": 5582,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 14,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 66,
-            "name": "1.21.11"
-          },
-          "updated": 1760130000000,
-          "update": 1760130000000,
-          "downloadALL": 21456,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 686055,
           "name": "Mekanism Tweaks",
           "author": "nin8995",
@@ -16977,94 +16840,6 @@
           "adult": false
         },
         {
-          "stateGameElement": "no_active",
-          "id": 415034,
-          "name": "Dragon Gear",
-          "author": "partonetrain",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/dragon-gear",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 2,
-              "name": "adventure_rpg",
-              "shortName": "rpg",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 197956,
-          "pictures": [],
-          "lanName": "dragon-gear",
-          "version": {
-            "id": 3393068,
-            "name": "iafgear-1.16.5-1.0.4",
-            "updateDate": 1626590518000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              }
-            ],
-            "metadata": {
-              "sha1": "59d1a152542cf2824b32bf5b6c8f6d4401c5370a",
-              "size": 120827,
-              "path": "mods/iafgear-1.16.5-1.0.4.jar",
-              "url": "/mods/415034/3393068/iafgear-1.16.5-1.0.4.jar"
-            },
-            "installed": 29916,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 25,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [
-            {
-              "gameType": "mod",
-              "id": 103,
-              "name": "Silent Gear",
-              "gameEntityId": 297039,
-              "dependencyType": "required"
-            },
-            {
-              "gameType": "mod",
-              "id": 764,
-              "name": "Ice and Fire Dragons",
-              "gameEntityId": 264231,
-              "dependencyType": "required"
-            }
-          ],
-          "lastGameVersion": {
-            "id": 31,
-            "name": "1.16.5"
-          },
-          "updated": 1626590460000,
-          "update": 1626590460000,
-          "downloadALL": 34906,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
           "stateGameElement": "active",
           "id": 374087,
           "name": "Mana Gear",
@@ -17155,177 +16930,25 @@
         },
         {
           "stateGameElement": "active",
-          "id": 242436,
-          "name": "Ore Tweaker",
-          "author": "EwyBoy",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ore-tweaker",
+          "id": -91560992147800,
+          "name": "OreTweaker-1.16.5-2.7.1",
           "favorite": false,
-          "categories": [
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 15,
-              "name": "server_utility",
-              "shortName": "plugins",
-              "nesting": 0
-            },
-            {
-              "id": 29,
-              "name": "world_gen",
-              "shortName": "world",
-              "nesting": 0
-            }
-          ],
-          "picture": 800543,
-          "pictures": [],
-          "lanName": "ore-tweaker",
           "version": {
-            "id": 3758390,
-            "name": "1.16.5-2.7.1",
-            "updateDate": 1650253380000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              },
-              {
-                "id": 29,
-                "name": "1.16.3"
-              }
-            ],
+            "id": -91560992552000,
+            "name": "1.0",
             "metadata": {
               "sha1": "f75221f6f7e17267e94205256c0141ac8ac1b2cb",
               "size": 80794,
               "path": "mods/OreTweaker-1.16.5-2.7.1.jar",
-              "url": "/mods/242436/3758390/OreTweaker-1.16.5-2.7.1.jar"
+              "url": "mods/OreTweaker-1.16.5-2.7.1.jar"
             },
-            "installed": 1356,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
+            "available": false
           },
-          "popularity": 2,
-          "downloadMonth": 7,
-          "userInstall": false,
+          "userInstall": true,
           "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 35,
-            "name": "1.18.2"
-          },
-          "updated": 1704315600000,
-          "update": 1704315600000,
-          "downloadALL": 17559,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 250603,
-          "name": "World Stripper",
-          "author": "EwyBoy",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/world-stripper",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 15,
-              "name": "server_utility",
-              "shortName": "plugins",
-              "nesting": 0
-            }
-          ],
-          "picture": 801589,
-          "pictures": [],
-          "lanName": "world-stripper",
-          "version": {
-            "id": 3415529,
-            "name": "1.16.5-2.1.0",
-            "updateDate": 1628230633000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              },
-              {
-                "id": 29,
-                "name": "1.16.3"
-              },
-              {
-                "id": 28,
-                "name": "1.16.2"
-              },
-              {
-                "id": 27,
-                "name": "1.16.1"
-              },
-              {
-                "id": 40,
-                "name": "1.16"
-              }
-            ],
-            "metadata": {
-              "sha1": "47b4288688d2afe46ac211b64c8adf6d9c0f3961",
-              "size": 139989,
-              "path": "mods/World+Stripper-1.16.5-2.1.0.jar",
-              "url": "/mods/250603/3415529/World+Stripper-1.16.5-2.1.0.jar"
-            },
-            "installed": 4148,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 2,
-          "downloadMonth": 20,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 52,
-            "name": "1.21"
-          },
-          "updated": 1722632400000,
-          "update": 1722632400000,
-          "downloadALL": 28964,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
+          "available": false,
+          "parser": false,
+          "totalComments": 0
         }
       ],
       "resourcePacks": [],

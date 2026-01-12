@@ -1,0 +1,39 @@
+{
+  "availability": {
+    "tier": 10,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:mhfd_ingot"
+    }
+  },
+  "name": {
+    "text": "mhfd ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 720720,
+      "armor_durability": {
+        "add": 13874
+      },
+      "armor_toughness": 130000,
+      "armor": 160000,
+      "attack_speed": 100,
+      "harvest_level": 7,
+      "harvest_speed": 100,
+      "knockback_resistance": {
+        "add": 99
+      },
+      "magic_armor": 130000,
+      "melee_damage": 170000,
+      "ranged_damage": 180000,
+      "rarity": 999,
+      "enchantability": 3000
+    }
+  },
+  "traits": {}
+}

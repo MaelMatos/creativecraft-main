@@ -1,0 +1,205 @@
+{
+  "availability": {
+    "tier": 6,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mysticalagriculture:insanium_ingot"
+    }
+  },
+  "name": {
+    "text": "Insanium Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 300000,
+      "armor": 60,
+      "armor_durability": {
+        "mul2": 199
+      },
+      "armor_toughness": 60,
+      "attack_speed": 2,
+      "chargeability": 4,
+      "enchantability": 45,
+      "harvest_level": 6,
+      "harvest_speed": 35,
+      "knockback_resistance": {
+        "mul1": 0.5
+      },
+      "magic_armor": 60,
+      "melee_damage": 35,
+      "projectile_accuracy": {
+        "mul1": 1
+      },
+      "projectile_speed": {
+        "mul2": 1
+      },
+      "ranged_damage": {
+        "mul2": 3
+      },
+      "ranged_speed": {
+        "mul2": 1
+      },
+      "rarity": 450,
+      "reach_distance": {
+        "max": 2
+      },
+      "repair_efficiency": {
+        "mul1": 2
+      },
+      "repair_value": 1000
+    },
+    "rod": {
+      "enchantability": 45,
+      "durability": {
+        "mul2": 2
+      },
+      "melee_damage": {
+        "mul2": 2
+      },
+      "ranged_damage": {
+        "mul2": 4
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 1
+      },
+      {
+        "name": "silentgear:advanced_flame_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:advanced_aquatic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:advanced_void_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_blindness",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_wither",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_poison",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_levitation",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_nausea",
+        "level": 1
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 5
+      },
+      {
+        "name": "silentgear:bastion",
+        "level": 5
+      },
+      {
+        "name": "silentgear:kitty_vision",
+        "level": 1
+      },
+      {
+        "name": "silentgear:light",
+        "level": 1
+      },
+      {
+        "name": "silentgear:bounce",
+        "level": 1
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:imperial",
+        "level": 3
+      },
+      {
+        "name": "silentgear:lucky",
+        "level": 5
+      },
+      {
+        "name": "silentgear:mighty",
+        "level": 5
+      },
+      {
+        "name": "silentgear:sharp",
+        "level": 5
+      },
+      {
+        "name": "silentgear:swift_swin",
+        "level": 5
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 5
+      },
+      {
+        "name": "silentgear:imperial",
+        "level": 5
+      },
+      {
+        "name": "silentgear:lucky",
+        "level": 5
+      },
+      {
+        "name": "silentgear:mighty",
+        "level": 5
+      },
+      {
+        "name": "silentgear:sharp",
+        "level": 5
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      }
+    ]
+  }
+}

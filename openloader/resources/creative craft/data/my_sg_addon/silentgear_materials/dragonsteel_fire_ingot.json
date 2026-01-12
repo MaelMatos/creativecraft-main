@@ -1,0 +1,46 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:dragonsteel_fire_ingot"
+    }
+  },
+  "name": {
+    "text": "dragonsteel fire ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 3700,
+      "armor": 50,
+      "armor_durability": {
+        "mul2": 41
+      },
+      "armor_toughness": 20,
+      "enchantability": 70,
+      "magic_armor": 30,
+      "melee_damage": 45
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:flame_ward",
+        "level": 4
+      },
+      {
+        "name": "silentgear:fiery",
+        "level": 3
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      }
+    ]
+  }
+}

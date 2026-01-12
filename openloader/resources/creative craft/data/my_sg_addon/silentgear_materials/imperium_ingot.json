@@ -1,0 +1,110 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mysticalagriculture:imperium_ingot"
+    }
+  },
+  "name": {
+    "text": "Imperium Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 10000,
+      "armor": 32,
+      "armor_durability": {
+        "mul2": 69
+      },
+      "armor_toughness": 20,
+      "attack_speed": 1.3,
+      "chargeability": 1.5,
+      "enchantability": 38,
+      "harvest_level": 5,
+      "harvest_speed": 16,
+      "magic_armor": 28,
+      "melee_damage": 17,
+      "projectile_accuracy": {
+        "mul1": 1
+      },
+      "projectile_speed": {
+        "mul2": 0.4
+      },
+      "ranged_damage": {
+        "mul2": 0.4
+      },
+      "ranged_speed": {
+        "mul2": 0.5
+      },
+      "rarity": 150,
+      "reach_distance": {
+        "max": 1.3
+      },
+      "repair_efficiency": {
+        "mul1": 1.5
+      },
+      "repair_value": 1000
+    },
+    "rod": {
+      "enchantability": 28,
+      "durability": {
+        "mul2": 0.5
+      },
+      "melee_damage": {
+        "mul2": 0.5
+      },
+      "ranged_damage": {
+        "mul2": 0.4
+      }
+    }
+  },
+  "traits": {
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 3
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 3
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      }
+    ],
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 1
+      },
+      {
+        "name": "silentgear:bastion",
+        "level": 1
+      }
+    ]
+  }
+}

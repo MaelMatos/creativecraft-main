@@ -18129,99 +18129,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 224770,
-          "name": "Lycanites Mobs",
-          "author": "Lycanite",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/lycanites-mobs",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 1,
-              "name": "magic",
-              "shortName": "magic",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 2,
-              "name": "adventure_rpg",
-              "shortName": "rpg",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 24,
-              "name": "mc_food",
-              "shortName": "food",
-              "nesting": 0
-            }
-          ],
-          "picture": 844597,
-          "pictures": [
-            23268,
-            23261,
-            23289,
-            23267,
-            23275,
-            23279,
-            23284
-          ],
-          "lanName": "lycanites-mobs",
-          "version": {
-            "id": 7298684,
-            "name": "lycanitesmobs-1.16.5-2.3.3.8",
-            "updateDate": 1764977670000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              }
-            ],
-            "metadata": {
-              "sha1": "cf23a7ce72ccd1b5dcd1f2bab9982af035b049e3",
-              "size": 99814558,
-              "path": "mods/lycanitesmobs-1.16.5-2.3.3.8.jar",
-              "url": "/mods/224770/7298684/lycanitesmobs-1.16.5-2.3.3.8.jar"
-            },
-            "installed": 508,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 5,
-          "downloadMonth": 1564,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 31,
-            "name": "1.16.5"
-          },
-          "updated": 1733864400000,
-          "update": 1733864400000,
-          "downloadALL": 1454208,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 378802,
           "name": "Structure Gel API",
           "author": "moddinglegacy",
@@ -18291,6 +18198,80 @@
           "updated": 1737838800000,
           "update": 1737838800000,
           "downloadALL": 898625,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 380771,
+          "name": "Guide-API Village and Pillage",
+          "author": "maxanier",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/guide-api-village-and-pillage",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            },
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 845792,
+          "pictures": [
+            163799,
+            163801,
+            163800,
+            163802,
+            163797,
+            163798
+          ],
+          "lanName": "guide-api-village-and-pillage",
+          "version": {
+            "id": 3368119,
+            "name": "Guide-API-VP-1.16.5-2.2.2",
+            "updateDate": 1624866469000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "cff924b4eb4b622d92276978e4cd26ca728c62f2",
+              "size": 236363,
+              "path": "mods/Guide-API-VP-1.16.5-2.2.2.jar",
+              "url": "/mods/380771/3368119/Guide-API-VP-1.16.5-2.2.2.jar"
+            },
+            "installed": 202569,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 24,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1723323600000,
+          "update": 1723323600000,
+          "downloadALL": 475630,
           "available": true,
           "parser": true,
           "totalComments": 0,

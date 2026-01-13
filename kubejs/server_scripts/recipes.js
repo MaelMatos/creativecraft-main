@@ -1,105 +1,13 @@
-/* function shaped(a1,a2,a3,b1,b2,b3,c1,c2,c3,result){
-    event.shaped(result, [
-        a1,a2,a3,
-        b1,b2,b3,
-        c1,c2,c3
-    ],{
-        a1: a1,
-        a2: a2,
-        a3: a3,
-        b1: b1,
-        b2: b2,
-        b3: b3,
-        c1: c1,
-        c2: c2,
-        c3: c3
-    })
-} */
-function pickaxe(event, mat, handle) {
-  if (typeof handle !== 'string') {
-    handle = 'minecraft:stick'
-  }
-  const item = mat.includes(':') ? mat.split(':')[1] : mat;
-  event.shaped(item + '_pickaxe', [
-    'MMM',
-    ' X ',
-    ' X '
-  ], {
-    M: mat,
-    X: handle
-  })
-}
-function shovel(event, mat, handle) {
-  if (typeof handle !== 'string') {
-    handle = 'minecraft:stick'
-  }
-  const item = mat.includes(':') ? mat.split(':')[1] : mat;
-  event.shaped(item + '_shovel', [
-    ' M ',
-    ' X ',
-    ' X '
-  ], {
-    M: mat,
-    X: handle
-  })
-}
-function axe(event, mat, handle) {
-  if (typeof handle !== 'string') {
-    handle = 'minecraft:stick'
-  }
-  const item = mat.includes(':') ? mat.split(':')[1] : mat;
-  event.shaped(item + '_axe', [
-    'MM',
-    'MX ',
-    ' X '
-  ], {
-    M: mat,
-    X: handle
-  })
-}
-function hoe(event, mat, handle) {
-  if (typeof handle !== 'string') {
-    handle = 'minecraft:stick'
-  }
-  const item = mat.includes(':') ? mat.split(':')[1] : mat;
-  event.shaped(item + '_hoe', [
-    'MM',
-    ' X ',
-    ' X '
-  ], {
-    M: mat,
-    X: handle
-  })
-}
-function sword(event, mat, handle) {
-  if (typeof handle !== 'string') {
-    handle = 'minecraft:stick'
-  }
-  const item = mat.includes(':') ? mat.split(':')[1] : mat;
-  event.shaped(item + '_sword', [
-    'M',
-    'M',
-    'X'
-  ], {
-    M: mat,
-    X: handle
-  })
-}
-function tools(event, mat, handle) {
-  pickaxe(event, mat, handle)
-  shovel(event, mat, handle)
-  axe(event, mat, handle)
-  hoe(event, mat, handle)
-  sword(event, mat, handle)
-}
-
-/* ---------fim definição de funções--------- */
-
+// Priority: 0
+// Recipes Script including all custom crafting changes
 
 onEvent('recipes', event => {
 
-  //Creative Umbrella 
+  // ==========================================
+  // Creative Items
+  // ==========================================
 
+  // Vampires Need Umbrellas: Creative Umbrella
   event.shaped('vampiresneedumbrellas:creative_umbrella', [
     '  C',
     ' P ',
@@ -110,7 +18,7 @@ onEvent('recipes', event => {
     N: 'minecraft:nether_star'
   })
 
-  // ====== Creative Container ======
+  // Elemental Craft: Creative Tank
   event.remove({ output: 'elementalcraft:tank_creative' })
   event.shaped('elementalcraft:tank_creative', [
     'CTC',
@@ -120,27 +28,54 @@ onEvent('recipes', event => {
     S: 'ars_nouveau:creative_mana_jar',
     C: 'elementalcraft:purecrystal',
     E: 'mysticalagradditions:creative_essence',
-    T: 'elementalcraft:tank' // <-- Supondo que o item do meio seja um tanque comum, ajuste se for outro
+    T: 'elementalcraft:tank'
   })
 
-  // Remove a receita original
-  event.remove({ output: 'bessererteleporter:teleporter' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
-  event.shaped('bessererteleporter:teleporter', [
-    'EEE',
-    'GVG',
-    'CCC'
+  // Ars Nouveau: Creative Mana Jar
+  event.shaped('ars_nouveau:creative_mana_jar', [
+    'SMN',
+    'WCN',
+    '   '
   ], {
-    V: 'allthemodium:vibranium_block',
-    G: '#forge:glass_panes',
-    E: '#forge:ender_pearls',
-    C: '#forge:storage_blocks/coal'
+    S: 'ars_nouveau:mana_jar',
+    M: 'mekanism:pellet_antimatter',
+    N: 'minecraft:nether_star',
+    W: 'ars_nouveau:wilden_tribute',
+    C: 'mysticalagradditions:creative_essence'
   })
+
+  // Ars Nouveau: Creative Spell Book
+  event.shaped('ars_nouveau:creative_spell_book', [
+    'CAS',
+    'W  ',
+    '   '
+  ], {
+    S: 'ars_nouveau:creative_mana_jar',
+    C: 'mysticalagradditions:creative_essence',
+    A: 'ars_nouveau:archmage_spell_book',
+    W: 'ars_nouveau:wilden_tribute'
+  })
+
+  // Tardis: Artron Battery Creative
+  event.remove({ output: 'tardis:artron_battery_creative' })
+  event.shaped('tardis:artron_battery_creative', [
+    'CAC',
+    'XUX',
+    'MAM'
+  ], {
+    A: 'tardis:artron_battery_high',
+    U: 'allthemodium:unobtainium_ingot',
+    C: 'mysticalagradditions:creative_essence',
+    M: 'mekanism:pellet_antimatter',
+    X: 'tardis:xion_crystal'
+  })
+
+  // ==========================================
+  // Allthemodium Alloys
+  // ==========================================
 
   // Vibranium + Allthemodium
   event.remove({ output: 'allthemodium:vibranium_allthemodium_alloy_ingot' })
-
   event.shaped('allthemodium:vibranium_allthemodium_alloy_ingot', [
     'MFC',
     'AVC',
@@ -153,11 +88,8 @@ onEvent('recipes', event => {
     F: 'elementalcraft:fireite_ingot'
   })
 
-
   // Unobtainium + Allthemodium
-
   event.remove({ output: 'allthemodium:unobtainium_allthemodium_alloy_ingot' })
-
   event.shaped('allthemodium:unobtainium_allthemodium_alloy_ingot', [
     'MFC',
     'AUC',
@@ -169,46 +101,9 @@ onEvent('recipes', event => {
     M: 'mekanism:pellet_antimatter',
     F: 'elementalcraft:fireite_ingot'
   })
-  //todo event.shaped('mekanism:creative_bin')
-  //todo event.shaped('mekanism:creative_energy_cube')
-  //todo 'iceandfire:creative_dragon_meal'
-  //todo 'pipez:infinity_upgrade' 
-  //todo 'mysticalagriculture:creative_soulium_dagger'
-  //todo 'appliedenergistics2:creative_storage_cell'
-  //todo 'draconicevolution:creative_capacitor'
-  //todo 'bigreactors:reinforced_turbinecreativesteamgenerator'
-  //todo Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')Item.of('tconstruct:creative_slot', '{slot:"souls"}')
-  //todo Item.of('mekanism:creative_fluid_tank', '{mekData:{FluidTanks:[{Tank:0b,stored:{FluidName:"allthemodium:molten_bluelava",Amount:2147483647}}]}}')
-  //todo 
-
-  event.shaped('ars_nouveau:creative_mana_jar', [
-    'SMN',
-    'WCN',
-    '   '
-  ], {
-    S: 'ars_nouveau:mana_jar',
-    M: 'mekanism:pellet_antimatter',
-    N: 'minecraft:nether_star',
-    W: 'ars_nouveau:wilden_tribute',
-    C: 'mysticalagradditions:creative_essence'
-  })
-  event.shaped('ars_nouveau:creative_spell_book', [
-    'CAS',
-    'W  ',
-    '   '
-  ], {
-    S: 'ars_nouveau:creative_mana_jar',
-    C: 'mysticalagradditions:creative_essence',
-    A: 'ars_nouveau:archmage_spell_book',
-    W: 'ars_nouveau:wilden_tribute'
-
-  })
-
 
   // Unobtainium + Vibranium
-
   event.remove({ output: 'allthemodium:unobtainium_vibranium_alloy_ingot' })
-
   event.shaped('allthemodium:unobtainium_vibranium_alloy_ingot', [
     'MFC',
     'VUC',
@@ -220,11 +115,12 @@ onEvent('recipes', event => {
     M: 'mekanism:pellet_antimatter',
     F: 'elementalcraft:fireite_ingot'
   })
-  //-----------------------------------
 
+  // ==========================================
+  // Tardis Mod
+  // ==========================================
 
   // Alembic
-
   event.remove({ output: 'tardis:alembic' })
   event.shaped('tardis:alembic', [
     'BBB',
@@ -238,10 +134,8 @@ onEvent('recipes', event => {
     K: '#forge:buckets'
   })
 
-  // Remove a receita original
+  // Gallifreyan Key
   event.remove({ output: 'tardis:key_gallifreyan' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('tardis:key_gallifreyan', [
     'XXI',
     'UPT',
@@ -254,10 +148,8 @@ onEvent('recipes', event => {
     X: 'tardis:xion_crystal'
   })
 
-  // Remove a receita original
+  // Tardis Key
   event.remove({ output: 'tardis:tardis_key' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('tardis:tardis_key', [
     'XXG',
     'UPT',
@@ -270,11 +162,8 @@ onEvent('recipes', event => {
     X: 'tardis:xion_crystal'
   })
 
-
-  // Remove a receita original
+  // Pirate Key
   event.remove({ output: 'tardis:key_pirate' })
-
-  // Adiciona nova receita
   event.shaped('tardis:key_pirate', [
     'XXC',
     'UPT',
@@ -287,11 +176,8 @@ onEvent('recipes', event => {
     X: 'tardis:xion_crystal'
   })
 
-
-  // Remove a receita original
+  // Blank Upgrade
   event.remove({ output: 'tardis:blank_upgrade' })
-
-  // Adiciona nova receita
   event.shaped('tardis:blank_upgrade', [
     'KKA',
     'KKA',
@@ -301,28 +187,8 @@ onEvent('recipes', event => {
     K: '#forge:dried_kelp'
   })
 
-
-  // Remove a receita original
-  event.remove({ output: 'tardis:artron_battery_creative' })
-
-  // Adiciona nova receita
-  event.shaped('tardis:artron_battery_creative', [
-    'CAC',
-    'XUX',
-    'MAM'
-  ], {
-    A: 'tardis:artron_battery_high',
-    U: 'allthemodium:unobtainium_ingot',
-    C: 'mysticalagradditions:creative_essence',
-    M: 'mekanism:pellet_antimatter',
-    X: 'tardis:xion_crystal'
-  })
-
-
-  // Remove a receita original
+  // Circuits
   event.remove({ output: 'tardis:circuits' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('tardis:circuits', [
     'PPG',
     'XXG',
@@ -333,11 +199,8 @@ onEvent('recipes', event => {
     G: '#forge:ingots/gold'
   })
 
-
-  // Remove a receita original
+  // Quantiscope Brass
   event.remove({ output: 'tardis:quantiscope_brass' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('tardis:quantiscope_brass', [
     'EBE',
     'XDX',
@@ -349,13 +212,8 @@ onEvent('recipes', event => {
     D: '#forge:gems/diamond'
   })
 
-
-  // Remove a receita original
+  // Quantiscope Iron
   event.remove({ output: 'tardis:quantiscope_iron' })
-  event.remove({ output: 'industrialforegoing:infinity_trident' })
-  event.remove({ output: 'industrialforegoing:infinity_nuke' })
-
-  // Adiciona nova receita
   event.shaped('tardis:quantiscope_iron', [
     'EIE',
     'XYX',
@@ -367,11 +225,33 @@ onEvent('recipes', event => {
     Y: '#forge:gems/emerald'
   })
 
+  // Stattenheim Remote
+  event.shaped('tardis:stattenheim_remote ', [
+    'NXN',
+    'CXC',
+    'NXN'
+  ], {
+    X: 'tardis:xion_crystal',
+    C: 'tardis:circuits', // Fixed typo 'tardis:circuit' to 'tardis:circuits'
+    N: 'minecraft:netherite_ingot'
+  })
 
-  // Remove a receita original
-  event.remove({ output: 'tardis:vm_strap' })
-
+  // Neutronic Spectrometer
+  event.remove({ output: 'tardis:neutronic_spectrometer' })
   // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
+  event.shaped('tardis:neutronic_spectrometer', [
+    'IXI',
+    'EGE',
+    'III'
+  ], {
+    I: 'minecraft:iron_ingot',
+    X: 'tardis:xion_crystal',
+    E: 'tardis:circuits',
+    G: 'minecraft:glass'
+  })
+
+  // VM Strap
+  event.remove({ output: 'tardis:vm_strap' })
   event.shaped('tardis:vm_strap', [
     'LSL',
     'IAI',
@@ -383,11 +263,8 @@ onEvent('recipes', event => {
     L: '#forge:leather'
   })
 
-
-  // Remove a receita original
+  // VM Module
   event.remove({ output: 'tardis:vm_module' })
-
-  // Adiciona nova receita
   event.shaped('tardis:vm_module', [
     'IVI',
     'DED',
@@ -396,14 +273,11 @@ onEvent('recipes', event => {
     I: '#forge:ingots/iron',
     D: 'tardis:subsystem/dematerialisation_circuit',
     V: 'allthemodium:vibranium_dust',
-    E: 'tardis:circuits' // ou 'tardis:exotronic_circuit' dependendo do nome correto
+    E: 'tardis:circuits'
   })
 
-
-  // Remove a receita original
+  // VM
   event.remove({ output: 'tardis:vm' })
-
-  // Adiciona nova receita
   event.shaped('tardis:vm', [
     'SMN',
     'E A',
@@ -416,28 +290,8 @@ onEvent('recipes', event => {
     A: 'appliedenergistics2:sky_compass'
   })
 
-
-  // Remove a receita original
-  event.remove({ output: 'tardis:neutronic_spectrometer' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
-  event.shaped('tardis:neutronic_spectrometer', [
-    'IXI',
-    'EGE',
-    'VIV'
-  ], {
-    I: '#forge:ingots/iron',
-    X: 'tardis:xion_crystal',
-    E: 'tardis:circuits',
-    V: 'allthemodium:vibranium_ingot',
-    G: '#forge:glass'
-  })
-
-
-  // Remove a receita original
+  // Air Lock
   event.remove({ output: 'tardis:air_lock' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('tardis:air_lock', [
     ' O ',
     ' E ',
@@ -447,24 +301,26 @@ onEvent('recipes', event => {
     O: '#forge:obsidian'
   })
 
-  event.shaped('kubejs:athum_ingot', [
-    ' S ',
-    'DBM',
-    'AVU'
+
+  // ==========================================
+  // Custom Items / Other
+  // ==========================================
+
+  // Besserer Teleporter
+  event.remove({ output: 'bessererteleporter:teleporter' })
+  event.shaped('bessererteleporter:teleporter', [
+    'EEE',
+    'GVG',
+    'CCC'
   ], {
-    A: 'kubejs:adamantium_ingot',
-    M: 'allthemodium:allthemodium_ingot',
-    V: 'allthemodium:vibranium_ingot',
-    U: 'allthemodium:unobtainium_ingot',
-    S: 'appliedenergistics2:singularity',
-    D: 'draconicevolution:awakened_draconium_ingot'
+    V: 'allthemodium:vibranium_block',
+    G: '#forge:glass_panes',
+    E: '#forge:ender_pearls',
+    C: '#forge:storage_blocks/coal'
   })
 
-
-  // Remove a receita original
+  // Player Tracking Compass
   event.remove({ output: 'playertrackingcompass:tracking_compass' })
-
-  // Adiciona nova receita (linhas precisam ter exatamente 3 caracteres)
   event.shaped('playertrackingcompass:tracking_compass', [
     'FMF',
     'VCV',
@@ -475,44 +331,23 @@ onEvent('recipes', event => {
     M: 'mekanism:pellet_antimatter',
     V: 'allthemodium:vibranium_allthemodium_alloy_ingot'
   })
-  event.recipes.bloodmagic.alchemytable('kubejs:mssd_ingot', ['kubejs:athum_ingot', 'iceandfire:dragonsteel_ice_ingot', 'iceandfire:dragonsteel_fire_ingot', 'iceandfire:dragonsteel_lightning_ingot', 'extrabotany:orichalcos', 'mythicbotany:alfsteel_ingot', 'astralsorcery:starmetal_ingot', 'kubejs:hex_tech_steel_ingot'], 10000000, 72000, 5)
-  /*   bloodmagic
-    event.recipes.bloodmagic.alchemytable(output, input[]).syphon(int).ticks(int).upgradeLevel(int)
-    event.recipes.bloodmagic.altar(output, input).upgradeLevel(int).altarSyphon(int).consumptionRate(int).drainRate(int)
-    event.recipes.bloodmagic.arc(output, input, tool, addedOutput[]).consumeIngredient(boolean).outputFluid(fluid)
-    event.recipes.bloodmagic.array(output, baseInput, addedInput).texture(string)
-    event.recipes.bloodmagic.soulforge(output, input[]).minimumDrain(double).drain(double)
-  
-    mekanism
-    event.recipes.mekanism.energy_conversion(input, output)
-    event.recipes.mekanism.dissolution(gasOutput, gasInput, itemInput)
-    event.recipes.mekanism.crystallizing(output, inputGas)
-    event.recipes.mekanism.chemical_infusing(output, inputLeft, inputRight)
-    event.recipes.mekanism.sawing(output, input, extraOutput)
-    event.recipes.mekanism.metallurgic_infusing(output, inputItem, infusionInput, infusionAmount)
-    event.recipes.mekanism.compressing(output, inputItem, inputGas)
-    event.recipes.mekanism.purifying(output, inputItem, inputGas)
-    event.recipes.mekanism.injecting(output, inputItem, inputGas)
-    event.recipes.mekanism.combining(output, input1, input2)
-    event.recipes.mekanism.crushing(output, input)
-    event.recipes.mekanism.enriching(output, input)
-    event.recipes.mekanism.smelting(output, input)
-  
-    tconstruct
-    event.recipes.tconstruct.casting_table(outputItem, inputFluidId, inputFluidAmount)
-    event.recipes.tconstruct.casting_basin(output, inputFluidId, inputFluidAmount)
-    .coolingTime(ticks) */
+
+
+
+  // MSSD Ingot (Blood Magic)
+  event.recipes.bloodmagic.alchemytable('kubejs:mssd_ingot', [
+    'kubejs:athum_ingot',
+    'iceandfire:dragonsteel_ice_ingot',
+    'iceandfire:dragonsteel_fire_ingot',
+    'iceandfire:dragonsteel_lightning_ingot',
+    'extrabotany:orichalcos',
+    'mythicbotany:alfsteel_ingot',
+    'astralsorcery:starmetal_ingot',
+    'kubejs:hex_tech_steel_ingot'
+  ], 10000000, 72000, 5)
+
+  // Removals
+  event.remove({ output: 'industrialforegoing:infinity_trident' })
+  event.remove({ output: 'industrialforegoing:infinity_nuke' })
+
 })
-
-
-
-
-
-
-
-
-
-
-
-
-

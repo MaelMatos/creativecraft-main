@@ -1,2 +1,2 @@
-[16:51:47] [INFO ] Loaded script startup_scripts:itens.js in 0.496 s
-[16:51:47] [INFO ] Loaded 1/1 KubeJS startup scripts in 1.441 s
+[15:15:06] [INFO ] Loaded script startup_scripts:itens.js in 0.503 s
+[15:15:06] [INFO ] Loaded 1/1 KubeJS startup scripts in 1.325 s

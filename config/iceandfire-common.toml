@@ -78,12 +78,12 @@
 	[Dragons.Griefing]
 		#Dragon griefing - 2 is no griefing, 1 is breaking weak blocks, 0 is default
 		#Range: 0 ~ 2
-		"Dragon Griefing" = 0
+		"Dragon Griefing" = 2
 		#True if tamed dragons can follow the griefing rules.
-		"Tamed Dragon Griefing" = true
+		"Tamed Dragon Griefing" = false
 		#The percentage chance for a block to drop as an item when a dragon breaks it.
 		#Range: 0.0 ~ 1.0
-		"Dragon Block Breaking Drop Chance" = 0.10000000149011612
+		"Dragon Block Breaking Drop Chance" = 0
 		#Blocks that a dragon cannot break. Use the format like "minecraft:chest" or "rats:block_of_cheese" 
 		blacklistedBreakBlocks = []
 		#Blocks that a dragon can break, but won't spawn drops for. Use the format like "minecraft:stone" or "rats:block_of_cheese" 
@@ -126,7 +126,7 @@
 		"Max Dragon Flight Height" = 128
 		#How far away dragons will detect gold blocks being destroyed or chests being opened
 		#Range: 0 ~ 10000
-		"Dragon Gold Search Length" = 30
+		"Dragon Gold Search Length" = 0
 		#True if dragons can despawn. Note that if this is false there may be SERIOUS lag issues.
 		"Dragons Despawn" = true
 		#True if tamed dragons go to sleep at night.
@@ -143,7 +143,7 @@
 		"Explosive Dragon Breath" = false
 		#How many blocks away can dragons spot potential prey. Note that increasing this could cause lag.
 		#Range: 1 ~ 10000
-		"Dragon Target Search Length" = 128
+		"Dragon Target Search Length" = 32
 		#How many blocks away can dragons wander from their defined "home" position.
 		#Range: 1 ~ 10000
 		"Dragon Wander From Home Distance" = 40
@@ -456,7 +456,7 @@
 	"Dragon Pathfinding Threads" = 3
 	#Maximum nodes for dragons/myrmex to path too. Decrease this is dragon pathfinding is super slow or intensive.
 	#Range: > 1
-	"Dragon Max Pathfinding Nodes" = 5000
+	"Dragon Max Pathfinding Nodes" = 1000
 	#Enables the option to draw the pathfinding nodes when enabled (use a stick on an entity)
 	"Debug Pathfinding Mode" = false
 

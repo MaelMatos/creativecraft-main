@@ -13,7 +13,7 @@
 	#The model type of the material.
 	modelType = "metallic"
 	#The color of this material.
-	color = 0x7F6A56
+	color = 8350294
 
 [mekanism]
 	#The base to use in Mekanism's Combiner to recreate ores.

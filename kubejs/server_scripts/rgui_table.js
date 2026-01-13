@@ -22,5 +22,6 @@ onEvent('recipes', event => {
 	event.shapeless(Item.of('tconstruct:creative_slot', '{slot:"abilities"}'), [Item.of('tconstruct:creative_slot', '{slot:"upgrades"}')])
 	event.shaped('1x mekanism:creative_fluid_tank', ['ABC', 'DEF', 'GHI'], { A: 'extrabotany:orichalcos', B: 'extrabotany:orichalcos', C: 'extrabotany:orichalcos', D: 'mekanism:ultimate_fluid_tank', E: 'botania:rainbow_rod', F: 'kubejs:deidic_essence_extractor', G: 'extrabotany:orichalcos', H: 'extrabotany:orichalcos', I: 'extrabotany:orichalcos' })
 	event.shaped('1x mekanism:creative_chemical_tank', ['ABC', 'DEF', 'GHI'], { A: 'extrabotany:orichalcos', B: 'extrabotany:orichalcos', C: 'extrabotany:orichalcos', D: 'mekanism:ultimate_chemical_tank', E: 'botania:rainbow_rod', F: 'kubejs:deidic_essence_extractor', G: 'extrabotany:orichalcos', H: 'extrabotany:orichalcos', I: 'extrabotany:orichalcos' })
+event.shapeless('1x vampirism:vampire_book', ['guideapi-vp:vampirism-guidebook','twilightforest:magic_map_focus','vampirism:vampire_blood_bottle'])
 
 })//////DONT ADD MORE CODE AFTER THIS LINE

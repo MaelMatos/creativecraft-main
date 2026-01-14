@@ -1,0 +1,108 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "Metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mysticalagriculture:prudentium_ingot"
+    }
+  },
+  "name": {
+    "text": "Prudentium Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 4000,
+      "armor": 23,
+      "armor_durability": {
+        "mul2": 39
+      },
+      "armor_toughness": 9,
+      "attack_speed": {
+        "max": 1
+      },
+      "chargeability": 1,
+      "enchantability": 14,
+      "harvest_level": 3,
+      "harvest_speed": 10,
+      "magic_armor": 10,
+      "melee_damage": 10,
+      "projectile_accuracy": {
+        "mul1": 1
+      },
+      "projectile_speed": {
+        "mul2": 0.2
+      },
+      "ranged_damage": {
+        "mul2": 0.3
+      },
+      "ranged_speed": {
+        "mul2": 0.2
+      },
+      "rarity": 95,
+      "reach_distance": {
+        "max": 1
+      },
+      "repair_efficiency": {
+        "mul2": 0.2
+      },
+      "repair_value": 300
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.3
+      },
+      "ranged_damage": {
+        "mul2": 0.3
+      },
+      "melee_damage": {
+        "mul2": 0.3
+      },
+      "enchantability": 14
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 2
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 2
+      }
+    ]
+  }
+}

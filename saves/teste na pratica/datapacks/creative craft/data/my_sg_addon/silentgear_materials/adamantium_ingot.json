@@ -1,0 +1,81 @@
+{
+  "availability": {
+    "tier": 6,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:adamantium_ingot"
+    }
+  },
+  "name": {
+    "text": "adamantium ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 8000,
+      "armor_durability": {
+        "mul2": 1999
+      },
+      "enchantability": 130,
+      "rarity": 100,
+      "harvest_level": 6,
+      "harvest_speed": 30,
+      "melee_damage": 220,
+      "attack_speed": 48,
+      "ranged_damage": 340,
+      "armor": 1200,
+      "armor_toughness": 800,
+      "magic_armor": 900
+    },
+    "rod": {
+      "durability": {
+        "mul2": 1
+      },
+      "rarity": 70
+    },
+    "tip": {
+      "armor": 500,
+      "melee_damage": 1000
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:crushing",
+        "level": 5
+      },
+      {
+        "name": "silentgear:heavy",
+        "level": 6
+      },
+      {
+        "name": "silentgear:adamant",
+        "level": 7
+      },
+      {
+        "name": "silentgear:lustrous",
+        "level": 2
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:crushing",
+        "level": 5
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:jagged",
+        "level": 4
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 4
+      }
+    ]
+  }
+}

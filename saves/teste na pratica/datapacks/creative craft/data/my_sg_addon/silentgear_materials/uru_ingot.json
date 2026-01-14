@@ -1,0 +1,77 @@
+{
+  "availability": {
+    "tier": 7,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:uru_ingot"
+    }
+  },
+  "name": {
+    "text": "uru_ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 11000,
+      "armor_durability": {
+        "mul2": 2899
+      },
+      "enchantability": 200,
+      "rarity": 100,
+      "harvest_level": 7,
+      "harvest_speed": 62,
+      "melee_damage": 6500,
+      "attack_speed": 40,
+      "armor": 4000,
+      "armor_toughness": 3000,
+      "magic_armor": 4500
+    },
+    "rod": {
+      "melee_damage": {
+        "mul2": 2
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 8
+      },
+      {
+        "name": "silentgear:jagged",
+        "level": 7
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 5
+      },
+      {
+        "name": "silentgear:fiery",
+        "level": 5
+      },
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:accelerate",
+        "level": 5
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:jagged",
+        "level": 7
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 4
+      }
+    ]
+  }
+}

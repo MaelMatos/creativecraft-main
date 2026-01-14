@@ -26,7 +26,7 @@ loot_table_blacklist = []
 #list of modids which shouldn't be converted [in the format of modid, modid]
 loot_mod_blacklist = []
 #prevent the destruction of Lootr chests except while sneaking in creative mode
-disable_break = false
+disable_break = true
 #allows fake players to destroy Lootr chests without having to sneak, overrides the `disable_break` option for fake players
 enable_fake_player_break = false
 #when true, comparators on Lootr containers will give an output of 1; when false, they will give an output of 0

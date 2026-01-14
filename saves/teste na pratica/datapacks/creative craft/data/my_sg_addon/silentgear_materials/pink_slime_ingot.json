@@ -1,0 +1,99 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "industrialforegoing:pink_slime_ingot"
+    }
+  },
+  "name": {
+    "text": "pink slime ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 350,
+      "armor_durability": {
+        "mul2": 19
+      },
+      "enchantability": 28,
+      "rarity": 50,
+      "harvest_level": 3,
+      "harvest_speed": 16,
+      "melee_damage": 4,
+      "ranged_damage": {
+        "mul2": 0.1
+      },
+      "ranged_speed": {
+        "mul2": -0.4
+      },
+      "projectile_speed": {
+        "mul2": 0.2
+      },
+      "projectile_accuracy": {
+        "mul1": 1.1
+      },
+      "armor": 17,
+      "armor_toughness": 4,
+      "magic_armor": 10
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.1
+      },
+      "enchantability": {
+        "add": 5
+      },
+      "rarity": {
+        "add": 20
+      },
+      "melee_damage": {
+        "mul2": 0.15
+      }
+    },
+    "tip": {
+      "enchantability": {
+        "add": 5
+      },
+      "rarity": {
+        "add": 25
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:malleable",
+        "level": 1
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      },
+      {
+        "name": "silentgear:bounce",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 1
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      }
+    ]
+  }
+}

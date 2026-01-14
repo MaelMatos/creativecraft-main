@@ -1,0 +1,37 @@
+{
+  "availability": {
+    "tier": 10,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:mssd_ingot"
+    }
+  },
+  "name": {
+    "text": "mssd ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 100000,
+      "armor": 100000,
+      "armor_durability": {
+        "mul2": 9998.9
+      },
+      "armor_toughness": 70000,
+      "attack_speed": 100,
+      "harvest_level": 7,
+      "harvest_speed": 100,
+      "knockback_resistance": 40,
+      "magic_armor": 100000,
+      "melee_damage": 80000,
+      "ranged_damage": 90000,
+      "rarity": 799,
+      "enchantability": 9999
+    }
+  },
+  "traits": {}
+}

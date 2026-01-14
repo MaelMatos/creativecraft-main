@@ -1,0 +1,76 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "astralsorcery:starmetal_ingot"
+    }
+  },
+  "name": {
+    "text": "starmetal ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 500,
+      "armor_durability": {
+        "mul2": 29
+      },
+      "armor_toughness": 12,
+      "attack_speed": 2,
+      "harvest_level": 4,
+      "harvest_speed": 18,
+      "magic_armor": 30,
+      "magic_damage": 15,
+      "melee_damage": 10,
+      "armor": 20,
+      "rarity": 80,
+      "enchantability": 60
+    },
+    "coating": {
+      "magic_armor": {
+        "mul2": 3
+      },
+      "armor_toughness": 4
+    },
+    "rod": {
+      "magic_damage": {
+        "mul2": 3
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:malleable",
+        "level": 2
+      },
+      {
+        "name": "silentgear:brilliant",
+        "level": 6
+      },
+      {
+        "name": "silentgear:aquatic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:stellar",
+        "level": 1
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 4
+      }
+    ],
+    "coating": [
+      {
+        "name": "silentgear:stellar",
+        "level": 1
+      }
+    ]
+  }
+}

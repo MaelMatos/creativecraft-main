@@ -331,160 +331,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 426558,
-          "name": "Alex's Mobs",
-          "author": "alex1the1666",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/alexs-mobs",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 21,
-              "name": "technology_player_transport",
-              "shortName": "transport",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            },
-            {
-              "id": 10,
-              "name": "technology_farming",
-              "shortName": "farming",
-              "nesting": 0
-            }
-          ],
-          "picture": 821155,
-          "pictures": [
-            255019,
-            197550,
-            224658,
-            332992,
-            352515,
-            270846,
-            199563,
-            270848,
-            212431,
-            198376,
-            206152,
-            318717,
-            332993,
-            255024,
-            318716,
-            197540,
-            197545,
-            224660,
-            332991,
-            219420,
-            199564,
-            206150,
-            197543,
-            197541,
-            255018,
-            318711,
-            219421,
-            352516,
-            202485,
-            255017,
-            255021,
-            247726,
-            215512,
-            197538,
-            255025,
-            255023,
-            231848,
-            318714,
-            224659,
-            200729,
-            352514,
-            200727,
-            206151,
-            197546,
-            197537,
-            270847,
-            198375,
-            212432,
-            332994,
-            199562,
-            215510,
-            241514,
-            332990,
-            212430,
-            231847,
-            318712,
-            197547,
-            215511,
-            318713,
-            197549,
-            197544,
-            231846,
-            352513,
-            255022,
-            197539,
-            318715,
-            247725
-          ],
-          "lanName": "alexs-mobs",
-          "version": {
-            "id": 3467280,
-            "name": "alexsmobs-1.12.1",
-            "updateDate": 1632173561000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              },
-              {
-                "id": 29,
-                "name": "1.16.3"
-              }
-            ],
-            "metadata": {
-              "sha1": "87411ae04536cc1a9cb731df12462ad58b39de51",
-              "size": 18135643,
-              "path": "mods/alexsmobs-1.12.1.jar",
-              "url": "/mods/426558/3467280/alexsmobs-1.12.1.jar"
-            },
-            "installed": 2229876,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "downloadMonth": 5231,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1725570000000,
-          "update": 1725570000000,
-          "downloadALL": 12889319,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 405593,
           "name": "ATO - All the Ores",
           "author": "atmteam",
@@ -16952,115 +16798,6 @@
         },
         {
           "stateGameElement": "active",
-          "id": 379849,
-          "name": "The Undergarden",
-          "author": "quek04",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/the-undergarden",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 17,
-              "name": "world_dimensions",
-              "shortName": "dimensions",
-              "nesting": 0
-            },
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 4,
-              "name": "armor_weapons_tools",
-              "shortName": "military",
-              "nesting": 0
-            },
-            {
-              "id": 2,
-              "name": "adventure_rpg",
-              "shortName": "rpg",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 787613,
-          "pictures": [
-            270252,
-            270253,
-            270257,
-            270258,
-            270251,
-            254047,
-            270238,
-            270239,
-            270248,
-            270256,
-            270243,
-            270244,
-            270241,
-            270246,
-            270254,
-            270249,
-            270255,
-            254046,
-            270250,
-            270242,
-            270245,
-            270240,
-            270247
-          ],
-          "lanName": "the-undergarden",
-          "version": {
-            "id": 3477594,
-            "name": "The_Undergarden-1.16.5-0.5.5",
-            "updateDate": 1633024800000,
-            "type": "beta",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              }
-            ],
-            "metadata": {
-              "sha1": "829b00b7a6e1e4dce78497d3b0aff56dedf32055",
-              "size": 63449848,
-              "path": "mods/The_Undergarden-1.16.5-0.5.5.jar",
-              "url": "/mods/379849/3477594/The_Undergarden-1.16.5-0.5.5.jar"
-            },
-            "installed": 43248,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 329,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 53,
-            "name": "1.21.1"
-          },
-          "updated": 1750626000000,
-          "update": 1750626000000,
-          "downloadALL": 280560,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
           "id": 59621,
           "name": "Atum 2 Return to the Sands",
           "author": "Shadowclaimer lclc98 JeanGlassmaker",
@@ -17548,120 +17285,6 @@
           "updated": 1715634000000,
           "update": 1715634000000,
           "downloadALL": 285801,
-          "available": true,
-          "parser": true,
-          "totalComments": 0,
-          "adult": false
-        },
-        {
-          "stateGameElement": "active",
-          "id": 311600,
-          "name": "Prehistoric Fauna",
-          "author": "superlord9362",
-          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/prehistoric-fauna",
-          "favorite": false,
-          "categories": [
-            {
-              "id": 17,
-              "name": "world_dimensions",
-              "shortName": "dimensions",
-              "nesting": 0
-            },
-            {
-              "id": 23,
-              "name": "world_ores_resources",
-              "shortName": "ores",
-              "nesting": 0
-            },
-            {
-              "id": 27,
-              "name": "world_structures",
-              "shortName": "structures",
-              "nesting": 0
-            },
-            {
-              "id": 14,
-              "name": "world_biomes",
-              "shortName": "biomes",
-              "nesting": 0
-            },
-            {
-              "id": 13,
-              "name": "world_mobs",
-              "shortName": "mobs",
-              "nesting": 0
-            }
-          ],
-          "picture": 848307,
-          "pictures": [
-            229573,
-            274426,
-            430085,
-            274428,
-            430087,
-            274417,
-            274427,
-            274425,
-            274416,
-            430088,
-            274413,
-            430089,
-            274419,
-            274423,
-            274415,
-            274422,
-            229572,
-            430086,
-            274421,
-            229571,
-            274420,
-            274424,
-            274414,
-            274418
-          ],
-          "lanName": "prehistoric-fauna",
-          "version": {
-            "id": 4497533,
-            "name": "Prehistoric_Fauna-2.2.5",
-            "updateDate": 1681883934000,
-            "type": "release",
-            "gameVersionsDTO": [
-              {
-                "id": 31,
-                "name": "1.16.5"
-              },
-              {
-                "id": 30,
-                "name": "1.16.4"
-              }
-            ],
-            "metadata": {
-              "sha1": "417df32867d689744114e495b255c8293947567e",
-              "size": 20269485,
-              "path": "mods/Prehistoric_Fauna-2.2.5.jar",
-              "url": "/mods/311600/4497533/Prehistoric_Fauna-2.2.5.jar"
-            },
-            "installed": 34255,
-            "available": false,
-            "minecraftVersionTypes": [
-              {
-                "id": 1,
-                "name": "forge"
-              }
-            ]
-          },
-          "popularity": 3,
-          "downloadMonth": 26,
-          "userInstall": false,
-          "populateStatus": false,
-          "dependencies": [],
-          "lastGameVersion": {
-            "id": 46,
-            "name": "1.20.1"
-          },
-          "updated": 1741899600000,
-          "update": 1741899600000,
-          "downloadALL": 143373,
           "available": true,
           "parser": true,
           "totalComments": 0,
@@ -18272,6 +17895,169 @@
           "updated": 1723323600000,
           "update": 1723323600000,
           "downloadALL": 475630,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 410811,
+          "name": "FTB Essentials (Forge & Fabric)",
+          "author": "latvianmodder",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-essentials",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 21,
+              "name": "technology_player_transport",
+              "shortName": "transport",
+              "nesting": 0
+            },
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            },
+            {
+              "id": 6,
+              "name": "map_information",
+              "shortName": "maps",
+              "nesting": 0
+            }
+          ],
+          "picture": 808878,
+          "pictures": [],
+          "lanName": "ftb-essentials1",
+          "version": {
+            "id": 3510643,
+            "name": "ftb-essentials-1605.1.5-build.32",
+            "updateDate": 1635651320000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "4b57f040a830deb62759cd99bd6fd248c8027bd6",
+              "size": 77378,
+              "path": "mods/ftb-essentials-1605.1.5-build.32.jar",
+              "url": "/mods/410811/3510643/ftb-essentials-1605.1.5-build.32.jar"
+            },
+            "installed": 11604,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 2,
+          "downloadMonth": 69,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 5032,
+              "name": "FTB Ranks (Fabric)",
+              "gameEntityId": 472659,
+              "dependencyType": "optional"
+            },
+            {
+              "gameType": "mod",
+              "id": 2455,
+              "name": "FTB Library (Fabric)",
+              "gameEntityId": 438495,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 422,
+              "name": "Architectury API",
+              "gameEntityId": 419699,
+              "dependencyType": "required"
+            },
+            {
+              "gameType": "mod",
+              "id": 2,
+              "name": "Fabric API",
+              "gameEntityId": 306612,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1757365200000,
+          "update": 1757365200000,
+          "downloadALL": 72049,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 537821,
+          "name": "FTB Power Pots (Forge)",
+          "author": "ftb",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/ftb-power-pots",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 5,
+              "name": "technology",
+              "shortName": "technology",
+              "nesting": 0
+            }
+          ],
+          "picture": 846477,
+          "pictures": [],
+          "lanName": "ftb-power-pots",
+          "version": {
+            "id": 4395575,
+            "name": "ftb-power-pots-forge-1605.1.3-build.19",
+            "updateDate": 1676366542000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "41995ebe5747541a118785331784f7283138dfce",
+              "size": 59713,
+              "path": "mods/ftb-power-pots-forge-1605.1.3-build.19.jar",
+              "url": "/mods/537821/4395575/ftb-power-pots-forge-1605.1.3-build.19.jar"
+            },
+            "installed": 995,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 1,
+          "downloadMonth": 0,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 31,
+            "name": "1.16.5"
+          },
+          "updated": 1676322000000,
+          "update": 1676322000000,
+          "downloadALL": 3921,
           "available": true,
           "parser": true,
           "totalComments": 0,

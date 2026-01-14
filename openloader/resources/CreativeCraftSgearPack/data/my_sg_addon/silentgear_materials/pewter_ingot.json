@@ -1,0 +1,77 @@
+{
+  "availability": {
+    "tier": 2,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "eidolon:pewter_ingot"
+    }
+  },
+  "name": {
+    "text": "Pewter Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 300,
+      "armor_durability": 16,
+      "armor": 17,
+      "enchantability": 15,
+      "harvest_level": 3,
+      "harvest_speed": 7,
+      "knockback_resistance": 2,
+      "melee_damage": 6,
+      "projectile_accuracy": 1,
+      "projectile_speed": {
+        "mul1": 0.1
+      },
+      "ranged_damage": {
+        "mul2": 0.1
+      },
+      "ranged_speed": {
+        "mul2": 2
+      },
+      "rarity": 45,
+      "armor_toughness": 3
+    },
+    "rod": {
+      "durability": 0.1,
+      "melee_damage": {
+        "mul2": 0.1
+      },
+      "projectile_accuracy": {
+        "mul1": 0.9
+      },
+      "projectile_speed": {
+        "mul2": -0.1
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:heavy",
+        "level": 1
+      },
+      {
+        "name": "silentgear:adamant",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:heavy",
+        "level": 1
+      },
+      {
+        "name": "silentgear:adamant",
+        "level": 1
+      }
+    ]
+  }
+}

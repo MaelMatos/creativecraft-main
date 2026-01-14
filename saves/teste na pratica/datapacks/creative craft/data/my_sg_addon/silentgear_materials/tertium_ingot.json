@@ -1,0 +1,104 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mysticalagriculture:tertium_ingot"
+    }
+  },
+  "name": {
+    "text": "Tertium Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 8000,
+      "armor": 28,
+      "armor_durability": {
+        "mul2": 49
+      },
+      "armor_toughness": 14,
+      "attack_speed": {
+        "max": 1.2
+      },
+      "chargeability": 1.5,
+      "enchantability": 20,
+      "harvest_level": 4,
+      "harvest_speed": 12,
+      "magic_armor": 18,
+      "melee_damage": 13,
+      "projectile_accuracy": 1,
+      "projectile_speed": 0.3,
+      "ranged_damage": 0.4,
+      "ranged_speed": 0.3,
+      "rarity": 120,
+      "reach_distance": {
+        "max": 1.2
+      },
+      "repair_efficiency": {
+        "mul2": 0.3
+      },
+      "repair_value": 350
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.4
+      },
+      "ranged_damage": {
+        "mul2": 0.3
+      },
+      "enchantability": 20,
+      "melee_damage": {
+        "mul2": 0.4
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      },
+      {
+        "name": "silentgear:bastion",
+        "level": 1
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 3
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:rustic",
+        "level": 3
+      },
+      {
+        "name": "silentgear:renew",
+        "level": 1
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 4
+      }
+    ]
+  }
+}

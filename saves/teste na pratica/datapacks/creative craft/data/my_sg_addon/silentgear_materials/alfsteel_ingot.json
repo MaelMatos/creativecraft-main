@@ -1,0 +1,58 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "mythicbotany:alfsteel_ingot"
+    }
+  },
+  "name": {
+    "text": "alfsteel ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 100
+    },
+    "coating": {
+      "durability": {
+        "mul2": 2
+      },
+      "armor_durability": {
+        "mul2": 0.2
+      },
+      "enchantability": {
+        "add": 5
+      },
+      "harvest_speed": {
+        "mul2": 0.3
+      },
+      "melee_damage": {
+        "mul2": 2
+      },
+      "ranged_damage": {
+        "mul2": 2
+      }
+    }
+  },
+  "traits": {
+    "coating": [
+      {
+        "name": "silentgear:sharp",
+        "level": 3
+      },
+      {
+        "name": "silentgear:jagged",
+        "level": 3
+      },
+      {
+        "name": "silentgear:crushing",
+        "level": 3
+      }
+    ]
+  }
+}

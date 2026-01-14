@@ -1,0 +1,62 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "appliedenergistics2:singularity"
+    }
+  },
+  "name": {
+    "text": "singularity"
+  },
+  "stats": {
+    "tip": {
+      "magic_damage": {
+        "add": 10
+      },
+      "knockback_resistance": {
+        "add": 10
+      },
+      "enchantability": {
+        "add": 20
+      },
+      "harvest_speed": {
+        "add": 50
+      }
+    },
+    "adornment": {
+      "knockback_resistance": 10
+    }
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:heavy",
+        "level": 5
+      },
+      {
+        "name": "silentgear:magnetic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:widen",
+        "level": 3
+      }
+    ],
+    "adornment": [
+      {
+        "name": "silentgear:heavy",
+        "level": 5
+      },
+      {
+        "name": "silentgear:magnetic",
+        "level": 5
+      }
+    ]
+  }
+}

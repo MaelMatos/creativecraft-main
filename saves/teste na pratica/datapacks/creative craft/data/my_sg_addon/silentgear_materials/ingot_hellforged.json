@@ -1,0 +1,69 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "bloodmagic:ingot_hellforged"
+    }
+  },
+  "name": {
+    "text": "hellforged ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 3600,
+      "armor_durability": {
+        "mul2": 62
+      },
+      "repair_efficiency": {
+        "mul1": 0.75
+      },
+      "enchantability": 30,
+      "rarity": 90,
+      "harvest_level": 4,
+      "harvest_speed": 24,
+      "melee_damage": 50,
+      "attack_speed": -0.05,
+      "ranged_damage": {
+        "mul2": 3.05
+      },
+      "ranged_speed": {
+        "mul2": -1.05
+      },
+      "projectile_speed": {
+        "mul2": 0.5
+      },
+      "projectile_accuracy": {
+        "mul1": 1.5
+      },
+      "armor": 45,
+      "armor_toughness": 25,
+      "magic_armor": 25
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:chilled",
+        "level": 5
+      },
+      {
+        "name": "silentgear:cursed",
+        "level": 2
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      }
+    ]
+  }
+}

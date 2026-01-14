@@ -1,0 +1,42 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:dragonsteel_ice_ingot"
+    }
+  },
+  "name": {
+    "text": "dragonsteel ice ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 4000,
+      "armor": 60,
+      "armor_durability": {
+        "mul2": 49
+      },
+      "armor_toughness": 30,
+      "enchantability": 80,
+      "magic_armor": 40,
+      "melee_damage": 55
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:chilled",
+        "level": 4
+      },
+      {
+        "name": "silentgear:crushing",
+        "level": 3
+      }
+    ]
+  }
+}

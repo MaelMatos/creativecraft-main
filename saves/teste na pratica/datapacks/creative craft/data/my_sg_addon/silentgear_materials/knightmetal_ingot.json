@@ -1,0 +1,68 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "twilightforest:knightmetal_ingot"
+    }
+  },
+  "name": {
+    "text": "knightmetal ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 2000,
+      "armor_durability": {
+        "mul2": 35
+      },
+      "enchantability": {
+        "add": 9
+      },
+      "rarity": 50,
+      "armor_toughness": 10,
+      "magic_armor": 5,
+      "melee_damage": 7,
+      "attack_speed": 0.5,
+      "armor": 29,
+      "harvest_level": 3
+    },
+    "rod": {
+      "melee_damage": {
+        "mul2": 0.3
+      },
+      "attack_speed": {
+        "add": 3
+      },
+      "durability": {
+        "mul2": 1
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:bastion",
+        "level": 3
+      },
+      {
+        "name": "silentgear:sharp",
+        "level": 2
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      }
+    ]
+  }
+}

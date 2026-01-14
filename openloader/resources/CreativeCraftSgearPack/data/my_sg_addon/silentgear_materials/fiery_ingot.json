@@ -1,0 +1,80 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "twilightforest:fiery_ingot"
+    }
+  },
+  "name": {
+    "text": "Fiery Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 6000,
+      "armor_durability": {
+        "mul2": 24
+      },
+      "armor_toughness": 10,
+      "chargeability": 1.5,
+      "enchantability": 33,
+      "harvest_level": 4,
+      "harvest_speed": 20,
+      "magic_armor": 12,
+      "melee_damage": 15,
+      "projectile_accuracy": 100,
+      "projectile_speed": {
+        "mul2": 0.3
+      },
+      "ranged_damage": {
+        "mul2": 0.2
+      },
+      "ranged_speed": {
+        "mul2": 0.2
+      },
+      "rarity": 85,
+      "armor": 24
+    },
+    "rod": {
+      "repair_value": 85,
+      "durability": {
+        "mul2": 0.6
+      },
+      "melee_damage": {
+        "mul2": 0.5
+      },
+      "ranged_damage": {
+        "mul2": 0.4
+      }
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      }
+    ],
+    "rod": [
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:fiery",
+        "level": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "availability": {
+    "tier": 7,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "extrabotany:orichalcos"
+    }
+  },
+  "name": {
+    "text": "orichalcos ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 10000,
+      "armor_durability": {
+        "mul2": 2999
+      },
+      "enchantability": 180,
+      "rarity": 120,
+      "harvest_level": 6,
+      "melee_damage": 2500,
+      "attack_speed": 32,
+      "armor": 6500,
+      "armor_toughness": 5000,
+      "magic_armor": 5500,
+      "harvest_speed": 58,
+      "knockback_resistance": 10
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:indestructible",
+        "level": 1
+      },
+      {
+        "name": "silentgear:void_ward",
+        "level": 2
+      },
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      },
+      {
+        "name": "silentgear:crushing",
+        "level": 5
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 5
+      }
+    ]
+  }
+}

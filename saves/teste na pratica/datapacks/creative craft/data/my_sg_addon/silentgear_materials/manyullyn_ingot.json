@@ -1,0 +1,66 @@
+{
+  "availability": {
+    "tier": 5,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "tconstruct:manyullyn_ingot"
+    }
+  },
+  "name": {
+    "text": "Manyullyn Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 800,
+      "armor": 20,
+      "armor_durability": 20,
+      "armor_toughness": 10,
+      "attack_speed": 1,
+      "chargeability": 1.5,
+      "enchantability": 30,
+      "harvest_level": 6,
+      "harvest_speed": 20,
+      "knockback_resistance": {
+        "mul1": 0.4
+      },
+      "magic_armor": 20,
+      "melee_damage": 18,
+      "ranged_speed": {
+        "mul2": 0.35
+      },
+      "projectile_accuracy": {
+        "mul1": 1
+      },
+      "ranged_damage": {
+        "mul1": 0.35
+      },
+      "rarity": 20,
+      "repair_efficiency": {
+        "mul1": 12
+      },
+      "repair_value": 500,
+      "reach_distance": {
+        "max": 1
+      }
+    },
+    "rod": {
+      "melee_damage": {
+        "mul2": 0.35
+      },
+      "ranged_damage": {
+        "mul2": 0.35
+      },
+      "durability": {
+        "mul2": 0.35
+      }
+    }
+  },
+  "traits": {}
+}

@@ -1,0 +1,97 @@
+{
+  "availability": {
+    "tier": 9,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [
+      "metal"
+    ],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:athum_ingot"
+    }
+  },
+  "name": {
+    "text": "Athum Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 14250,
+      "armor_durability": 3000,
+      "enchantability": 1498.5,
+      "rarity": 148.5,
+      "harvest_level": 9,
+      "harvest_speed": 72,
+      "reach_distance": 22.5,
+      "melee_damage": 8250,
+      "attack_speed": 45,
+      "ranged_damage": {
+        "mul2": 600
+      },
+      "ranged_speed": {
+        "mul2": 3.5
+      },
+      "armor": 7500,
+      "armor_toughness": 7500,
+      "magic_armor": 4500
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:adamant",
+        "level": 5
+      },
+      {
+        "name": "silentgear:accelerate",
+        "level": 5
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 5
+      },
+      {
+        "name": "silentgems:soul/aquatic",
+        "level": 5
+      },
+      {
+        "name": "silentgear:brilliant",
+        "level": 1
+      },
+      {
+        "name": "silentgear:chilled",
+        "level": 5
+      },
+      {
+        "name": "silentgems:critical",
+        "level": 5
+      },
+      {
+        "name": "silentgear:cure_wither",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_poison",
+        "level": 1
+      },
+      {
+        "name": "silentgear:cure_nausea",
+        "level": 1
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:synergistic",
+        "level": 1
+      }
+    ]
+  }
+}

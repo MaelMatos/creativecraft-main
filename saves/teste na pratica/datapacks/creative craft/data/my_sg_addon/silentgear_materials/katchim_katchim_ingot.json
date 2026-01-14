@@ -1,0 +1,56 @@
+{
+  "availability": {
+    "tier": 6,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:katchim_katchim_ingot"
+    }
+  },
+  "name": {
+    "text": "katchim katchim ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 4000,
+      "armor_durability": {
+        "mul2": 81
+      },
+      "enchantability": 50,
+      "rarity": 120,
+      "harvest_speed": 20,
+      "melee_damage": 60,
+      "attack_speed": {
+        "mul1": 0.5
+      },
+      "armor_toughness": 30,
+      "armor": 70,
+      "magic_armor": 60,
+      "knockback_resistance": 3
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:adamant",
+        "level": 3
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 1
+      },
+      {
+        "name": "silentgear:brittle",
+        "level": 5
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 3
+      }
+    ]
+  }
+}

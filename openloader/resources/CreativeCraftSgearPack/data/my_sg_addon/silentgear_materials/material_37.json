@@ -1,0 +1,85 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "kubejs:kairoseki_ingot"
+    }
+  },
+  "name": {
+    "text": "kairoseki ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 450,
+      "armor": 21,
+      "armor_durability": {
+        "mul2": 23
+      },
+      "armor_toughness": 8,
+      "enchantability": 23,
+      "harvest_level": 4,
+      "harvest_speed": 10,
+      "magic_armor": 10,
+      "melee_damage": 8,
+      "projectile_accuracy": {
+        "mul1": 1.1
+      },
+      "projectile_speed": {
+        "mul2": 0.5
+      },
+      "ranged_damage": {
+        "mul2": 0.5
+      },
+      "ranged_speed": {
+        "mul2": 0.5
+      },
+      "rarity": 56
+    },
+    "rod": {
+      "durability": {
+        "mul2": 0.2
+      },
+      "melee_damage": {
+        "mul2": 0.3
+      },
+      "ranged_damage": {
+        "mul2": 0.2
+      },
+      "projectile_speed": {
+        "mul2": 0.2
+      }
+    }
+  },
+  "traits": {
+    "rod": [
+      {
+        "name": "silentgear:hard",
+        "level": 1
+      },
+      {
+        "name": "silentgear:jagged",
+        "level": 2
+      }
+    ],
+    "main": [
+      {
+        "name": "silentgear:aquatic",
+        "level": 1
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 1
+      },
+      {
+        "name": "silentgear:jagged",
+        "level": 2
+      }
+    ]
+  }
+}

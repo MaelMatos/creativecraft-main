@@ -26,10 +26,10 @@
 // Materials that generate both Ingots and Ores
 const oreMaterials = {
     //'Winsdom Sight': { hardness: 4.0, resistance: 4.0, harvestLevel: 3 },
-    'Uru': { hardness: 50.0, resistance: 2000.0, harvestLevel: 3 }, // Very strong
-    'Adamantium': { hardness: 45.0, resistance: 1500.0, harvestLevel: 3 },
-    'Katchim Katchim': { hardness: 10.0, resistance: 10.0, harvestLevel: 3 },
-    'Kairoseki': { hardness: 6.0, resistance: 6.0, harvestLevel: 2 },
+    'Uru': { hardness: 50.0, resistance: 2000.0, harvestLevel: 7 }, // Very strong
+    'Adamantium': { hardness: 45.0, resistance: 1500.0, harvestLevel: 6 },
+    'Katchim Katchim': { hardness: 10.0, resistance: 10.0, harvestLevel: 5 },
+    'Kairoseki': { hardness: 6.0, resistance: 6.0, harvestLevel: 3 },
 };
 
 // Materials that ONLY generate Ingots (no ores)

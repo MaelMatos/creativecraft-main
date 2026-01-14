@@ -1,0 +1,93 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "metal"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "tconstruct:cobalt_ingot"
+    }
+  },
+  "name": {
+    "text": "Cobalt Ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 400,
+      "armor": 16,
+      "armor_durability": 15,
+      "armor_toughness": 8,
+      "chargeability": 1,
+      "enchantability": 20,
+      "harvest_level": 5,
+      "harvest_speed": 12,
+      "knockback_resistance": {
+        "mul1": 0.2
+      },
+      "magic_armor": 12,
+      "projectile_accuracy": 11,
+      "projectile_speed": 0.12,
+      "ranged_damage": 0.15,
+      "ranged_speed": 0.25,
+      "rarity": 16,
+      "reach_distance": {
+        "max": 3
+      },
+      "repair_efficiency": {
+        "mul1": 11
+      },
+      "repair_value": 200,
+      "melee_damage": 12
+    },
+    "rod": {
+      "ranged_damage": {
+        "mul2": 0.2
+      },
+      "durability": {
+        "mul2": 0.4
+      },
+      "melee_damage": {
+        "mul2": 0.25
+      }
+    }
+  },
+  "traits": {
+    "rod": [
+      {
+        "name": "silentgear:holy",
+        "level": 1
+      },
+      {
+        "name": "silentgear:malleable",
+        "level": 1
+      },
+      {
+        "name": "silentgear:lucky",
+        "level": 1
+      }
+    ],
+    "main": [
+      {
+        "name": "silentgear:bastion",
+        "level": 1
+      },
+      {
+        "name": "silentgear:ancient",
+        "level": 1
+      },
+      {
+        "name": "silentgear:adamant",
+        "level": 1
+      },
+      {
+        "name": "silentgear:lucky",
+        "level": 1
+      }
+    ]
+  }
+}

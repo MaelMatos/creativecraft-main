@@ -1,0 +1,58 @@
+{
+  "availability": {
+    "tier": 4,
+    "categories": [],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "draconicevolution:draconium_ingot"
+    }
+  },
+  "name": {
+    "text": "draconium ingot"
+  },
+  "stats": {
+    "main": {
+      "durability": 3000,
+      "armor_durability": {
+        "mul2": 37
+      },
+      "enchantability": 40,
+      "chargeability": 20,
+      "rarity": 50,
+      "harvest_speed": 19,
+      "harvest_level": 4,
+      "melee_damage": 29,
+      "attack_speed": 2,
+      "armor": 40,
+      "armor_toughness": 20,
+      "knockback_resistance": 3,
+      "magic_armor": 35
+    }
+  },
+  "traits": {
+    "main": [
+      {
+        "name": "silentgear:synergistic",
+        "level": 2
+      },
+      {
+        "name": "silentgear:hard",
+        "level": 2
+      },
+      {
+        "name": "silentgear:heavy",
+        "level": 2
+      }
+    ],
+    "tip": [
+      {
+        "name": "silentgear:silky",
+        "level": 1
+      }
+    ]
+  }
+}

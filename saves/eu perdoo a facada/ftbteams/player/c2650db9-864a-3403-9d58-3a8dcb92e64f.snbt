@@ -1,0 +1,16 @@
+{
+	id: "c2650db9-864a-3403-9d58-3a8dcb92e64f"
+	type: "player"
+	player_name: "soliamSS"
+	ranks: {
+		c2650db9-864a-3403-9d58-3a8dcb92e64f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "soliamSS"
+		"ftbteams:color": "#FF598D"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

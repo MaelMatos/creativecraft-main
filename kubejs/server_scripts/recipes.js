@@ -120,19 +120,19 @@ onEvent('recipes', event => {
   // Tardis Mod
   // ==========================================
 
-  // Alembic
-  event.remove({ output: 'tardis:alembic' })
-  event.shaped('tardis:alembic', [
-    'BBB',
-    'GFG',
-    'SKS'
-  ], {
-    F: 'ironfurnaces:copper_furnace',
-    B: '#forge:ingots/brass',
-    G: '#forge:glass_bottles',
-    S: '#minecraft:logs',
-    K: '#forge:buckets'
-  })
+  /*   // Alembic
+    event.remove({ output: 'tardis:alembic' })
+    event.shaped('tardis:alembic', [
+      'BBB',
+      'GFG',
+      'SKS'
+    ], {
+      F: 'ironfurnaces:copper_furnace',
+      B: '#forge:ingots/brass',
+      G: 'minecraft:glass_bottle',
+      S: '#minecraft:logs',
+      K: 'minecraft:bucket'
+    }) */
 
   // Gallifreyan Key
   event.remove({ output: 'tardis:key_gallifreyan' })

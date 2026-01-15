@@ -1,0 +1,14 @@
+{
+	id: "b6095b3e-aeb2-329c-8f4d-f5b83d82e8d2"
+	type: "player"
+	player_name: "sr57"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "sr57"
+		"ftbteams:color": "#59FF6E"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

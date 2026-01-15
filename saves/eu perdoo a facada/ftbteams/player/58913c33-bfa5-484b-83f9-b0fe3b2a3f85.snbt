@@ -1,0 +1,14 @@
+{
+	id: "58913c33-bfa5-484b-83f9-b0fe3b2a3f85"
+	type: "player"
+	player_name: "GabeRiverDM"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "GabeRiverDM"
+		"ftbteams:color": "#C8FF59"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,26 @@
+{
+	id: "5da40032-f1e0-420f-a96a-6b16edc6d447"
+	type: "party"
+	owner: "122792fe-62a6-4c60-9544-962becd23f5e"
+	ranks: {
+		58913c33-bfa5-484b-83f9-b0fe3b2a3f85: "member"
+		122792fe-62a6-4c60-9544-962becd23f5e: "owner"
+		b6095b3e-aeb2-329c-8f4d-f5b83d82e8d2: "member"
+		c2650db9-864a-3403-9d58-3a8dcb92e64f: "invited"
+	}
+	properties: {
+		"ftbteams:display_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		"ftbteams:color": "#FF6059"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768417045741L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"mael_matos\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "122792fe-62a6-4c60-9544-962becd23f5e", date: 1768417045748L, text: "{\"color\":\"green\",\"text\":\"Invited sr57\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768417050625L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"sr57\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "122792fe-62a6-4c60-9544-962becd23f5e", date: 1768417800226L, text: "{\"color\":\"green\",\"text\":\"Invited GabeRiverDM\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1768417811515L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"GabeRiverDM\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "122792fe-62a6-4c60-9544-962becd23f5e", date: 1768418624771L, text: "{\"color\":\"green\",\"text\":\"Invited soliamSS\"}" }
+	]
+	extra: { }
+}

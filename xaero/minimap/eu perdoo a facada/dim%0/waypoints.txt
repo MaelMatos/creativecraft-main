@@ -1,7 +1,14 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:gui.xaero_deathpoint_old:D:-577:65:664:0:false:2:gui.xaero_default:false:0:1:true
+waypoint:eidolon:E:-321:20:215:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:astreal 2:A:432:66:610:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:dungeon 2:D:210:88:591:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:dungeon:D:-496:83:590:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:beemovie:B:-531:82:584:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:astral:A:-664:63:584:3:false:0:gui.xaero_default:false:0:0:false
 waypoint:Casa?:C:-1496:73:-124:5:false:0:gui.xaero_default:false:0:0:false
-waypoint:gui.xaero_deathpoint:D:-967:64:-337:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:gui.xaero_deathpoint_old:D:-967:64:-337:0:false:2:gui.xaero_default:false:0:1:true
 waypoint:gui.xaero_deathpoint_old:D:155:46:-418:0:false:2:gui.xaero_default:false:0:1:true
 waypoint:marmore:M:130:~:-265:15:false:0:gui.xaero_default:false:0:0:false

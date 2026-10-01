@@ -5,9 +5,9 @@ whitelist = ["forge:ores\\/.+", "forge:ingots\\/.+", "forge:nuggets\\/.+", "forg
 #Allowed Values: USE_WHITELIST, USE_BLACKLIST, USE_BOTH_LISTS, USE_NO_LIST
 listMode = "USE_BOTH_LISTS"
 #Preferred Mods
-preferredMods = ["minecraft", "immersiveengineering"]
+preferredMods = ["minecraft", "alltheores"]
 #Blacklisted Mods
-blacklistMods = ["astralsorcery"]
+blacklistMods = ["astralsorcery", "appliedenergitics2"]
 #Tag names that should be unified even if they are different
 alternatives = [["aluminum", "aluminium", "bauxite"]]
 

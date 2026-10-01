@@ -1,0 +1,51 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "organic"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:lightning_dragon_blood"
+    }
+  },
+  "name": {
+    "text": "lightning dragon blood"
+  },
+  "stats": {
+    "coating": {
+      "armor": {
+        "add": 10
+      },
+      "magic_armor": {
+        "add": 10
+      },
+      "melee_damage": {
+        "add": 10
+      },
+      "ranged_damage": {
+        "add": 10
+      }
+    }
+  },
+  "traits": {
+    "coating": [
+      {
+        "name": "silentgems:sparking",
+        "level": 2
+      },
+      {
+        "name": "silentgear:chilled",
+        "level": 2
+      },
+      {
+        "name": "silentgear:fiery",
+        "level": 2
+      }
+    ]
+  }
+}

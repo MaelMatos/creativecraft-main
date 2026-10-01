@@ -17900,6 +17900,238 @@
           "parser": true,
           "totalComments": 0,
           "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 416935,
+          "name": "Valhelsia Core",
+          "author": "valhelsiateam",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/valhelsia-core",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 7,
+              "name": "library_api",
+              "shortName": "api",
+              "nesting": 0
+            }
+          ],
+          "picture": 787486,
+          "pictures": [],
+          "lanName": "valhelsia-core",
+          "version": {
+            "id": 3592369,
+            "name": "valhelsia_core-16.0.15",
+            "updateDate": 1641169140000,
+            "type": "beta",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "0d332642d54e4996c6231e31ec2d2e5ab86eae57",
+              "size": 608118,
+              "path": "mods/valhelsia_core-16.0.15.jar",
+              "url": "/mods/416935/3592369/valhelsia_core-16.0.15.jar"
+            },
+            "installed": 222634,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 5,
+          "downloadMonth": 64,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1766696400000,
+          "update": 1766696400000,
+          "downloadALL": 665879,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 309858,
+          "name": "Forbidden and Arcanus",
+          "author": "cesar_zorak",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/forbidden-arcanus",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 1,
+              "name": "magic",
+              "shortName": "magic",
+              "nesting": 0
+            },
+            {
+              "id": 31,
+              "name": "addons_thaumcraft",
+              "shortName": "thaumcraft",
+              "nesting": 0
+            },
+            {
+              "id": 4,
+              "name": "armor_weapons_tools",
+              "shortName": "military",
+              "nesting": 0
+            },
+            {
+              "id": 2,
+              "name": "adventure_rpg",
+              "shortName": "rpg",
+              "nesting": 0
+            },
+            {
+              "id": 3,
+              "name": "cosmetic",
+              "shortName": "cosmetic",
+              "nesting": 0
+            }
+          ],
+          "picture": 821299,
+          "pictures": [
+            253414,
+            253407,
+            253412,
+            253409,
+            253408,
+            253417,
+            253415,
+            253413,
+            253416,
+            253406,
+            253410,
+            253411
+          ],
+          "lanName": "forbidden-arcanus",
+          "version": {
+            "id": 3646126,
+            "name": "forbidden_arcanus-16.2.3",
+            "updateDate": 1644636000000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              }
+            ],
+            "metadata": {
+              "sha1": "75a6fb33103e9b462ef48557959f6e8c84d30028",
+              "size": 2270002,
+              "path": "mods/forbidden_arcanus-16.2.3.jar",
+              "url": "/mods/309858/3646126/forbidden_arcanus-16.2.3.jar"
+            },
+            "installed": 63920,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 4,
+          "downloadMonth": 217,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [
+            {
+              "gameType": "mod",
+              "id": 1369,
+              "name": "Valhelsia Core",
+              "gameEntityId": 416935,
+              "dependencyType": "required"
+            }
+          ],
+          "lastGameVersion": {
+            "id": 53,
+            "name": "1.21.1"
+          },
+          "updated": 1754859600000,
+          "update": 1754859600000,
+          "downloadALL": 467247,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": 361579,
+          "name": "spark",
+          "author": "iucko",
+          "linkProject": "https://www.curseforge.com/minecraft/mc-mods/spark",
+          "favorite": false,
+          "categories": [
+            {
+              "id": 15,
+              "name": "server_utility",
+              "shortName": "plugins",
+              "nesting": 0
+            }
+          ],
+          "picture": 821146,
+          "pictures": [],
+          "lanName": "spark",
+          "version": {
+            "id": 3767277,
+            "name": "1.9.1-forge",
+            "updateDate": 1650770700000,
+            "type": "release",
+            "gameVersionsDTO": [
+              {
+                "id": 31,
+                "name": "1.16.5"
+              },
+              {
+                "id": 30,
+                "name": "1.16.4"
+              }
+            ],
+            "metadata": {
+              "sha1": "e535ad75bb2f541ea8c9ad3fda5da9b3241c2575",
+              "size": 3157081,
+              "path": "mods/spark-1.9.1-forge.jar",
+              "url": "/mods/361579/3767277/spark-1.9.1-forge.jar"
+            },
+            "installed": 23529,
+            "available": false,
+            "minecraftVersionTypes": [
+              {
+                "id": 1,
+                "name": "forge"
+              }
+            ]
+          },
+          "popularity": 3,
+          "downloadMonth": 34,
+          "userInstall": false,
+          "populateStatus": false,
+          "dependencies": [],
+          "lastGameVersion": {
+            "id": 66,
+            "name": "1.21.11"
+          },
+          "updated": 1760130000000,
+          "update": 1760130000000,
+          "downloadALL": 237180,
+          "available": true,
+          "parser": true,
+          "totalComments": 0,
+          "adult": false
         }
       ],
       "resourcePacks": [],

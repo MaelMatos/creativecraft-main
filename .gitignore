@@ -1,0 +1,34 @@
+# ==========================================
+# IGNORAR PASTAS PESADAS E AUTO-GERADAS
+# ==========================================
+/.cache/
+/.mixin.out/
+/crash-reports/
+/logs/
+/mods/
+/natives/
+/saves/
+/screenshots/
+/server-resource-packs/
+/shaderpacks/
+/XaeroWaypoints_BACKUP*/
+/regen_data/
+/xaero/
+
+# ==========================================
+# IGNORAR ARQUIVOS DE CLIENTE E EXECUTÁVEIS
+# ==========================================
+*.jar
+TLauncherAdditional.json
+usercache.json
+usernamecache.json
+rhino.local.properties
+*.zip
+*.7z
+*.rar
+
+# ==========================================
+# EXCEÇÕES (O que será salvo na nuvem)
+# ==========================================
+# As pastas config, kubejs, defaultconfigs, tacz, skilltree e patchouli_books
+# NÃO estão nesta lista, portanto o Git fará o backup delas automaticamente.

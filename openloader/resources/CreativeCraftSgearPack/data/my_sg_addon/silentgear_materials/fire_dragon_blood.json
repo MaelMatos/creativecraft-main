@@ -1,0 +1,65 @@
+{
+  "availability": {
+    "tier": 3,
+    "categories": [
+      "organic"
+    ],
+    "visible": true,
+    "gear_blacklist": [],
+    "can_salvage": true
+  },
+  "crafting_items": {
+    "main": {
+      "item": "iceandfire:fire_dragon_blood"
+    }
+  },
+  "name": {
+    "text": "fire dragon blood"
+  },
+  "stats": {
+    "coating": {
+      "armor": {
+        "add": 10
+      },
+      "magic_armor": {
+        "add": 10
+      },
+      "melee_damage": {
+        "add": 10
+      },
+      "ranged_damage": {
+        "add": 10
+      }
+    }
+  },
+  "traits": {
+    "tip": [
+      {
+        "name": "silentgear:fiery",
+        "level": 3
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      }
+    ],
+    "coating": [
+      {
+        "name": "silentgear:fiery",
+        "level": 5
+      },
+      {
+        "name": "silentgear:fireproof",
+        "level": 1
+      },
+      {
+        "name": "silentgear:ignite",
+        "level": 1
+      },
+      {
+        "name": "silentgear:flame_ward",
+        "level": 1
+      }
+    ]
+  }
+}
